@@ -1,6 +1,6 @@
 # Awesome Web Development with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,066 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,380 | 🐛 99 | 📅 2026-06-30
 ![](https://img.shields.io/badge/dependencies-zero-green)
 [![Last Commits](https://img.shields.io/github/last-commit/nepaul/awesome-web-components?logo=git\&logoColor=white)](https://github.com/nepaul/awesome-web-components/commits/master) ⭐ 197 | 🐛 8 | 📅 2025-03-22
 [![Pull Requests](https://img.shields.io/github/issues-pr/nepaul/awesome-web-components?logo=github\&logoColor=white)](https://github.com/nepaul/awesome-web-components/pulls) ⭐ 197 | 🐛 8 | 📅 2025-03-22
@@ -151,7 +151,7 @@ A collection of **awesome** web development resources.
 
 ## Some Reading List
 
-* ![](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=social) [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 364,271 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-07
+* ![](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=social) [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 364,357 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-13
 * ![](https://img.shields.io/github/stars/luruke/browser-2020?style=social) [browser-2020](https://github.com/luruke/browser-2020) ⭐ 7,974 | 🐛 11 | 📅 2021-10-28 - This repo contains a non-exhaustive list of less-known features implemented in browsers today.
 
   This list isn't intended for a technical audience; instead it wants to be a "I didn't know we could do that in a browser!" list.
@@ -160,13 +160,13 @@ A collection of **awesome** web development resources.
 
 ### Web Security
 
-* ![](https://img.shields.io/github/stars/OWASP/CheatSheetSeries?style=social) [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries) ⭐ 32,912 | 🐛 78 | 🌐 Python | 📅 2026-08-12: the official repository for the Open Web Application Security Project® (OWASP) Cheat Sheet Series project. The project focuses on providing good security practices for builders in order to secure their applications.
+* ![](https://img.shields.io/github/stars/OWASP/CheatSheetSeries?style=social) [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries) ⭐ 32,924 | 🐛 77 | 🌐 Python | 📅 2026-08-13: the official repository for the Open Web Application Security Project® (OWASP) Cheat Sheet Series project. The project focuses on providing good security practices for builders in order to secure their applications.
 
 In order to read the cheat sheets and reference them, use the project official website. The project details can be viewed on the OWASP main website without the cheat sheets.
 
 ### JavaScript
 
-* ![](https://img.shields.io/github/stars/denysdovhan/wtfjs?style=social) [What the f\*ck JavaScript? A list of funny and tricky JavaScript examples. JavaScript is a great language. It has a simple syntax, large ecosystem and, what is most important, a great community. At the same time, we all know that JavaScript is quite a funny language with tricky parts. Some of them can quickly turn our everyday job into hell, and some of them can make us laugh out loud.](https://github.com/denysdovhan/wtfjs) ⭐ 37,688 | 🐛 45 | 🌐 JavaScript | 📅 2026-07-03
+* ![](https://img.shields.io/github/stars/denysdovhan/wtfjs?style=social) [What the f\*ck JavaScript? A list of funny and tricky JavaScript examples. JavaScript is a great language. It has a simple syntax, large ecosystem and, what is most important, a great community. At the same time, we all know that JavaScript is quite a funny language with tricky parts. Some of them can quickly turn our everyday job into hell, and some of them can make us laugh out loud.](https://github.com/denysdovhan/wtfjs) ⭐ 37,687 | 🐛 45 | 🌐 JavaScript | 📅 2026-07-03
 * ![](https://img.shields.io/github/stars/thejsway/thejsway?style=social) [The JavaScript Way: A modern introduction to an essential language.](https://github.com/thejsway/thejsway) ⭐ 7,883 | 🐛 4 | 🌐 CSS | 📅 2025-01-30
 
 ### API
@@ -175,8 +175,8 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Framework
 
-* ![](https://img.shields.io/github/stars/sveltejs/svelte?style=social) [sveltejs: a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.](https://github.com/sveltejs/svelte) ⭐ 87,971 | 🐛 1,130 | 🌐 JavaScript | 📅 2026-08-12
-  * ![](https://img.shields.io/github/stars/sveltejs/kit?style=social)[sveltejs/kit](https://github.com/sveltejs/kit) ⭐ 20,739 | 🐛 868 | 🌐 JavaScript | 📅 2026-08-13 - The Fastest Way to Build Svelte Apps
+* ![](https://img.shields.io/github/stars/sveltejs/svelte?style=social) [sveltejs: a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.](https://github.com/sveltejs/svelte) ⭐ 87,976 | 🐛 1,130 | 🌐 JavaScript | 📅 2026-08-12
+  * ![](https://img.shields.io/github/stars/sveltejs/kit?style=social)[sveltejs/kit](https://github.com/sveltejs/kit) ⭐ 20,740 | 🐛 864 | 🌐 JavaScript | 📅 2026-08-13 - The Fastest Way to Build Svelte Apps
   * 💨 Blazing-Fast Production Sites
   * 🛠️ SSR, SPA, SSG, and In-Between
   * ⚡️ Instantly Visible Code Changes
@@ -191,7 +191,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
   Provides helpful defaults and conventions for things like routing, file structure, and authentication while also being extremely flexible.
 
-* ![](https://img.shields.io/github/stars/developit/mitt?style=social)[mitt](https://github.com/developit/mitt) ⭐ 11,900 | 🐛 27 | 🌐 TypeScript | 📅 2024-08-14 - Tiny 200b functional event emitter / pubsub.
+* ![](https://img.shields.io/github/stars/developit/mitt?style=social)[mitt](https://github.com/developit/mitt) ⭐ 11,899 | 🐛 27 | 🌐 TypeScript | 📅 2024-08-14 - Tiny 200b functional event emitter / pubsub.
   * Microscopic: weighs less than 200 bytes gzipped
   * Useful: a wildcard "\*" event type listens to all events
   * Familiar: same names & ideas as Node's EventEmitter
@@ -235,7 +235,7 @@ In order to read the cheat sheets and reference them, use the project official w
 * ![](https://img.shields.io/github/stars/codeAdrian/clay.css?style=social) 💗❤️[clay.css](https://github.com/codeAdrian/clay.css) ⭐ 573 | 🐛 2 | 🌐 SCSS | 📅 2022-11-23 - Micro CSS util class for applying inflated fluffy 3D claymorphism styles to elements. Fully customizable and extensible with CSS variables. SASS mixin is also included for even more styling options.
 
 * ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social) [tailwindcss: Rapidly build modern websites without ever leaving your HTML. A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.](https://tailwindcss.com/)
-  * ![](https://img.shields.io/github/stars/saadeghi/daisyui?style=social) [daisyui](https://github.com/saadeghi/daisyui) ⭐ 42,054 | 🐛 28 | 🌐 JavaScript | 📅 2026-08-11 - Tailwind CSS Components: Adds component classes like btn, card and more to Tailwind CSS
+  * ![](https://img.shields.io/github/stars/saadeghi/daisyui?style=social) [daisyui](https://github.com/saadeghi/daisyui) ⭐ 42,069 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-11 - Tailwind CSS Components: Adds component classes like btn, card and more to Tailwind CSS
 
 * ![](https://img.shields.io/github/stars/necolas/normalize.css?style=social) [Normalize.css - A modern, HTML5-ready alternative to CSS resets. Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.](http://necolas.github.io/normalize.css/)
 
@@ -249,19 +249,19 @@ In order to read the cheat sheets and reference them, use the project official w
 
 **CSS-in-JS:**
 
-* ![](https://img.shields.io/github/stars/emotion-js/emotion?style=social) [emotion - The Next Generation of CSS-in-JS](https://github.com/emotion-js/emotion) ⭐ 18,017 | 🐛 386 | 🌐 JavaScript | 📅 2026-05-06: Emotion is a performant and flexible CSS-in-JS library. Building on many other CSS-in-JS libraries, it allows you to style apps quickly with string or object styles. It has predictable composition to avoid specificity issues with CSS. With source maps and labels, Emotion has a great developer experience and great performance with heavy caching in production.
+* ![](https://img.shields.io/github/stars/emotion-js/emotion?style=social) [emotion - The Next Generation of CSS-in-JS](https://github.com/emotion-js/emotion) ⭐ 18,018 | 🐛 386 | 🌐 JavaScript | 📅 2026-05-06: Emotion is a performant and flexible CSS-in-JS library. Building on many other CSS-in-JS libraries, it allows you to style apps quickly with string or object styles. It has predictable composition to avoid specificity issues with CSS. With source maps and labels, Emotion has a great developer experience and great performance with heavy caching in production.
 
 ### JavaScript
 
-* ![](https://img.shields.io/github/stars/vueuse/vueuse?style=social) [vueuse](https://github.com/vueuse/vueuse) ⭐ 22,323 | 🐛 354 | 🌐 TypeScript | 📅 2026-08-13 - Collection of essential Vue Composition Utilities.
+* ![](https://img.shields.io/github/stars/vueuse/vueuse?style=social) [vueuse](https://github.com/vueuse/vueuse) ⭐ 22,321 | 🐛 359 | 🌐 TypeScript | 📅 2026-08-13 - Collection of essential Vue Composition Utilities.
 * ![](https://img.shields.io/github/stars/nenadmarkus/picojs?style=social)[pico.js & lploc.js](https://github.com/nenadmarkus/picojs) ⭐ 6,294 | 🐛 29 | 🌐 JavaScript | 📅 2022-08-25
   * pico.js: A face-detection library in 200 lines of JavaScript. approximately 200 lines of pure JavaScript;real-time detection demo available at <https://nenadmarkus.com/p/picojs-intro/demo/>
   * lploc.js: A tiny JavaScript library for real-time localization of eye pupils.
-* ![](https://img.shields.io/github/stars/rayepps/radash?style=social) [radash](https://github.com/rayepps/radash) ⭐ 4,838 | 🐛 129 | 🌐 TypeScript | 📅 2025-06-18 - unctional utility library - modern, simple, typed, powerful
+* ![](https://img.shields.io/github/stars/rayepps/radash?style=social) [radash](https://github.com/rayepps/radash) ⭐ 4,839 | 🐛 129 | 🌐 TypeScript | 📅 2025-06-18 - unctional utility library - modern, simple, typed, powerful
 * [createjs: A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.](https://createjs.com/)
   * ![](https://img.shields.io/github/stars/CreateJS/EaselJS?style=social)[EaselJS: The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.](https://github.com/CreateJS/EaselJS) ⭐ 8,162 | 🐛 221 | 🌐 JavaScript | 📅 2026-01-24
   * ![](https://img.shields.io/github/stars/CreateJS/SoundJS?style=social) [SoundJS: A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneGap, and a Flash fallback.](https://github.com/CreateJS/SoundJS) ⭐ 4,580 | 🐛 95 | 🌐 JavaScript | 📅 2021-03-27
-  * ![](https://img.shields.io/github/stars/CreateJS/TweenJS?style=social)[TweenJS: A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.](https://github.com/CreateJS/TweenJS) ⭐ 3,547 | 🐛 12 | 🌐 JavaScript | 📅 2023-12-18
+  * ![](https://img.shields.io/github/stars/CreateJS/TweenJS?style=social)[TweenJS: A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.](https://github.com/CreateJS/TweenJS) ⭐ 3,546 | 🐛 12 | 🌐 JavaScript | 📅 2023-12-18
   * ![](https://img.shields.io/github/stars/CreateJS/PreloadJS?style=social)[PreloadJS: PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.](https://github.com/CreateJS/PreloadJS) ⭐ 2,870 | 🐛 66 | 🌐 JavaScript | 📅 2023-07-24
 
 ## Designer
@@ -270,7 +270,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Machine Learning & AI
 
-* <img src="https://img.shields.io/github/stars/cube-js/cube.js?style=social" height="16"> [cube.js: Cube.js is an open-source analytical API platform. It is primarily used to build internal business intelligence tools or add customer-facing analytics to existing applications.](https://github.com/cube-js/cube.js) ⭐ 20,609 | 🐛 1,091 | 🌐 Rust | 📅 2026-08-13
+* <img src="https://img.shields.io/github/stars/cube-js/cube.js?style=social" height="16"> [cube.js: Cube.js is an open-source analytical API platform. It is primarily used to build internal business intelligence tools or add customer-facing analytics to existing applications.](https://github.com/cube-js/cube.js) ⭐ 20,623 | 🐛 1,095 | 🌐 Rust | 📅 2026-08-13
 
   Cube.js was designed to work with Serverless Query Engines like AWS Athena and Google BigQuery. Multi-stage querying approach makes it suitable for handling trillions of data points. Most modern RDBMS work with Cube.js as well and can be tuned for adequate performance.
 
@@ -279,21 +279,21 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Chart & Data Visualization
 
-* 👍[mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,718 | 🐛 1,698 | 🌐 TypeScript | 📅 2026-08-12 - Mermaid lets you create diagrams and visualizations using text and code.
+* 👍[mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,745 | 🐛 1,699 | 🌐 TypeScript | 📅 2026-08-13 - Mermaid lets you create diagrams and visualizations using text and code.
   It is a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
   ![](https://mermaid-js.github.io/mermaid/img/header.png)
-* <img src="https://img.shields.io/github/stars/ecomfe/echarts?style=social" height="16">[**echarts** - An easy of adding intuitive, interactive, and highly customizable charts](https://github.com/ecomfe/echarts) ⭐ 67,059 | 🐛 1,560 | 🌐 TypeScript | 📅 2026-08-04
-* <img src="https://img.shields.io/github/stars/pshihn/rough?style=social" height="16">😋 [rough: Create graphics with a hand-drawn, sketchy, appearance](https://github.com/pshihn/rough) ⭐ 21,126 | 🐛 42 | 🌐 HTML | 📅 2024-07-28
-* <img src="https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social" height="16"> [mapbox-gl-js: Mapbox GL JS is a JavaScript library for interactive, customizable vector maps on the web. It takes map styles that conform to the Mapbox Style Specification, applies them to vector tiles that conform to the Mapbox Vector Tile Specification, and renders them using WebGL.Mapbox GL JS is part of the cross-platform Mapbox GL ecosystem, which also includes compatible native SDKs for applications on Android, iOS, macOS, Qt, and React Native. Mapbox provides building blocks to add location features like maps, search, and navigation into any experience you create. To get started with GL JS or any of our other building blocks, sign up for a Mapbox account.](https://github.com/mapbox/mapbox-gl-js) ⭐ 12,373 | 🐛 1,453 | 🌐 TypeScript | 📅 2026-08-12
+* <img src="https://img.shields.io/github/stars/ecomfe/echarts?style=social" height="16">[**echarts** - An easy of adding intuitive, interactive, and highly customizable charts](https://github.com/ecomfe/echarts) ⭐ 67,066 | 🐛 1,556 | 🌐 TypeScript | 📅 2026-08-04
+* <img src="https://img.shields.io/github/stars/pshihn/rough?style=social" height="16">😋 [rough: Create graphics with a hand-drawn, sketchy, appearance](https://github.com/pshihn/rough) ⭐ 21,128 | 🐛 42 | 🌐 HTML | 📅 2024-07-28
+* <img src="https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social" height="16"> [mapbox-gl-js: Mapbox GL JS is a JavaScript library for interactive, customizable vector maps on the web. It takes map styles that conform to the Mapbox Style Specification, applies them to vector tiles that conform to the Mapbox Vector Tile Specification, and renders them using WebGL.Mapbox GL JS is part of the cross-platform Mapbox GL ecosystem, which also includes compatible native SDKs for applications on Android, iOS, macOS, Qt, and React Native. Mapbox provides building blocks to add location features like maps, search, and navigation into any experience you create. To get started with GL JS or any of our other building blocks, sign up for a Mapbox account.](https://github.com/mapbox/mapbox-gl-js) ⭐ 12,372 | 🐛 1,454 | 🌐 TypeScript | 📅 2026-08-13
 * <img src="https://img.shields.io/github/stars/adrai/flowchart.js?style=social" height="16">[flowchartjs: Draws simple SVG flow chart diagrams from textual representation of the diagram](https://github.com/adrai/flowchart.js) ⭐ 8,697 | 🐛 104 | 🌐 JavaScript | 📅 2026-01-15
-* <img src="https://img.shields.io/github/stars/riccardoscalco/textures?style=social" height="16"> [textures.js: Textures.js is a JavaScript library for creating SVG patterns. Made on top of d3.js, it is designed for data visualization.](https://github.com/riccardoscalco/textures) ⭐ 6,090 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-01
+* <img src="https://img.shields.io/github/stars/riccardoscalco/textures?style=social" height="16"> [textures.js: Textures.js is a JavaScript library for creating SVG patterns. Made on top of d3.js, it is designed for data visualization.](https://github.com/riccardoscalco/textures) ⭐ 6,091 | 🐛 21 | 🌐 JavaScript | 📅 2023-01-01
 * <img src="https://img.shields.io/github/stars/revolist/revogrid?style=social" height="16">[revogrid: Powerful data grid component built with StencilJS. Support Millions of cells and thousands columns easy and efficiently for fast data rendering. Easy to use.](https://github.com/revolist/revogrid) ⭐ 3,434 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-10
 * [antv: AntV 是蚂蚁金服全新一代数据可视化解决方案，致力于提供一套简单
   方便、专业可靠、无限可能的数据可视化最佳实践。G2 G6 F2 L7...](https://antv.alipay.com/zh-cn/index.html)
 * <img src="https://img.shields.io/github/stars/highcharts/highcharts?style=social" height="16">[**Highcharts** - Interactive JavaScript charts for your web pages](http://www.highcharts.com/)
 * <img src="https://img.shields.io/github/stars/gionkunz/chartist-js?style=social" height="16">[**chartist-js** - Simple responsive charts](https://gionkunz.github.io/chartist-js/)
 * <img src="https://img.shields.io/github/stars/d3/d3?style=social" height="16">[**D3.js** - A JavaScript library for manipulating documents based on data using HTML, SVG and CSS](https://d3js.org/)
-  * <img src="https://img.shields.io/github/stars/spiermar/d3-flame-graph?style=social" height="16">[d3-flame-graph: A D3.js plugin that produces flame graphs from hierarchical data.](https://github.com/spiermar/d3-flame-graph) ⭐ 978 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-04
+  * <img src="https://img.shields.io/github/stars/spiermar/d3-flame-graph?style=social" height="16">[d3-flame-graph: A D3.js plugin that produces flame graphs from hierarchical data.](https://github.com/spiermar/d3-flame-graph) ⭐ 979 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-04
   * <img src="https://img.shields.io/github/stars/novus/nvd3?style=social" height="16">**[NVD3 - Re-usable charts for d3.js](http://nvd3.org/)**
   * <img src="https://img.shields.io/github/stars/c3js/c3?style=social" height="16">[**c3.js** - D3-based reusable chart library](http://c3js.org/)
   * [**plotly.js** - A high-level, declarative charting library whitch is build on top of d3.js and stack.gl](https://plot.ly/javascript/)
@@ -307,7 +307,7 @@ In order to read the cheat sheets and reference them, use the project official w
 ### Upload
 
 * [**jQuery File Upload Plugin**](https://github.com/blueimp/jQuery-File-Upload) ⚠️ Archived
-* <img src="https://img.shields.io/github/stars/react-dropzone/react-dropzone?style=social" height="16"> [react-dropzone](https://github.com/react-dropzone/react-dropzone) ⭐ 11,014 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-09 - Simple React hook to create a HTML5-compliant drag'n'drop zone for files.
+* <img src="https://img.shields.io/github/stars/react-dropzone/react-dropzone?style=social" height="16"> [react-dropzone](https://github.com/react-dropzone/react-dropzone) ⭐ 11,013 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-09 - Simple React hook to create a HTML5-compliant drag'n'drop zone for files.
 * [Web Uploader - 一个以 HTML5 为主 FLASH 为辅, 各种老旧浏览器兼容性好(IE6+ Andorid 4+ IOS 6+)](https://github.com/fex-team/webuploader) ⚠️ Archived
 * [**dropzonejs** - an open source library that provides drag’n’drop file uploads with image previews](http://www.dropzonejs.com/)
 
@@ -317,16 +317,16 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Loader
 
-* [👍👍 nprogress - For slim progress bars like on YouTube, Medium](https://github.com/rstacruz/nprogress/) ⭐ 26,385 | 🐛 132 | 🌐 JavaScript | 📅 2022-06-04
-* [SpinKit: A collection of loading indicators animated with CSS](https://github.com/tobiasahlin/SpinKit) ⭐ 19,336 | 🐛 11 | 🌐 CSS | 📅 2020-08-01 ![](https://img.shields.io/github/stars/tobiasahlin/SpinKit?style=social)
-* [**Single Element CSS Spinners** - Each spinner consists of a single `div` with a class of `loader` and content text of "Loading...". The text is for screen readers and can be used as a fallback state for older browsers](https://github.com/lukehaas/css-loaders) ⭐ 7,056 | 🐛 21 | 🌐 CSS | 📅 2025-02-21
+* [👍👍 nprogress - For slim progress bars like on YouTube, Medium](https://github.com/rstacruz/nprogress/) ⭐ 26,384 | 🐛 132 | 🌐 JavaScript | 📅 2022-06-04
+* [SpinKit: A collection of loading indicators animated with CSS](https://github.com/tobiasahlin/SpinKit) ⭐ 19,335 | 🐛 11 | 🌐 CSS | 📅 2020-08-01 ![](https://img.shields.io/github/stars/tobiasahlin/SpinKit?style=social)
+* [**Single Element CSS Spinners** - Each spinner consists of a single `div` with a class of `loader` and content text of "Loading...". The text is for screen readers and can be used as a fallback state for older browsers](https://github.com/lukehaas/css-loaders) ⭐ 7,054 | 🐛 21 | 🌐 CSS | 📅 2025-02-21
 * [**css loader** - Simple loaders for your web applications using only one div and pure CSS](http://www.raphaelfabeni.com.br/css-loader/)
 * <https://loading.io/>
 
 ## Icon
 
 * [**featcher** - a collection of **simply beautiful open source icons**. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability](https://github.com/colebemis/feather) ⭐ 25,975 | 🐛 511 | 🌐 JavaScript | 📅 2025-03-11
-* [**Titanic** - A collection of animated icons + javascript library.](https://github.com/icons8/titanic) ⭐ 2,431 | 🐛 9 | 🌐 JavaScript | 📅 2026-06-30
+* [**Titanic** - A collection of animated icons + javascript library.](https://github.com/icons8/titanic) ⭐ 2,430 | 🐛 9 | 🌐 JavaScript | 📅 2026-06-30
 * [icones.js](https://icones.js.org/)
 * [iconify: Unified icons framework. One library, over 100,000 vector icons. Modern replacement for icon fonts. Fast, easy to use.](https://github.com/iconify)
 * [**Font Awesome** - The iconic font and CSS toolkit](http://fontawesome.io/)
@@ -335,31 +335,31 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Notification
 
-* [sonner](https://github.com/emilkowalski/sonner) ⭐ 12,833 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-10 is an opinionated toast component for React..
-* [**toastr** - A Javascript library fo non-blocking notifications](https://github.com/CodeSeven/toastr) ⭐ 12,105 | 🐛 155 | 🌐 JavaScript | 📅 2023-02-27
+* [sonner](https://github.com/emilkowalski/sonner) ⭐ 12,838 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-10 is an opinionated toast component for React..
+* [**toastr** - A Javascript library fo non-blocking notifications](https://github.com/CodeSeven/toastr) ⭐ 12,106 | 🐛 154 | 🌐 JavaScript | 📅 2023-02-27
 * [Angular Toastr](https://github.com/Foxandxss/angular-toastr) ⭐ 1,276 | 🐛 59 | 🌐 JavaScript | 📅 2018-10-10
 
 ## Alert
 
-* [**sweetalert** - A beautiful replacement for JavaScript's "alert"](https://github.com/t4t5/sweetalert) ⭐ 22,265 | 🐛 199 | 🌐 TypeScript | 📅 2023-04-15
+* [**sweetalert** - A beautiful replacement for JavaScript's "alert"](https://github.com/t4t5/sweetalert) ⭐ 22,263 | 🐛 199 | 🌐 TypeScript | 📅 2023-04-15
 
 ## Authentication
 
-* [**satellizer** - A token-based AngularJS Authentication](https://github.com/sahat/satellizer) ⭐ 7,795 | 🐛 289 | 🌐 TypeScript | 📅 2023-12-17
+* [**satellizer** - A token-based AngularJS Authentication](https://github.com/sahat/satellizer) ⭐ 7,796 | 🐛 289 | 🌐 TypeScript | 📅 2023-12-17
 
 ## Animations
 
 * [**animate.css** - A cross-browser library of CSS animations. As easy to use as an easy thing](https://github.com/daneden/animate.css) ⭐ 82,743 | 🐛 79 | 🌐 CSS | 📅 2024-07-29
 
-* ![](https://img.shields.io/github/stars/juliangarnier/anime?style=social) [💗 💗 anime.js - JavaScript Animation Engine](https://github.com/juliangarnier/anime) ⭐ 72,110 | 🐛 114 | 🌐 JavaScript | 📅 2026-08-09
+* ![](https://img.shields.io/github/stars/juliangarnier/anime?style=social) [💗 💗 anime.js - JavaScript Animation Engine](https://github.com/juliangarnier/anime) ⭐ 72,130 | 🐛 114 | 🌐 JavaScript | 📅 2026-08-09
 
-* [❗️ lottie for web: Render After Effects animations natively on Web, Android and iOS, and React Native](https://github.com/airbnb/lottie-web) ⭐ 32,045 | 🐛 856 | 🌐 JavaScript | 📅 2025-09-01
+* [❗️ lottie for web: Render After Effects animations natively on Web, Android and iOS, and React Native](https://github.com/airbnb/lottie-web) ⭐ 32,048 | 🐛 856 | 🌐 JavaScript | 📅 2025-09-01
 
-* ![](https://img.shields.io/github/stars/IanLunn/Hover?style=social) [**Hover.css** - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.](https://github.com/IanLunn/Hover/) ⭐ 29,397 | 🐛 42 | 🌐 SCSS | 📅 2023-10-28
+* ![](https://img.shields.io/github/stars/IanLunn/Hover?style=social) [**Hover.css** - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.](https://github.com/IanLunn/Hover/) ⭐ 29,395 | 🐛 42 | 🌐 SCSS | 📅 2023-10-28
 
-* ![](https://img.shields.io/github/stars/chenglou/react-motion?style=social)[React-Motion: A spring that solves your animation problems.](https://github.com/chenglou/react-motion) ⭐ 21,913 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05
+* ![](https://img.shields.io/github/stars/chenglou/react-motion?style=social)[React-Motion: A spring that solves your animation problems.](https://github.com/chenglou/react-motion) ⭐ 21,914 | 🐛 192 | 🌐 JavaScript | 📅 2024-01-05
 
-* ![](https://img.shields.io/github/stars/theatre-js/theatre?style=social) [theatre](https://github.com/theatre-js/theatre) ⭐ 12,597 | 🐛 140 | 🌐 TypeScript | 📅 2024-08-14 - heatre.js is an animation library for high-fidelity motion graphics. It is designed to help you express detailed animation, enabling you to create intricate movement, and convey nuance.
+* ![](https://img.shields.io/github/stars/theatre-js/theatre?style=social) [theatre](https://github.com/theatre-js/theatre) ⭐ 12,601 | 🐛 140 | 🌐 TypeScript | 📅 2024-08-14 - heatre.js is an animation library for high-fidelity motion graphics. It is designed to help you express detailed animation, enabling you to create intricate movement, and convey nuance.
 
   Theatre can be used both programmatically and visually.You can use Theatre.js to:
 
@@ -380,7 +380,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 * ![](https://img.shields.io/github/stars/HubSpot/odometer?style=social) [**Odometer** - a Javascript and CSS library for smoothly transitioning numbers](https://github.com/HubSpot/odometer) ⚠️ Archived
 
-* ![](https://img.shields.io/github/stars/lukehaas/css-loaders?style=social) [**css-loaders** - A collection of loading spinners animated with CSS](https://github.com/lukehaas/css-loaders) ⭐ 7,056 | 🐛 21 | 🌐 CSS | 📅 2025-02-21
+* ![](https://img.shields.io/github/stars/lukehaas/css-loaders?style=social) [**css-loaders** - A collection of loading spinners animated with CSS](https://github.com/lukehaas/css-loaders) ⭐ 7,054 | 🐛 21 | 🌐 CSS | 📅 2025-02-21
 
 * ![](https://img.shields.io/github/stars/tholman/elevator.js?style=social)[elevator.js: Finally, a **"back to top"** button that behaves like a real elevator, by adding elevator music to quietly soothe the awkwardness that can ensue when being smoothly scrolled to the top of the screen.](https://github.com/tholman/elevator.js) ⭐ 6,640 | 🐛 19 | 🌐 JavaScript | 📅 2020-06-26
 
@@ -398,8 +398,8 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Images
 
-* [**PhotoSwipe** - JavaScript image gallery for mobile and desktop](https://github.com/dimsemenov/photoswipe) ⭐ 25,240 | 🐛 169 | 🌐 JavaScript | 📅 2025-12-04
-* [mo · js is a javascript motion graphics library that is a fast, retina ready, modular and open source. In comparison to other libraries, it have a different syntax and code animation structure approach. The declarative API provides you a complete control over the animation, making it customizable with ease. The library provides built-in components to start animating from scratch like html, shape, swirl, burst and stagger, but also bring you tools to help craft your animation in a most natural way. Using mojs on your site will enhance the user experience, enrich your content visually and create delightful animations precisely.](https://github.com/mojs/mojs) ⭐ 18,752 | 🐛 37 | 🌐 CoffeeScript | 📅 2026-07-30
+* [**PhotoSwipe** - JavaScript image gallery for mobile and desktop](https://github.com/dimsemenov/photoswipe) ⭐ 25,238 | 🐛 169 | 🌐 JavaScript | 📅 2025-12-04
+* [mo · js is a javascript motion graphics library that is a fast, retina ready, modular and open source. In comparison to other libraries, it have a different syntax and code animation structure approach. The declarative API provides you a complete control over the animation, making it customizable with ease. The library provides built-in components to start animating from scratch like html, shape, swirl, burst and stagger, but also bring you tools to help craft your animation in a most natural way. Using mojs on your site will enhance the user experience, enrich your content visually and create delightful animations precisely.](https://github.com/mojs/mojs) ⭐ 18,754 | 🐛 37 | 🌐 CoffeeScript | 📅 2026-07-30
 * [watermarkjs: Watermarking for the browser](https://github.com/brianium/watermarkjs) ⚠️ Archived
 * [**fancyBox** - A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages](http://fancyapps.com/fancybox/)
 * [**Anime.js** (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API.It works with CSS properties, SVG, DOM attributes and JavaScript Objects.](https://animejs.com/)
@@ -416,7 +416,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ### Sprite
 
-* [sprintf-js is a complete open source JavaScript sprintf implementation for the browser and Node.js.](https://github.com/alexei/sprintf.js) ⭐ 2,140 | 🐛 63 | 🌐 JavaScript | 📅 2024-04-05
+* [sprintf-js is a complete open source JavaScript sprintf implementation for the browser and Node.js.](https://github.com/alexei/sprintf.js) ⭐ 2,139 | 🐛 63 | 🌐 JavaScript | 📅 2024-04-05
 
 ### Compression
 
@@ -425,8 +425,8 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ### Lazyload
 
-* [jquery\_lazyload: Vanilla JavaScript plugin for lazyloading images](https://github.com/tuupola/jquery_lazyload) ⭐ 8,713 | 🐛 109 | 🌐 JavaScript | 📅 2023-12-05
-* [verlok/lazyload: LazyLoad is a fast, lightweight and flexible script that speeds up your web application by loading images as they enter the viewport. It's written in plain "vanilla" JavaScript, uses IntersectionObserver, and supports responsive images. It's also SEO-friendly and it has some other notable features.](https://github.com/verlok/lazyload) ⭐ 7,855 | 🐛 13 | 🌐 JavaScript | 📅 2026-06-22
+* [jquery\_lazyload: Vanilla JavaScript plugin for lazyloading images](https://github.com/tuupola/jquery_lazyload) ⭐ 8,712 | 🐛 109 | 🌐 JavaScript | 📅 2023-12-05
+* [verlok/lazyload: LazyLoad is a fast, lightweight and flexible script that speeds up your web application by loading images as they enter the viewport. It's written in plain "vanilla" JavaScript, uses IntersectionObserver, and supports responsive images. It's also SEO-friendly and it has some other notable features.](https://github.com/verlok/lazyload) ⭐ 7,856 | 🐛 13 | 🌐 JavaScript | 📅 2026-06-22
 
 ### Filters
 
@@ -438,7 +438,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ### Static Code Checking(Lint)
 
-* ![](https://img.shields.io/github/stars/conventional-changelog/commitlint?style=social) [commitlint](https://github.com/conventional-changelog/commitlint) ⭐ 18,689 | 🐛 90 | 🌐 TypeScript | 📅 2026-08-12 - Lint commit messages:
+* ![](https://img.shields.io/github/stars/conventional-changelog/commitlint?style=social) [commitlint](https://github.com/conventional-changelog/commitlint) ⭐ 18,692 | 🐛 90 | 🌐 TypeScript | 📅 2026-08-13 - Lint commit messages:
 
   🚓 Be a good commitizen
 
@@ -448,8 +448,8 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Font
 
-* ![](https://img.shields.io/github/stars/lxgw/LxgwWenKai?style=social) [LXGW WenKai / 霞鹜文楷](https://github.com/lxgw/LxgwWenKai) ⭐ 25,478 | 🐛 4 | 🌐 Shell | 📅 2026-07-30: An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。
-* ![](https://img.shields.io/github/stars/wordshub/free-font?style=social)  [free-font](https://github.com/wordshub/free-font) ⭐ 6,413 | 🐛 18 | 🌐 JavaScript | 📅 2025-02-27:  汉字字体制作是一个庞大的工程，不同于西文字库，汉字常用字库表就有 6763 个汉字，GBK标准中共有20902 个汉字，而新出版的 GB\_18064，共有六万多个字符。而且汉字的字形相对较为复杂，一套中文字体的完成需要耗费大量专业人士的精力和时间，我们倡导大家使用正版字体，为中文字体的制作创造一个良性的环境。
+* ![](https://img.shields.io/github/stars/lxgw/LxgwWenKai?style=social) [LXGW WenKai / 霞鹜文楷](https://github.com/lxgw/LxgwWenKai) ⭐ 25,489 | 🐛 4 | 🌐 Shell | 📅 2026-08-13: An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。
+* ![](https://img.shields.io/github/stars/wordshub/free-font?style=social)  [free-font](https://github.com/wordshub/free-font) ⭐ 6,411 | 🐛 18 | 🌐 JavaScript | 📅 2025-02-27:  汉字字体制作是一个庞大的工程，不同于西文字库，汉字常用字库表就有 6763 个汉字，GBK标准中共有20902 个汉字，而新出版的 GB\_18064，共有六万多个字符。而且汉字的字形相对较为复杂，一套中文字体的完成需要耗费大量专业人士的精力和时间，我们倡导大家使用正版字体，为中文字体的制作创造一个良性的环境。
 
   然而目前国内字体的授权体系还不是那么完善，不同的厂商对不同的使用场景都不同的授权，而授权协议里不那么好理解的专业术语往往也使用户望而却步。对于哪些刚起步的创业公司或者个人来讲动辄几千的授权费用也是一笔不小的开支，这里收录了一些在网上收集整理的可以免费商用的中文字体供大家使用。
 * ![](https://img.shields.io/github/stars/ACh-K/Cubic-11?style=social) [俐方體11號／Cubic 11](https://github.com/ACh-K/Cubic-11) ⭐ 1,707 | 🐛 3 | 📅 2026-06-27 - 俐方體11號是基於 M⁺ gothic 12r 衍生的開源繁體中文點陣字型，可用於像素風格的遊戲以及美術當中。
@@ -472,34 +472,34 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## UI Kits
 
-* [**Semantic-UI** - A UI component framework based around useful principles from natural language.](https://github.com/semantic-org/semantic-ui/) ⭐ 51,026 | 🐛 1,070 | 🌐 JavaScript | 📅 2024-11-27
-* [**Primer CSS** - Primer is the CSS toolkit that powers GitHub's front-end design. It's purposefully limited to common components to provide our developers with the most flexibility, and to keep GitHub uniquely *GitHubby*. It's built with SCSS and available via NPM, so it's easy to include all or part of it within your own project](https://github.com/primer/primer-css) ⭐ 13,000 | 🐛 5 | 🌐 SCSS | 📅 2026-08-11
+* [**Semantic-UI** - A UI component framework based around useful principles from natural language.](https://github.com/semantic-org/semantic-ui/) ⭐ 51,025 | 🐛 1,070 | 🌐 JavaScript | 📅 2024-11-27
+* [**Primer CSS** - Primer is the CSS toolkit that powers GitHub's front-end design. It's purposefully limited to common components to provide our developers with the most flexibility, and to keep GitHub uniquely *GitHubby*. It's built with SCSS and available via NPM, so it's easy to include all or part of it within your own project](https://github.com/primer/primer-css) ⭐ 13,001 | 🐛 5 | 🌐 SCSS | 📅 2026-08-11
 * [**Bootstrap** - May be the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web](http://getbootstrap.com/)
-  * [**gentelella - An awesome !! Free Bootstrap 3 Admin Template**](https://github.com/puikinsh/gentelella) ⭐ 21,470 | 🐛 0 | 🌐 HTML | 📅 2026-08-07
+  * [**gentelella - An awesome !! Free Bootstrap 3 Admin Template**](https://github.com/puikinsh/gentelella) ⭐ 21,473 | 🐛 0 | 🌐 HTML | 📅 2026-08-07
   * [**Flat-UI** - Based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites](https://github.com/designmodo/Flat-UI) ⭐ 15,237 | 🐛 11 | 🌐 JavaScript | 📅 2025-07-08
 * [**Material Design**](https://material.google.com/)
-  * [**material-ui** - React Components that Implement Google's Material Design](https://github.com/callemall/material-ui) ⭐ 98,754 | 🐛 1,487 | 🌐 JavaScript | 📅 2026-08-12
-  * [**material-design-lite** - Material Design Components in HTML/CSS/JS](https://github.com/google/material-design-lite) ⭐ 32,189 | 🐛 431 | 🌐 HTML | 📅 2026-05-03
+  * [**material-ui** - React Components that Implement Google's Material Design](https://github.com/callemall/material-ui) ⭐ 98,755 | 🐛 1,491 | 🌐 JavaScript | 📅 2026-08-13
+  * [**material-design-lite** - Material Design Components in HTML/CSS/JS](https://github.com/google/material-design-lite) ⭐ 32,188 | 🐛 431 | 🌐 HTML | 📅 2026-05-03
   * [**Materialize** - A modern responsive front-end framework based on Material Design](http://materializecss.com/)
 * [**bootstrap-material-design** - Material Design for Bootstrap is a theme for Bootstrap 3 which lets you use the new \[Google Material Design\]in your favorite front-end framework](https://mdbootstrap.com/)
 * [**bulma** A **modern** CSS framework based on **Flexbox**](http://bulma.io/)
 
 ### Vue
 
-* [element-plus: Vue 3.0 Composition API; Written in TypeScript](https://github.com/element-plus/element-plus) ⭐ 27,674 | 🐛 1,196 | 🌐 TypeScript | 📅 2026-08-13 <img src="https://img.shields.io/github/stars/element-plus/element-plus?style=social" height="16">
+* [element-plus: Vue 3.0 Composition API; Written in TypeScript](https://github.com/element-plus/element-plus) ⭐ 27,673 | 🐛 1,201 | 🌐 TypeScript | 📅 2026-08-13 <img src="https://img.shields.io/github/stars/element-plus/element-plus?style=social" height="16">
 * [vux: Mobile UI Components based on Vue & WeUI](https://github.com/airyland/vux) ⭐ 17,464 | 🐛 405 | 🌐 Vue | 📅 2026-07-17
-* [mint-ui: Mobile UI elements for Vue.js by Eleme](https://github.com/ElemeFE/mint-ui) ⭐ 16,439 | 🐛 291 | 🌐 Vue | 📅 2022-02-28
-* [buefy: Lightweight UI components for Vue.js based on Bulma](https://github.com/buefy/buefy) ⭐ 9,522 | 🐛 68 | 🌐 Vue | 📅 2026-08-11
-* [NutUI 2(JingDong): A light mobile Toolkit based on Vue](https://github.com/jdf2e/nutui) ⭐ 6,507 | 🐛 190 | 🌐 Vue | 📅 2026-04-02
+* [mint-ui: Mobile UI elements for Vue.js by Eleme](https://github.com/ElemeFE/mint-ui) ⭐ 16,438 | 🐛 291 | 🌐 Vue | 📅 2022-02-28
+* [buefy: Lightweight UI components for Vue.js based on Bulma](https://github.com/buefy/buefy) ⭐ 9,521 | 🐛 69 | 🌐 Vue | 📅 2026-08-11
+* [NutUI 2(JingDong): A light mobile Toolkit based on Vue](https://github.com/jdf2e/nutui) ⭐ 6,506 | 🐛 190 | 🌐 Vue | 📅 2026-04-02
 * [vuesax: New Framework Components for Vue.js 2](https://github.com/lusaxweb/vuesax) ⭐ 5,587 | 🐛 388 | 🌐 Vue | 📅 2024-08-03
 * [AT-UI: A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0](https://github.com/at-ui/at-ui) ⭐ 2,318 | 🐛 89 | 🌐 Vue | 📅 2023-01-12
 * [Muse-UI: Material Design UI library for Vuejs 2.0](https://muse-ui.org)
 
 ### React
 
-* ![](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social) [chakra-ui](https://github.com/chakra-ui/chakra-ui) ⭐ 40,573 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-11: Chakra UI provides a set of accessible, reusable, and composable React components that make it super easy to create websites and apps.
+* ![](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social) [chakra-ui](https://github.com/chakra-ui/chakra-ui) ⭐ 40,574 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-11: Chakra UI provides a set of accessible, reusable, and composable React components that make it super easy to create websites and apps.
 * ![](https://img.shields.io/github/stars/OfficeDev/office-ui-fabric-react?style=social) [office-ui-fabric-react: React components for building experiences for Office and Office 365.](https://github.com/OfficeDev/office-ui-fabric-react) ⭐ 20,208 | 🐛 747 | 🌐 TypeScript | 📅 2026-08-13
-* ![](https://img.shields.io/github/stars/segmentio/evergreen?style=social) [evergreen: Evergreen React UI Framework by Segment](https://github.com/segmentio/evergreen) ⭐ 12,426 | 🐛 81 | 🌐 JavaScript | 📅 2026-06-25
+* ![](https://img.shields.io/github/stars/segmentio/evergreen?style=social) [evergreen: Evergreen React UI Framework by Segment](https://github.com/segmentio/evergreen) ⭐ 12,425 | 🐛 81 | 🌐 JavaScript | 📅 2026-06-25
 
 ### Out-of-box UI solution
 
@@ -512,7 +512,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ### Others
 
-* [SUI Mobile 是阿里巴巴国际 UED 前端团队出品的移动端 UI 库](https://github.com/sdc-alibaba/SUI-Mobile) ⭐ 6,054 | 🐛 636 | 🌐 JavaScript | 📅 2026-03-04
+* [SUI Mobile 是阿里巴巴国际 UED 前端团队出品的移动端 UI 库](https://github.com/sdc-alibaba/SUI-Mobile) ⭐ 6,052 | 🐛 636 | 🌐 JavaScript | 📅 2026-03-04
 
 ## Input
 
@@ -521,7 +521,7 @@ In order to read the cheat sheets and reference them, use the project official w
 ## Modal
 
 * [**animatedModal.js** :strong:Beautiful! - A jQuery plugin to create a fullscreen modal with CSS3 transitions](http://joaopereirawd.github.io/animatedModal.js/)
-* [**vex** - A modern dialog library which is highly configurable and easy to style](https://github.com/hubspot/vex) ⭐ 6,876 | 🐛 54 | 🌐 CSS | 📅 2023-02-26
+* [**vex** - A modern dialog library which is highly configurable and easy to style](https://github.com/hubspot/vex) ⭐ 6,874 | 🐛 54 | 🌐 CSS | 📅 2023-02-26
 
 ## Popper
 
@@ -532,15 +532,15 @@ In order to read the cheat sheets and reference them, use the project official w
 
 * [✨🌟 react-beautiful-dnd: Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd) ⚠️ Archived
 
-* [Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Knockout and any CSS library, e.g. Bootstrap.](https://github.com/SortableJS/Sortable) ⭐ 31,167 | 🐛 524 | 🌐 JavaScript | 📅 2026-03-24
+* [Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Knockout and any CSS library, e.g. Bootstrap.](https://github.com/SortableJS/Sortable) ⭐ 31,165 | 🐛 524 | 🌐 JavaScript | 📅 2026-03-24
 
-* [**Dragula** - Browser support includes every sane browser and **IE7+**. Framework support includes vanilla JavaScript, Angular, and React](https://github.com/bevacqua/dragula) ⭐ 22,141 | 🐛 159 | 🌐 JavaScript | 📅 2024-06-07
+* [**Dragula** - Browser support includes every sane browser and **IE7+**. Framework support includes vanilla JavaScript, Angular, and React](https://github.com/bevacqua/dragula) ⭐ 22,140 | 🐛 159 | 🌐 JavaScript | 📅 2024-06-07
 
-* [Vue.Draggable: Vue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js](https://github.com/SortableJS/Vue.Draggable) ⭐ 20,592 | 🐛 287 | 🌐 JavaScript | 📅 2024-03-04
+* [Vue.Draggable: Vue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js](https://github.com/SortableJS/Vue.Draggable) ⭐ 20,591 | 🐛 286 | 🌐 JavaScript | 📅 2024-03-04
 
-* [VvvebJs: Drag and drop website builder javascript library. http://www.vvveb.com/vvvebjs/editor.html](https://github.com/givanz/VvvebJs) ⭐ 8,587 | 🐛 303 | 🌐 JavaScript | 📅 2026-07-01
+* [VvvebJs: Drag and drop website builder javascript library. http://www.vvveb.com/vvvebjs/editor.html](https://github.com/givanz/VvvebJs) ⭐ 8,590 | 🐛 303 | 🌐 JavaScript | 📅 2026-07-01
 
-* ![](https://img.shields.io/github/stars/TahaSh/swapy?style=social) [swapy](https://github.com/TahaSh/swapy) ⭐ 8,509 | 🐛 51 | 🌐 TypeScript | 📅 2025-01-19 - A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code
+* ![](https://img.shields.io/github/stars/TahaSh/swapy?style=social) [swapy](https://github.com/TahaSh/swapy) ⭐ 8,510 | 🐛 51 | 🌐 TypeScript | 📅 2025-01-19 - A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code
 
 * ![](https://img.shields.io/github/stars/Alfred-Skyblue/vue-draggable-plus?style=social) [vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) ⭐ 4,012 | 🐛 108 | 🌐 Vue | 📅 2026-03-13 - Drag and drop sorting module, support Vue>=v3 or Vue>=2.7
 
@@ -554,19 +554,19 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Editor
 
-* 👍✨🌟💗[Microsoft/monaco-editor: A browser based code editor which powers **VS Code**](https://github.com/Microsoft/monaco-editor) ⭐ 46,544 | 🐛 847 | 🌐 JavaScript | 📅 2026-08-07
+* 👍✨🌟💗[Microsoft/monaco-editor: A browser based code editor which powers **VS Code**](https://github.com/Microsoft/monaco-editor) ⭐ 46,549 | 🐛 846 | 🌐 JavaScript | 📅 2026-08-13
 
 * ![](https://img.shields.io/github/stars/codemirror/codemirror?style=social) [CodeMirror](https://github.com/codemirror/codemirror) ⚠️ Archived: CodeMirror is a versatile text editor implemented in JavaScript for the browser. It is specialized for editing code, and comes with over 100 language modes and various addons that implement more advanced editing functionality. Every language comes with fully-featured code and syntax highlighting to help with reading and editing complex code. (语雀早期方案)
 
-* [**Ace** - A standalone code editor written in JavaScript](https://github.com/ajaxorg/ace) ⭐ 27,143 | 🐛 141 | 🌐 JavaScript | 📅 2026-08-12
+* [**Ace** - A standalone code editor written in JavaScript](https://github.com/ajaxorg/ace) ⭐ 27,143 | 🐛 136 | 🌐 JavaScript | 📅 2026-08-13
 
-* [tinymce: The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular](https://github.com/tinymce/tinymce) ⭐ 16,274 | 🐛 421 | 🌐 TypeScript | 📅 2026-08-13
+* [tinymce: The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular](https://github.com/tinymce/tinymce) ⭐ 16,273 | 🐛 414 | 🌐 TypeScript | 📅 2026-08-13
 
 * ![](https://img.shields.io/github/stars/PrismJS/prism?style=social) [PrismJS](https://github.com/PrismJS/prism/) ⭐ 13,036 | 🐛 482 | 🌐 JavaScript | 📅 2026-06-29 - Prism is a lightweight, robust, and elegant syntax highlighting library. It's a spin-off project from Dabblet.
 
 * ![](https://img.shields.io/github/stars/retejs/rete?style=social) [Rete.js: JavaScript(TypeScript) framework for visual programming. Rete is a modular framework for visual programming. Rete allows you to create node-based editor directly in the browser. You can define nodes and workers that allow users to create instructions for processing data in your editor without a single line of code.](https://github.com/retejs/rete) ⭐ 12,134 | 🐛 14 | 🌐 TypeScript | 📅 2026-07-24
 
-* [**pell** - pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies](https://github.com/jaredreich/pell) ⭐ 12,049 | 🐛 67 | 🌐 JavaScript | 📅 2024-05-12
+* [**pell** - pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies](https://github.com/jaredreich/pell) ⭐ 12,048 | 🐛 67 | 🌐 JavaScript | 📅 2024-05-12
 
 * [Backlight](https://backlight.dev/) — with collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.
 
@@ -587,23 +587,23 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ### Code Highlight
 
-* ![](https://img.shields.io/github/stars/shikijs/shiki?style=social)[shiki](https://github.com/shikijs/shiki) ⭐ 13,697 | 🐛 111 | 🌐 TypeScript | 📅 2026-08-10: a beautiful Syntax Highlighter. [Demo](https://shiki.matsu.io/).
+* ![](https://img.shields.io/github/stars/shikijs/shiki?style=social)[shiki](https://github.com/shikijs/shiki) ⭐ 13,700 | 🐛 111 | 🌐 TypeScript | 📅 2026-08-10: a beautiful Syntax Highlighter. [Demo](https://shiki.matsu.io/).
 
 ### Markdown
 
-* ![](https://img.shields.io/github/stars/benweet/stackedit?style=social) ✨✨✨✨✨❤️ [stackedit: In-browser **Markdown** editor](https://github.com/benweet/stackedit) ⭐ 23,056 | 🐛 732 | 🌐 JavaScript | 📅 2023-07-04
-* 💗 ![](https://img.shields.io/github/stars/markdown-it/markdown-it?style=social) [markdown-it](https://github.com/markdown-it/markdown-it) ⭐ 21,804 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13 - Markdown parser done right. Fast and easy to extend.
-* ![](https://img.shields.io/github/stars/Vanessa219/vditor?style=social) [Vditor: Vditor 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript、Vue、React、Angular，提供桌面版。](https://github.com/Vanessa219/vditor) ⭐ 11,226 | 🐛 106 | 🌐 TypeScript | 📅 2026-08-11
-* ![](https://img.shields.io/github/stars/sparksuite/simplemde-markdown-editor?style=social) [SimpleMDE - Markdown Editor](https://github.com/sparksuite/simplemde-markdown-editor) ⭐ 10,144 | 🐛 291 | 🌐 JavaScript | 📅 2024-06-11: A drop-in JavaScript textarea replacement for writing beautiful and understandable Markdown. The WYSIWYG-esque editor allows users who may be less experienced with Markdown to use familiar toolbar buttons and shortcuts. In addition, the syntax is rendered while editing to clearly show the expected result. Headings are larger, emphasized words are italicized, links are underlined, etc. SimpleMDE is one of the first editors to feature both built-in autosaving and spell checking.
+* ![](https://img.shields.io/github/stars/benweet/stackedit?style=social) ✨✨✨✨✨❤️ [stackedit: In-browser **Markdown** editor](https://github.com/benweet/stackedit) ⭐ 23,058 | 🐛 732 | 🌐 JavaScript | 📅 2023-07-04
+* 💗 ![](https://img.shields.io/github/stars/markdown-it/markdown-it?style=social) [markdown-it](https://github.com/markdown-it/markdown-it) ⭐ 21,809 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-13 - Markdown parser done right. Fast and easy to extend.
+* ![](https://img.shields.io/github/stars/Vanessa219/vditor?style=social) [Vditor: Vditor 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript、Vue、React、Angular，提供桌面版。](https://github.com/Vanessa219/vditor) ⭐ 11,227 | 🐛 107 | 🌐 TypeScript | 📅 2026-08-11
+* ![](https://img.shields.io/github/stars/sparksuite/simplemde-markdown-editor?style=social) [SimpleMDE - Markdown Editor](https://github.com/sparksuite/simplemde-markdown-editor) ⭐ 10,143 | 🐛 291 | 🌐 JavaScript | 📅 2024-06-11: A drop-in JavaScript textarea replacement for writing beautiful and understandable Markdown. The WYSIWYG-esque editor allows users who may be less experienced with Markdown to use familiar toolbar buttons and shortcuts. In addition, the syntax is rendered while editing to clearly show the expected result. Headings are larger, emphasized words are italicized, links are underlined, etc. SimpleMDE is one of the first editors to feature both built-in autosaving and spell checking.
 
 ## Highlight
 
-* [**Highlight.js** - Highlight.js is a syntax highlighter written in JavaScript. It works in the browser as well as on the server. It works with pretty much any markup, doesn’t depend on any framework and has automatic language detection.](https://github.com/isagalaev/highlight.js) ⭐ 24,981 | 🐛 120 | 🌐 JavaScript | 📅 2026-08-12
+* [**Highlight.js** - Highlight.js is a syntax highlighter written in JavaScript. It works in the browser as well as on the server. It works with pretty much any markup, doesn’t depend on any framework and has automatic language detection.](https://github.com/isagalaev/highlight.js) ⭐ 24,983 | 🐛 121 | 🌐 JavaScript | 📅 2026-08-12
 * [**HR.js** - Tiny JavaScript plugin for highlighting and replacing text in the DOM](https://github.com/mburakerman/hrjs/) ⭐ 441 | 🐛 2 | 🌐 JavaScript | 📅 2022-12-27
 
 ## Clipboard
 
-* [**clipboard.js** - A modern approach to copy text to clipboard. No Flash. No frameworks. Just 3kb gzipped](https://github.com/zenorocha/clipboard.js) ⭐ 34,130 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-12
+* [**clipboard.js** - A modern approach to copy text to clipboard. No Flash. No frameworks. Just 3kb gzipped](https://github.com/zenorocha/clipboard.js) ⭐ 34,128 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-12
 
 ## Respond page
 
@@ -615,7 +615,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## 3D
 
-* ![](https://img.shields.io/github/stars/CesiumGS/cesium?style=social) [CesiumJS is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.](https://github.com/CesiumGS/cesium) ⭐ 15,558 | 🐛 1,642 | 🌐 JavaScript | 📅 2026-08-12:
+* ![](https://img.shields.io/github/stars/CesiumGS/cesium?style=social) [CesiumJS is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.](https://github.com/CesiumGS/cesium) ⭐ 15,565 | 🐛 1,641 | 🌐 JavaScript | 📅 2026-08-13:
 * ![](https://img.shields.io/github/stars/WhitestormJS/whs.js?style=social) [whs.js: Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js](https://github.com/WhitestormJS/whs.js) ⭐ 6,348 | 🐛 55 | 🌐 JavaScript | 📅 2025-01-01
 * [stack.gl](http://stack.gl/) is an open software ecosystem for WebGL, built on top of browserify and npm. Inspired by the Unix philosophy, stackgl modules "do one thing, and do it well". It is easy to use parts of stackgl à la carte, and because it is written from the bottom up, you can always drill down a layer. Unlike many 3D engines, stackgl emphasizes writing shader code, and provides powerful tools like glslify which bring the modularity and productivity of npm to GLSL!
 * ![](https://img.shields.io/github/stars/mrdoob/three.js?style=social) [**three.js** - A JavaScript 3D Library which makes WebGL simpler.](https://threejs.org/)
@@ -623,7 +623,7 @@ In order to read the cheat sheets and reference them, use the project official w
 ## Scroll & Parallax
 
 * [👍👍
-  ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. It was designed to be robust and flexible, but hopefully you’ll be surprised below at how easy it is to pick up.](https://github.com/scrollreveal/scrollreveal) ⭐ 22,473 | 🐛 41 | 🌐 JavaScript | 📅 2024-04-05
+  ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. It was designed to be robust and flexible, but hopefully you’ll be surprised below at how easy it is to pick up.](https://github.com/scrollreveal/scrollreveal) ⭐ 22,472 | 🐛 41 | 🌐 JavaScript | 📅 2024-04-05
 
 * [**iScrolljs** - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller](https://github.com/cubiq/iscroll/) ⚠️ Archived
 
@@ -637,12 +637,12 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Slider|Swiper
 
-* [iSlider: Smooth mobile touch slider for Mobile WebApp, HTML5 App, Hybrid App](https://github.com/BE-FE/iSlider) ⭐ 1,638 | 🐛 62 | 🌐 JavaScript | 📅 2024-01-04
+* [iSlider: Smooth mobile touch slider for Mobile WebApp, HTML5 App, Hybrid App](https://github.com/BE-FE/iSlider) ⭐ 1,636 | 🐛 62 | 🌐 JavaScript | 📅 2024-01-04
 
 ## Color
 
 * ![](https://img.shields.io/github/stars/casesandberg/react-color?style=social) [react-color](https://github.com/casesandberg/react-color) ⭐ 12,320 | 🐛 230 | 🌐 JavaScript | 📅 2024-01-12: 1. 13 Different Pickers - Sketch, Photoshop, Chrome and many more; 2.Make Your Own - Use the building block components to make your own
-* ![](https://img.shields.io/github/stars/bgrins/TinyColor?style=social) [TinyColor](https://github.com/bgrins/TinyColor) ⭐ 5,247 | 🐛 104 | 🌐 JavaScript | 📅 2024-06-26 - TinyColor is a small, fast library for color manipulation and conversion in JavaScript. It allows many forms of input, while providing color conversions and other color utility functions. It has no dependencies.
+* ![](https://img.shields.io/github/stars/bgrins/TinyColor?style=social) [TinyColor](https://github.com/bgrins/TinyColor) ⭐ 5,247 | 🐛 105 | 🌐 JavaScript | 📅 2024-06-26 - TinyColor is a small, fast library for color manipulation and conversion in JavaScript. It allows many forms of input, while providing color conversions and other color utility functions. It has no dependencies.
 
 ## Conversational
 
@@ -650,24 +650,24 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Tweening Engine
 
-* [**tween.js** - JavaScript tweening engine for easy animations, incorporating optimised Robert Penner's equations](https://github.com/tweenjs/tween.js) ⭐ 10,130 | 🐛 24 | 🌐 TypeScript | 📅 2025-01-11
+* [**tween.js** - JavaScript tweening engine for easy animations, incorporating optimised Robert Penner's equations](https://github.com/tweenjs/tween.js) ⭐ 10,131 | 🐛 24 | 🌐 TypeScript | 📅 2025-01-11
 
 ## QRCode
 
-* [**qrcodejs** - just for making QRCode and no other depedencies. It supports Cross-browser with HTML5 Canvas and table tag in DOM](https://github.com/davidshimjs/qrcodejs) ⭐ 14,301 | 🐛 238 | 🌐 JavaScript | 📅 2024-05-01
+* [**qrcodejs** - just for making QRCode and no other depedencies. It supports Cross-browser with HTML5 Canvas and table tag in DOM](https://github.com/davidshimjs/qrcodejs) ⭐ 14,299 | 🐛 238 | 🌐 JavaScript | 📅 2024-05-01
 * [**qrious** - Pure JavaScript library for QR code generation using canvas](https://github.com/neocotic/qrious) ⭐ 1,617 | 🐛 44 | 🌐 JavaScript | 📅 2024-06-18
 
 ## Emoji
 
-* [**twemoji** - Twitter Emoji for Everyone](https://github.com/twitter/twemoji) ⭐ 17,723 | 🐛 143 | 🌐 HTML | 📅 2026-07-07
+* [**twemoji** - Twitter Emoji for Everyone](https://github.com/twitter/twemoji) ⭐ 17,725 | 🐛 143 | 🌐 HTML | 📅 2026-07-07
 
 ## New Feature Introduction
 
-* [**intro.js** - A better way for new feature introduction and step-by-step users guide for your website and project](https://github.com/usablica/intro.js) ⭐ 23,478 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-07
+* [**intro.js** - A better way for new feature introduction and step-by-step users guide for your website and project](https://github.com/usablica/intro.js) ⭐ 23,476 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-07
 
 ## Typography Stylesheet
 
-* [**中文文案排版指北**](https://github.com/sparanoid/chinese-copywriting-guidelines) ⭐ 15,624 | 🐛 30 | 📅 2026-07-07
+* [**中文文案排版指北**](https://github.com/sparanoid/chinese-copywriting-guidelines) ⭐ 15,628 | 🐛 30 | 📅 2026-07-07
 * [**typo.css** - 一致化浏览器排版效果，构建最适合中文阅读的网页排版，包括桌面和移动平台](https://github.com/sofish/typo.css) ⭐ 4,543 | 🐛 24 | 🌐 HTML | 📅 2026-06-25
 * [**yue.css** - A typography stylesheet for readable content](https://github.com/lepture/yue.css) ⭐ 492 | 🐛 1 | 🌐 CSS | 📅 2023-07-21
 
@@ -678,11 +678,11 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Print
 
-* [**Gutenber** - Modern framework to print correctly](https://github.com/BafS/Gutenberg) ⭐ 4,919 | 🐛 7 | 🌐 SCSS | 📅 2024-02-03
+* [**Gutenber** - Modern framework to print correctly](https://github.com/BafS/Gutenberg) ⭐ 4,920 | 🐛 7 | 🌐 SCSS | 📅 2024-02-03
 
 ## PDF
 
-* [React-PDF: Create PDF files using React](https://github.com/diegomura/react-pdf) ⭐ 16,744 | 🐛 395 | 🌐 TypeScript | 📅 2026-08-12
+* [React-PDF: Create PDF files using React](https://github.com/diegomura/react-pdf) ⭐ 16,746 | 🐛 395 | 🌐 TypeScript | 📅 2026-08-12
 
 ## Sheet
 
@@ -697,7 +697,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Math
 
-* ![](https://img.shields.io/github/stars/KaTeX/KaTeX?style=social) [KaTeX](https://github.com/KaTeX/KaTeX) ⭐ 20,311 | 🐛 392 | 🌐 TypeScript | 📅 2026-08-13 - KaTeX is a fast, easy-to-use JavaScript library for TeX math rendering on the web.
+* ![](https://img.shields.io/github/stars/KaTeX/KaTeX?style=social) [KaTeX](https://github.com/KaTeX/KaTeX) ⭐ 20,315 | 🐛 392 | 🌐 TypeScript | 📅 2026-08-13 - KaTeX is a fast, easy-to-use JavaScript library for TeX math rendering on the web.
 
   * Fast: KaTeX renders its math synchronously and doesn't need to reflow the page. See how it compares to a competitor in this speed test.
   * Print quality: KaTeX's layout is based on Donald Knuth's TeX, the gold standard for math typesetting.
@@ -710,11 +710,11 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Tools
 
-* [:+1:**json-server** Mock Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server) ⭐ 75,698 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23
+* [:+1:**json-server** Mock Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server) ⭐ 75,701 | 🐛 720 | 🌐 JavaScript | 📅 2026-03-23
 
-* [**nodemon** - Monitor for any changes in your node.js application and automatically restart the server - perfect for development](https://github.com/remy/nodemon) ⭐ 26,683 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-03
+* [**nodemon** - Monitor for any changes in your node.js application and automatically restart the server - perfect for development](https://github.com/remy/nodemon) ⭐ 26,685 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-03
 
-* ![](https://img.shields.io/github/stars/preactjs/wmr?style=social) [wmr](https://github.com/preactjs/wmr) ⭐ 4,921 | 🐛 90 | 🌐 JavaScript | 📅 2024-03-19 - The tiny all-in-one development tool for modern web apps, in a single 2mb file with no dependencies.
+* ![](https://img.shields.io/github/stars/preactjs/wmr?style=social) [wmr](https://github.com/preactjs/wmr) ⭐ 4,921 | 🐛 89 | 🌐 JavaScript | 📅 2024-03-19 - The tiny all-in-one development tool for modern web apps, in a single 2mb file with no dependencies.
 
   All the features you'd expect and more, from development to production:
 
@@ -758,7 +758,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ### Models & serializers
 
-* ![](https://img.shields.io/github/stars/quicktype/quicktype?style=social) [quicktype](https://github.com/quicktype/quicktype) ⭐ 13,838 | 🐛 212 | 🌐 TypeScript | 📅 2026-08-10: generates strongly-typed models and serializers from JSON, JSON Schema, TypeScript, and GraphQL queries, making it a breeze to work with JSON type-safely in many programming languages.
+* ![](https://img.shields.io/github/stars/quicktype/quicktype?style=social) [quicktype](https://github.com/quicktype/quicktype) ⭐ 13,839 | 🐛 216 | 🌐 TypeScript | 📅 2026-08-10: generates strongly-typed models and serializers from JSON, JSON Schema, TypeScript, and GraphQL queries, making it a breeze to work with JSON type-safely in many programming languages.
 
 ### TypeScript
 
@@ -782,12 +782,12 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ### Monitor
 
-* ![](https://img.shields.io/github/stars/SigNoz/signoz?style=social)[signoz](https://github.com/SigNoz/signoz) ⭐ 31,830 | 🐛 1,508 | 🌐 TypeScript | 📅 2026-08-13 - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (**APM**) & Observability tool.
-* ![](https://img.shields.io/github/stars/openreplay/openreplay?style=social) [openreplay - Session replay for developers](https://github.com/openreplay/openreplay) ⭐ 12,491 | 🐛 176 | 🌐 TypeScript | 📅 2026-08-12: The most advanced open-source session replay to build delightful web apps.
+* ![](https://img.shields.io/github/stars/SigNoz/signoz?style=social)[signoz](https://github.com/SigNoz/signoz) ⭐ 31,834 | 🐛 1,498 | 🌐 TypeScript | 📅 2026-08-13 - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (**APM**) & Observability tool.
+* ![](https://img.shields.io/github/stars/openreplay/openreplay?style=social) [openreplay - Session replay for developers](https://github.com/openreplay/openreplay) ⭐ 12,496 | 🐛 176 | 🌐 TypeScript | 📅 2026-08-13: The most advanced open-source session replay to build delightful web apps.
 
 ### Docs
 
-* ![](https://img.shields.io/github/stars/facebook/docusaurus?style=social) [facebook/docusaurus](https://github.com/facebook/docusaurus) ⭐ 65,905 | 🐛 424 | 🌐 TypeScript | 📅 2026-08-07 - Docusaurus is a project for building, deploying, and maintaining open source project websites easily.
+* ![](https://img.shields.io/github/stars/facebook/docusaurus?style=social) [facebook/docusaurus](https://github.com/facebook/docusaurus) ⭐ 65,914 | 🐛 427 | 🌐 TypeScript | 📅 2026-08-13 - Docusaurus is a project for building, deploying, and maintaining open source project websites easily.
 * ![](https://img.shields.io/github/stars/documentationjs/documentation?style=social) [documentation.js The documentation system for modern JavaScript](https://github.com/documentationjs/documentation) ⭐ 5,800 | 🐛 204 | 🌐 JavaScript | 📅 2025-04-15
 * ![](https://img.shields.io/github/stars/leptosia/docute?style=social) [Docute: Effortless documentation, done right.](https://github.com/leptosia/docute) ⚠️ Archived
 * ![](https://img.shields.io/github/stars/esdoc/esdoc?style=social) [ESDoc - Good Documentation for JavaScript](https://github.com/esdoc/esdoc) ⭐ 2,731 | 🐛 166 | 🌐 JavaScript | 📅 2024-08-14
@@ -800,7 +800,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ### Icons
 
-* ![](https://img.shields.io/github/stars/tabler/tabler-icons?style=social) [Tabler Icons: A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a 2px stroke.](https://github.com/tabler/tabler-icons) ⭐ 21,356 | 🐛 113 | 🌐 JavaScript | 📅 2026-08-10
+* ![](https://img.shields.io/github/stars/tabler/tabler-icons?style=social) [Tabler Icons: A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a 2px stroke.](https://github.com/tabler/tabler-icons) ⭐ 21,365 | 🐛 113 | 🌐 JavaScript | 📅 2026-08-10
 * ![](https://img.shields.io/github/stars/bytedance/IconPark?style=social) [IconPark:IconPark gives access to more than 2000 high-quality icons, and introduces an interface for customizing your icons. Instead of using various SVG source files to achieve different themes, We implement a technology transforming attributes of a single SVG source file into multiple themes. Besides, we provide cross-platform components, including react-icons, vue-icons and svg-icons. So whether you are a designer or a developer, you can use them in your designs or your projects for free.](https://github.com/bytedance/IconPark) ⚠️ Archived
 * [iconmonstr: Discover 4486+ free icons in 310 collections](https://iconmonstr.com/)
 
@@ -815,7 +815,7 @@ In order to read the cheat sheets and reference them, use the project official w
   Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
 
   Lerna can also reduce the time and space requirements for numerous copies of packages in development and build environments - normally a downside of dividing a project into many separate NPM packages. See the hoist documentation for details.
-* <img src="https://img.shields.io/github/stars/pnpm/pnpm?style=social" height="16"> [pnpm: Fast, disk space efficient package manager](https://github.com/pnpm/pnpm) ⭐ 36,045 | 🐛 2,537 | 🌐 Rust | 📅 2026-08-12
+* <img src="https://img.shields.io/github/stars/pnpm/pnpm?style=social" height="16"> [pnpm: Fast, disk space efficient package manager](https://github.com/pnpm/pnpm) ⭐ 36,054 | 🐛 2,542 | 🌐 Rust | 📅 2026-08-13
 
   * Fast. Up to 2x faster than the alternatives (see benchmark).
   * Efficient. Files inside node\_modules are linked from a single content-addressable storage.
@@ -825,7 +825,7 @@ In order to read the cheat sheets and reference them, use the project official w
   * Works everywhere. Supports Windows, Linux, and macOS.
   * Battle-tested. Used in production by teams of all sizes since 2016.
     **Source Control**:
-* [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) ⭐ 1,674 | 🐛 24 | 🌐 JavaScript | 📅 2026-07-26 - A tool that lets you easily manage git hooks
+* [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) ⭐ 1,674 | 🐛 25 | 🌐 JavaScript | 📅 2026-07-26 - A tool that lets you easily manage git hooks
   * Zero dependency
   * Small configuration (1 object in package.json)
   * Lightweight:
@@ -843,16 +843,16 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Mock
 
-* [**Mock** - A simulation data generator](https://github.com/nuysoft/Mock) ⭐ 19,597 | 🐛 341 | 🌐 JavaScript | 📅 2024-03-15
+* [**Mock** - A simulation data generator](https://github.com/nuysoft/Mock) ⭐ 19,594 | 🐛 340 | 🌐 JavaScript | 📅 2024-03-15
 * [**Easy-Mock** - 一个可视化，并且能快速生成 **模拟数据** 的持久化服务。](https://www.easy-mock.com)
 * ![](https://img.shields.io/github/stars/Marak/faker.js?style=social) [faker.js: generate massive amounts of fake data in the browser and node.js](https://github.com/Marak/faker.js)
 
 ## Test
 
-* ![](https://img.shields.io/github/stars/grafana/k6?style=social) [k6](https://github.com/grafana/k6) ⭐ 31,248 | 🐛 776 | 🌐 Go | 📅 2026-08-12: **A modern load testing tool for developers and testers in the DevOps era.** k6is **a modern load testing tool**, building on our years of experience in the load and performance testing industry. It provides a clean, approachable scripting API, local and cloud execution, and flexible configuration.
-* [**ava** - 🚀 Futuristic JavaScript test runner: Even though JavaScript is single-threaded, IO in Node.js can happen in parallel due to its async nature. AVA takes advantage of this and runs your tests concurrently, which is especially beneficial for IO heavy tests. In addition, test files are run in parallel as separate processes, giving you even better performance and an isolated environment for each test file. from Mocha to AVA in Pageres brought the test time down from 31 to 11 seconds. Having tests run concurrently forces you to write atomic tests, meaning tests don't depend on global state or the state of other tests, which is a great thing!](https://github.com/avajs/ava) ⭐ 20,834 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-17
+* ![](https://img.shields.io/github/stars/grafana/k6?style=social) [k6](https://github.com/grafana/k6) ⭐ 31,252 | 🐛 773 | 🌐 Go | 📅 2026-08-13: **A modern load testing tool for developers and testers in the DevOps era.** k6is **a modern load testing tool**, building on our years of experience in the load and performance testing industry. It provides a clean, approachable scripting API, local and cloud execution, and flexible configuration.
+* [**ava** - 🚀 Futuristic JavaScript test runner: Even though JavaScript is single-threaded, IO in Node.js can happen in parallel due to its async nature. AVA takes advantage of this and runs your tests concurrently, which is especially beneficial for IO heavy tests. In addition, test files are run in parallel as separate processes, giving you even better performance and an isolated environment for each test file. from Mocha to AVA in Pageres brought the test time down from 31 to 11 seconds. Having tests run concurrently forces you to write atomic tests, meaning tests don't depend on global state or the state of other tests, which is a great thing!](https://github.com/avajs/ava) ⭐ 20,836 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-17
 * ![](https://img.shields.io/github/stars/marmelab/gremlins.js?style=social)  [gremlins.js](https://github.com/marmelab/gremlins.js) ⭐ 9,090 | 🐛 21 | 🌐 JavaScript | 📅 2023-03-06: A monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins.
-* <img src="https://img.shields.io/github/stars/cucumber/cucumber-js?style=social" height="16"> [Cucumber.js(BBD): Cucumber is a tool for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.](https://github.com/cucumber/cucumber-js) ⭐ 5,382 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-12
+* <img src="https://img.shields.io/github/stars/cucumber/cucumber-js?style=social" height="16"> [Cucumber.js(BBD): Cucumber is a tool for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.](https://github.com/cucumber/cucumber-js) ⭐ 5,382 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-13
 
   Cucumber.js is the JavaScript implementation of Cucumber and runs on the maintained Node.js versions.
 * [**Macaca** - Solution for Automation Test with Ease](https://macacajs.com/)
@@ -865,43 +865,43 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## HTTP Client/Request
 
-* [**axios** - Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios) ⭐ 109,230 | 🐛 69 | 🌐 JavaScript | 📅 2026-08-12
-* [reqwest: All over again. Includes support for xmlHttpRequest, JSONP, CORS, and CommonJS Promises A. It is also isomorphic allowing you to require('reqwest') in Node.js through the peer dependency xhr2, albeit the original intent of this library is for the browser. For a more thorough solution for Node.js, see mikeal/request.](https://github.com/ded/reqwest) ⭐ 2,924 | 🐛 106 | 🌐 JavaScript | 📅 2021-10-03
+* [**axios** - Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios) ⭐ 109,233 | 🐛 63 | 🌐 JavaScript | 📅 2026-08-13
+* [reqwest: All over again. Includes support for xmlHttpRequest, JSONP, CORS, and CommonJS Promises A. It is also isomorphic allowing you to require('reqwest') in Node.js through the peer dependency xhr2, albeit the original intent of this library is for the browser. For a more thorough solution for Node.js, see mikeal/request.](https://github.com/ded/reqwest) ⭐ 2,922 | 🐛 106 | 🌐 JavaScript | 📅 2021-10-03
 
 ## Compile & Pack
 
-* [Prettier is an opinionated code formatter](https://github.com/prettier/prettier) ⭐ 52,195 | 🐛 1,441 | 🌐 JavaScript | 📅 2026-08-13
-* <img src="https://img.shields.io/github/stars/evanw/esbuild?style=social" height="16"> [esbuild: An extremely fast JavaScript bundle](https://github.com/evanw/esbuild) ⭐ 40,018 | 🐛 598 | 🌐 Go | 📅 2026-08-09
+* [Prettier is an opinionated code formatter](https://github.com/prettier/prettier) ⭐ 52,199 | 🐛 1,436 | 🌐 JavaScript | 📅 2026-08-13
+* <img src="https://img.shields.io/github/stars/evanw/esbuild?style=social" height="16"> [esbuild: An extremely fast JavaScript bundle](https://github.com/evanw/esbuild) ⭐ 40,015 | 🐛 599 | 🌐 Go | 📅 2026-08-09
 
   <img src="https://github.com/evanw/esbuild/blob/master/images/benchmark.svg">
-* ![](https://img.shields.io/github/stars/swc-project/swc?style=social)  [swc](https://github.com/swc-project/swc) ⭐ 34,180 | 🐛 416 | 🌐 Rust | 📅 2026-08-12: is a super-fast typescript / javascript compiler written in rust. It's a library for rust and javascript at the same time. If you are using swc from rust, see rustdoc and for most users, your entrypoint for using library will be parser.
+* ![](https://img.shields.io/github/stars/swc-project/swc?style=social)  [swc](https://github.com/swc-project/swc) ⭐ 34,180 | 🐛 417 | 🌐 Rust | 📅 2026-08-12: is a super-fast typescript / javascript compiler written in rust. It's a library for rust and javascript at the same time. If you are using swc from rust, see rustdoc and for most users, your entrypoint for using library will be parser.
 * [FLOW IS A STATIC TYPE CHECKER FOR JAVASCRIPT.](https://flow.org/)
 * 👍 [Parcel: Blazing fast, zero configuration web application bundler](https://parceljs.org/)
 * [Prepack: A tool for making JavaScript code run faster.](https://prepack.io/)
 
 ### Webpack
 
-* [webpack-bundle-analyzer: Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap](https://github.com/webpack-contrib/webpack-bundle-analyzer) ⭐ 12,662 | 🐛 27 | 🌐 JavaScript | 📅 2026-08-12
+* [webpack-bundle-analyzer: Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap](https://github.com/webpack-contrib/webpack-bundle-analyzer) ⭐ 12,662 | 🐛 26 | 🌐 JavaScript | 📅 2026-08-13
 * [Happypack: Happiness in the form of faster webpack build times.](https://github.com/amireh/happypack) ⚠️ Archived
 
 ### Desktop Apps
 
-* ![](https://img.shields.io/github/stars/tauri-apps/tauri?style=social) [tauri](https://github.com/tauri-apps/tauri) ⭐ 110,163 | 🐛 1,434 | 🌐 Rust | 📅 2026-08-13: Tauri is a framework for building tiny, blazing fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a **rust-sourced** binary with an API that the front-end can interact with.
+* ![](https://img.shields.io/github/stars/tauri-apps/tauri?style=social) [tauri](https://github.com/tauri-apps/tauri) ⭐ 110,189 | 🐛 1,434 | 🌐 Rust | 📅 2026-08-13: Tauri is a framework for building tiny, blazing fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a **rust-sourced** binary with an API that the front-end can interact with.
 
   The user interface in Tauri apps currently leverages Cocoa/WebKit on macOS, gtk-webkit2 on Linux and MSHTML (IE10/11) or Webkit via Edge on Windows. Tauri uses (and contributes to) the MIT licensed project that you can find at webview and the related webview organization.
 
 ## Static Sites
 
-* [Gatsby: Blazing fast modern site generator for React Go beyond static sites: build blogs, e-commerce sites, full-blown apps, and more with Gatsby.](https://github.com/gatsbyjs/gatsby) ⭐ 55,941 | 🐛 418 | 🌐 JavaScript | 📅 2026-08-12
+* [Gatsby: Blazing fast modern site generator for React Go beyond static sites: build blogs, e-commerce sites, full-blown apps, and more with Gatsby.](https://github.com/gatsbyjs/gatsby) ⭐ 55,942 | 🐛 418 | 🌐 JavaScript | 📅 2026-08-12
 * [react-static: A progressive static site generator for React.](https://github.com/nozzle/react-static) ⭐ 10,346 | 🐛 1 | 🌐 JavaScript | 📅 2022-10-31
 
 ## Audio & Video
 
-* ![](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=social)  [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) ⭐ 17,717 | 🐛 421 | 🌐 C | 📅 2026-02-01: is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
+* ![](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=social)  [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) ⭐ 17,718 | 🐛 421 | 🌐 C | 📅 2026-02-01: is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
 
-* ![](https://img.shields.io/github/stars/muaz-khan/RecordRTC?style=social)[RecordRTC](https://github.com/muaz-khan/RecordRTC/) ⭐ 6,913 | 🐛 442 | 🌐 JavaScript | 📅 2024-05-13: WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording
+* ![](https://img.shields.io/github/stars/muaz-khan/RecordRTC?style=social)[RecordRTC](https://github.com/muaz-khan/RecordRTC/) ⭐ 6,912 | 🐛 442 | 🌐 JavaScript | 📅 2024-05-13: WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording
 
-* ![](https://img.shields.io/github/stars/phoboslab/jsmpeg?style=social) [JSMpeg – MPEG1 Video & MP2 Audio Decoder in JavaScript](https://github.com/phoboslab/jsmpeg) ⭐ 6,498 | 🐛 191 | 🌐 JavaScript | 📅 2022-09-20: JSMpeg is a Video Player written in JavaScript. It consists of an MPEG-TS demuxer, MPEG1 video & MP2 audio decoders, WebGL & Canvas2D renderers and WebAudio sound output. JSMpeg can load static videos via Ajax and allows low latency streaming (\~50ms) via WebSockets.
+* ![](https://img.shields.io/github/stars/phoboslab/jsmpeg?style=social) [JSMpeg – MPEG1 Video & MP2 Audio Decoder in JavaScript](https://github.com/phoboslab/jsmpeg) ⭐ 6,497 | 🐛 191 | 🌐 JavaScript | 📅 2022-09-20: JSMpeg is a Video Player written in JavaScript. It consists of an MPEG-TS demuxer, MPEG1 video & MP2 audio decoders, WebGL & Canvas2D renderers and WebAudio sound output. JSMpeg can load static videos via Ajax and allows low latency streaming (\~50ms) via WebSockets.
 
   JSMpeg can decode 720p Video at 30fps on an iPhone 5S, works in any modern browser (Chrome, Firefox, Safari, Edge) and comes in at just 20kb gzipped.
 
@@ -909,14 +909,14 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ### Video Player
 
-* ![](https://img.shields.io/github/stars/videojs/video.js?style=social) [**video.js** - An HTML5 & Flash video player](https://github.com/videojs/video.js) ⭐ 39,848 | 🐛 664 | 🌐 JavaScript | 📅 2026-08-03
+* ![](https://img.shields.io/github/stars/videojs/video.js?style=social) [**video.js** - An HTML5 & Flash video player](https://github.com/videojs/video.js) ⭐ 39,849 | 🐛 664 | 🌐 JavaScript | 📅 2026-08-03
 
-* ![](https://img.shields.io/github/stars/DIYgod/DPlayer?style=social) [DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily.](https://github.com/DIYgod/DPlayer) ⭐ 16,474 | 🐛 268 | 🌐 JavaScript | 📅 2026-03-04
+* ![](https://img.shields.io/github/stars/DIYgod/DPlayer?style=social) [DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily.](https://github.com/DIYgod/DPlayer) ⭐ 16,476 | 🐛 268 | 🌐 JavaScript | 📅 2026-03-04
 
 * ![](https://img.shields.io/github/stars/bytedance/xgplayer?style=social) [xgplayer](https://github.com/bytedance/xgplayer) ⭐ 9,275 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-04  is a web video and audio player library, designed with separate, detachable UI components. Since everything is componentized. the UI layer is very flexable.
   xgplayer is bold in its functionality: it gets rid of video loading, buffering, and format support for video dependence. For mp4 that does not support streaming, you can use staged loading. This means load control, seamless switching without artifacts, and video bandwidth savings. It also integrates on-demand and live support for FLV, HLS, and dash.
 
-* ![](https://img.shields.io/github/stars/DIYgod/APlayer?style=social) [**APlayer** - A beautiful html5 music player](https://github.com/DIYgod/APlayer) ⭐ 7,702 | 🐛 206 | 🌐 JavaScript | 📅 2024-02-23
+* ![](https://img.shields.io/github/stars/DIYgod/APlayer?style=social) [**APlayer** - A beautiful html5 music player](https://github.com/DIYgod/APlayer) ⭐ 7,701 | 🐛 206 | 🌐 JavaScript | 📅 2024-02-23
 
 * ![](https://img.shields.io/github/stars/mbebenita/Broadway?style=social) [**Broadway** - A JavaScript H.264 decoder](https://github.com/mbebenita/Broadway) ⭐ 2,817 | 🐛 89 | 🌐 C | 📅 2023-01-22
 
@@ -934,16 +934,16 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Store
 
-* ![](https://img.shields.io/github/stars/localForage/localForage?style=social)[localForage](https://github.com/localForage/localForage) ⭐ 25,798 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30: localForage is a fast and simple storage library for JavaScript. localForage improves the offline experience of your web app by using asynchronous storage (IndexedDB or WebSQL) with a simple, localStorage-like API.
+* ![](https://img.shields.io/github/stars/localForage/localForage?style=social)[localForage](https://github.com/localForage/localForage) ⭐ 25,799 | 🐛 250 | 🌐 JavaScript | 📅 2024-07-30: localForage is a fast and simple storage library for JavaScript. localForage improves the offline experience of your web app by using asynchronous storage (IndexedDB or WebSQL) with a simple, localStorage-like API.
 
   localForage uses localStorage in browsers with no IndexedDB or WebSQL support. See the wiki for detailed compatibility info.
 
-* 👍👍👍 [Store.js: Cross-browser storage for all use cases, used across the web.](https://github.com/marcuswestin/store.js) ⭐ 13,984 | 🐛 99 | 🌐 JavaScript | 📅 2024-01-16
+* 👍👍👍 [Store.js: Cross-browser storage for all use cases, used across the web.](https://github.com/marcuswestin/store.js) ⭐ 13,983 | 🐛 99 | 🌐 JavaScript | 📅 2024-01-16
 
 ### Web DB
 
 * [PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.](https://pouchdb.com/)
-* 👍👍 [rxdb: A **realtime** Database for the Web](https://github.com/pubkey/rxdb) ⭐ 23,335 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-13
+* 👍👍 [rxdb: A **realtime** Database for the Web](https://github.com/pubkey/rxdb) ⭐ 23,338 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-13
 
 ## Polyfill
 
@@ -951,7 +951,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Gestures
 
-* [hammer.js: A javascript library for multi-touch gestures](https://github.com/hammerjs/hammer.js/) ⭐ 24,342 | 🐛 317 | 🌐 JavaScript | 📅 2026-01-04
+* [hammer.js: A javascript library for multi-touch gestures](https://github.com/hammerjs/hammer.js/) ⭐ 24,341 | 🐛 317 | 🌐 JavaScript | 📅 2026-01-04
 
 ## Screenshots
 
@@ -959,7 +959,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## AR & VR
 
-* ![](https://img.shields.io/github/stars/jeromeetienne/AR.js?style=social) [AR.js: Efficient Augmented Reality for the Web - 60fps on mobile!](https://github.com/jeromeetienne/AR.js/) ⭐ 15,796 | 🐛 24 | 🌐 HTML | 📅 2022-12-07
+* ![](https://img.shields.io/github/stars/jeromeetienne/AR.js?style=social) [AR.js: Efficient Augmented Reality for the Web - 60fps on mobile!](https://github.com/jeromeetienne/AR.js/) ⭐ 15,794 | 🐛 24 | 🌐 HTML | 📅 2022-12-07
 * ![](https://img.shields.io/github/stars/hiukim/mind-ar-js?style=social) [MindAR](https://github.com/hiukim/mind-ar-js) ⭐ 2,707 | 🐛 112 | 🌐 JavaScript | 📅 2024-06-11 - For location-based AR and marker-based AR, checkout AR.js <https://github.com/AR-js-org/AR.js> ⭐ 5,973 | 🐛 243 | 🌐 JavaScript | 📅 2026-06-21
 
 MindAR is a lightweight library for web augmented reality. Highlighted features include:
@@ -989,7 +989,7 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 ## Dropload
 
-* [ximan/dropload: a javascript implementation of pull to refresh and up to loadmore](https://github.com/ximan/dropload) ⭐ 2,688 | 🐛 102 | 📅 2018-09-29
+* [ximan/dropload: a javascript implementation of pull to refresh and up to loadmore](https://github.com/ximan/dropload) ⭐ 2,685 | 🐛 102 | 📅 2018-09-29
 
 ## Game && Engine
 
@@ -1005,7 +1005,7 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 ## Router
 
-* [director: a tiny and isomorphic URL router for JavaScript](https://github.com/flatiron/director) ⭐ 5,574 | 🐛 124 | 🌐 JavaScript | 📅 2020-12-26
+* [director: a tiny and isomorphic URL router for JavaScript](https://github.com/flatiron/director) ⭐ 5,575 | 🐛 124 | 🌐 JavaScript | 📅 2020-12-26
 
 ## Math
 
@@ -1013,39 +1013,39 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 ## WebAssembly
 
-* ![](https://img.shields.io/github/stars/emscripten-core/emscripten?style=social) [emscripten: Emscripten compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.](https://github.com/emscripten-core/emscripten) ⭐ 27,568 | 🐛 2,463 | 🌐 C++ | 📅 2026-08-12
+* ![](https://img.shields.io/github/stars/emscripten-core/emscripten?style=social) [emscripten: Emscripten compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.](https://github.com/emscripten-core/emscripten) ⭐ 27,569 | 🐛 2,463 | 🌐 C++ | 📅 2026-08-13
 
   Emscripten provides Web support for popular portable APIs such as OpenGL and SDL2, allowing complex graphical native applications to be ported, such as the Unity game engine and Google Earth. It can probably port your codebase, too!
 
   While Emscripten mostly focuses on compiling C and C++ using Clang, it can be integrated with other LLVM-using compilers (for example, Rust has Emscripten integration, with the wasm32-unknown-emscripten and asmjs-unknown-emscripten targets).
-* ![](https://img.shields.io/github/stars/wasmerio/wasmer?style=social) [Wasmer: Wasmer enables super lightweight containers based on WebAssembly that can run anywhere: from Desktop to the Cloud and IoT devices, and also embedded in any programming language.](https://github.com/wasmerio/wasmer) ⭐ 20,951 | 🐛 222 | 🌐 Rust | 📅 2026-08-12
-* ![](https://img.shields.io/github/stars/WasmEdge/WasmEdge?style=social) [WasmEdge](https://github.com/WasmEdge/WasmEdge) ⭐ 10,771 | 🐛 191 | 🌐 C++ | 📅 2026-08-12 - WasmEdge (previously known as SSVM) is a lightweight, high-performance, and extensible WebAssembly runtime for ❗️**cloud native, edge, and decentralized applications**❗️. It is the fastest Wasm VM today. WasmEdge is an official sandbox project hosted by the CNCF. Its use cases include serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+* ![](https://img.shields.io/github/stars/wasmerio/wasmer?style=social) [Wasmer: Wasmer enables super lightweight containers based on WebAssembly that can run anywhere: from Desktop to the Cloud and IoT devices, and also embedded in any programming language.](https://github.com/wasmerio/wasmer) ⭐ 20,950 | 🐛 227 | 🌐 Rust | 📅 2026-08-13
+* ![](https://img.shields.io/github/stars/WasmEdge/WasmEdge?style=social) [WasmEdge](https://github.com/WasmEdge/WasmEdge) ⭐ 10,771 | 🐛 192 | 🌐 C++ | 📅 2026-08-13 - WasmEdge (previously known as SSVM) is a lightweight, high-performance, and extensible WebAssembly runtime for ❗️**cloud native, edge, and decentralized applications**❗️. It is the fastest Wasm VM today. WasmEdge is an official sandbox project hosted by the CNCF. Its use cases include serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 
 ## Admin
 
-* ![](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=social) [vue element admin: vue-element-admin is a production-ready front-end solution for admin interfaces. It is based on vue and uses the UI Toolkit element-ui.](https://github.com/PanJiaChen/vue-element-admin) ⭐ 90,215 | 🐛 1,402 | 🌐 Vue | 📅 2024-10-24
+* ![](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=social) [vue element admin: vue-element-admin is a production-ready front-end solution for admin interfaces. It is based on vue and uses the UI Toolkit element-ui.](https://github.com/PanJiaChen/vue-element-admin) ⭐ 90,210 | 🐛 1,402 | 🌐 Vue | 📅 2024-10-24
 
 ## No/Low Code
 
-* ![](https://img.shields.io/github/stars/artf/grapesjs?style=social) [grapesjs](https://github.com/artf/grapesjs) ⭐ 26,121 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-11: is a free and open source Web Builder Framework which helps building HTML templates, faster and easily, to be delivered in sites, newsletters or mobile apps. Mainly, GrapesJS was designed to be used inside a CMS to speed up the creation of dynamic templates.
-* ![](https://img.shields.io/github/stars/ly525/luban-h5?style=social) [luban-h5](https://github.com/ly525/luban-h5) ⭐ 6,240 | 🐛 109 | 🌐 JavaScript | 📅 2026-01-03: Mobile Page Builder\&Generator with Drag\&Drop
+* ![](https://img.shields.io/github/stars/artf/grapesjs?style=social) [grapesjs](https://github.com/artf/grapesjs) ⭐ 26,124 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-11: is a free and open source Web Builder Framework which helps building HTML templates, faster and easily, to be delivered in sites, newsletters or mobile apps. Mainly, GrapesJS was designed to be used inside a CMS to speed up the creation of dynamic templates.
+* ![](https://img.shields.io/github/stars/ly525/luban-h5?style=social) [luban-h5](https://github.com/ly525/luban-h5) ⭐ 6,239 | 🐛 109 | 🌐 JavaScript | 📅 2026-01-03: Mobile Page Builder\&Generator with Drag\&Drop
 
 ### CMS
 
-* ![](https://img.shields.io/github/stars/strapi/strapi?style=social) [strapi](https://github.com/strapi/strapi) ⭐ 72,858 | 🐛 520 | 🌐 TypeScript | 📅 2026-08-12: Strapi is a free and open-source headless CMS. It’s 100% JavaScript, fully customizable, and developer-first.
+* ![](https://img.shields.io/github/stars/strapi/strapi?style=social) [strapi](https://github.com/strapi/strapi) ⭐ 72,867 | 🐛 525 | 🌐 TypeScript | 📅 2026-08-13: Strapi is a free and open-source headless CMS. It’s 100% JavaScript, fully customizable, and developer-first.
 
 ## Node
 
 ### Framework
 
-* ![](https://img.shields.io/github/stars/nestjs/nest?style=social) [nest: A progressive Node.js framework for building efficient and scalable server-side applications.](https://github.com/nestjs/nest) ⭐ 76,370 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-12
+* ![](https://img.shields.io/github/stars/nestjs/nest?style=social) [nest: A progressive Node.js framework for building efficient and scalable server-side applications.](https://github.com/nestjs/nest) ⭐ 76,371 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-12
 
 ### Midddleware
 
 * ![](https://img.shields.io/github/stars/prisma/prisma?style=social) [Prisma](https://www.prisma.io/): Next generation ORM for Node.js & TypeScript
 * ![](https://img.shields.io/github/stars/chimurai/http-proxy-middleware?style=social) [http-proxy-middleware: Node.js proxying made simple. Configure proxy middleware with ease for connect, express, browser-sync and many more.](https://github.com/chimurai/http-proxy-middleware) ⭐ 11,132 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-10
 
-  Powered by the popular Nodejitsu [http-proxy](https://github.com/http-party/node-http-proxy) ⭐ 14,133 | 🐛 620 | 🌐 JavaScript | 📅 2026-08-12
+  Powered by the popular Nodejitsu [http-proxy](https://github.com/http-party/node-http-proxy) ⭐ 14,132 | 🐛 620 | 🌐 JavaScript | 📅 2026-08-12
 
 ### CLI
 
@@ -1068,29 +1068,29 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
   * Only supports Node.js programs as input / output
   * Support all Node.js patterns and npm modules
 
-* ![](https://img.shields.io/github/stars/dominikwilkowski/cfonts?style=social) [cfonts](https://github.com/dominikwilkowski/cfonts) ⭐ 1,882 | 🐛 3 | 🌐 Rust | 📅 2026-08-12 - This is a silly little command line tool for sexy fonts in the console. Give your cli some love
+* ![](https://img.shields.io/github/stars/dominikwilkowski/cfonts?style=social) [cfonts](https://github.com/dominikwilkowski/cfonts) ⭐ 1,883 | 🐛 3 | 🌐 Rust | 📅 2026-08-13 - This is a silly little command line tool for sexy fonts in the console. Give your cli some love
 
 ## Open Source Apps
 
-* ![](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social) [AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 71,497 | 🐛 699 | 🌐 TypeScript | 📅 2026-08-12 - The Next-Gen Knowledge Base to Replace Notion & Miro.
+* ![](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social) [AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 71,517 | 🐛 699 | 🌐 TypeScript | 📅 2026-08-13 - The Next-Gen Knowledge Base to Replace Notion & Miro.
 
-* ![](https://img.shields.io/github/stars/marktext/marktext?style=social)  [MarkText - Next generation markdown editor](https://github.com/marktext/marktext) ⭐ 59,992 | 🐛 635 | 🌐 TypeScript | 📅 2026-07-27: A simple and elegant open-source markdown editor that focused on speed and usability. Available for Linux, macOS and Windows.
+* ![](https://img.shields.io/github/stars/marktext/marktext?style=social)  [MarkText - Next generation markdown editor](https://github.com/marktext/marktext) ⭐ 60,018 | 🐛 642 | 🌐 TypeScript | 📅 2026-07-27: A simple and elegant open-source markdown editor that focused on speed and usability. Available for Linux, macOS and Windows.
 
-* ![](https://img.shields.io/github/stars/twentyhq/twenty?style=social) [twenty](https://github.com/twentyhq/twenty) ⭐ 54,838 | 🐛 166 | 🌐 TypeScript | 📅 2026-08-13 - The #1 Open-Source CRM.
+* ![](https://img.shields.io/github/stars/twentyhq/twenty?style=social) [twenty](https://github.com/twentyhq/twenty) ⭐ 54,886 | 🐛 168 | 🌐 TypeScript | 📅 2026-08-13 - The #1 Open-Source CRM.
   ![](https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/preview-light.png)
   We’ve spent thousands of hours grappling with traditional CRMs like Pipedrive and Salesforce to align them with our business needs, only to end up frustrated — customizations are complex and the closed ecosystems of these platforms can feel restrictive.
 
   We felt the need for a CRM platform that empowers rather than constrains. We believe the next great CRM will come from the open source community. And we’ve packed Twenty with powerful features to give you full control and help you run your business efficiently.
 
-* ![](https://img.shields.io/github/stars/tldraw/tldraw?style=social) [tldraw: a tiny little drawing app](https://github.com/tldraw/tldraw) ⭐ 49,753 | 🐛 452 | 🌐 TypeScript | 📅 2026-08-12: Try it 👉 [online](https://www.tldraw.com/)
+* ![](https://img.shields.io/github/stars/tldraw/tldraw?style=social) [tldraw: a tiny little drawing app](https://github.com/tldraw/tldraw) ⭐ 49,770 | 🐛 458 | 🌐 TypeScript | 📅 2026-08-13: Try it 👉 [online](https://www.tldraw.com/)
 
-* ![](https://img.shields.io/github/stars/slidevjs/slidev?style=social)  [Slidev](https://github.com/slidevjs/slidev) ⭐ 48,063 | 🐛 204 | 🌐 TypeScript | 📅 2026-08-11: Presentation slides for developers 🧑‍💻👩‍💻👨‍💻
+* ![](https://img.shields.io/github/stars/slidevjs/slidev?style=social)  [Slidev](https://github.com/slidevjs/slidev) ⭐ 48,079 | 🐛 206 | 🌐 TypeScript | 📅 2026-08-11: Presentation slides for developers 🧑‍💻👩‍💻👨‍💻
 
-* ![](https://img.shields.io/github/stars/AykutSarac/jsonvisio.com?style=social) [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) ⭐ 44,287 | 🐛 39 | 🌐 TypeScript | 📅 2026-06-15 - JSON Visio is a tool that generates graph diagrams from JSON objects. These diagrams are much easier to navigate than the textual format and to make it even more convenient, the tool also allows you to search the nodes. Additionally, the generated diagrams can also be downloaded or clipboard as image.
+* ![](https://img.shields.io/github/stars/AykutSarac/jsonvisio.com?style=social) [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) ⭐ 44,290 | 🐛 39 | 🌐 TypeScript | 📅 2026-06-15 - JSON Visio is a tool that generates graph diagrams from JSON objects. These diagrams are much easier to navigate than the textual format and to make it even more convenient, the tool also allows you to search the nodes. Additionally, the generated diagrams can also be downloaded or clipboard as image.
 
   You can use the web version at jsonvisio.com or also run it locally as Docker container.
 
-* ![](https://img.shields.io/github/stars/hackjutsu/Lepton?style=social) [Lepton is a lean code snippet manager powered by GitHub Gist.](https://github.com/hackjutsu/Lepton) ⭐ 10,338 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-09
+* ![](https://img.shields.io/github/stars/hackjutsu/Lepton?style=social) [Lepton is a lean code snippet manager powered by GitHub Gist.](https://github.com/hackjutsu/Lepton) ⭐ 10,339 | 🐛 42 | 🌐 JavaScript | 📅 2026-08-09
 
 * ![](https://img.shields.io/github/stars/Th3Wall/Fakeflix?style=social) [Fakeflix](https://github.com/Th3Wall/Fakeflix) ⭐ 4,945 | 🐛 6 | 🌐 JavaScript | 📅 2024-01-16: a Netflix Clone built with React, Redux.
 
@@ -1131,7 +1131,7 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 ## Commerce Apps
 
-* ![](https://img.shields.io/github/stars/yournextstore/yournextstore?style=social) [yournextstore](https://github.com/yournextstore/yournextstore) ⭐ 5,476 | 🐛 2 | 🌐 MDX | 📅 2026-08-10 - Modern Commerce with Next.js and Stripe as the backend.
+* ![](https://img.shields.io/github/stars/yournextstore/yournextstore?style=social) [yournextstore](https://github.com/yournextstore/yournextstore) ⭐ 5,476 | 🐛 2 | 🌐 MDX | 📅 2026-08-13 - Modern Commerce with Next.js and Stripe as the backend.
 
 ## Contribution
 
