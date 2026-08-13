@@ -1,0 +1,3033 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "👍 A set of best practices for JavaScript projects",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-09T07:59:04Z",
+            "owner": "elsewhencode",
+            "repo": "project-guidelines",
+            "stars": 29454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mdo code guide Standards for developing flexible, durable, and sustainable HTML and CSS.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-07-26T02:51:35Z",
+            "owner": "mdo",
+            "repo": "code-guide",
+            "stars": 8467
+          }
+        }
+      ],
+      "title": "Guidelines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "developer-roadmap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T12:43:15Z",
+            "owner": "nilbuild",
+            "repo": "developer-roadmap",
+            "stars": 364271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "browser-2020",
+          "description": "This repo contains a non-exhaustive list of less-known features implemented in browsers today.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-28T13:56:07Z",
+            "owner": "luruke",
+            "repo": "browser-2020",
+            "stars": 7974
+          }
+        }
+      ],
+      "title": "Some Reading List"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "What the f*ck JavaScript? A list of funny and tricky JavaScript examples. JavaScript is a great language. It has a simple syntax, large ecosystem and, what is most important, a great community. At the same time, we all know that JavaScript is quite a funny language with tricky parts. Some of them can quickly turn our everyday job into hell, and some of them can make us laugh out loud.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-03T09:48:44Z",
+            "owner": "denysdovhan",
+            "repo": "wtfjs",
+            "stars": 37688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The JavaScript Way: A modern introduction to an essential language.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-01-30T10:47:23Z",
+            "owner": "thejsway",
+            "repo": "thejsway",
+            "stars": 7883
+          }
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sveltejs: a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "sveltejs/kit",
+              "description": "The Fastest Way to Build Svelte Apps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-13T01:38:04Z",
+                "owner": "sveltejs",
+                "repo": "kit",
+                "stars": 20739
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T18:12:40Z",
+            "owner": "sveltejs",
+            "repo": "svelte",
+            "stars": 87971
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blitz - The Fullstack React Framework",
+          "description": "\"Zero-API\" Data Layer — Built on Next.js — Inspired by Ruby on Rails",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-21T13:13:37Z",
+            "owner": "blitz-js",
+            "repo": "blitz",
+            "stars": 14134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mitt",
+          "description": "Tiny 200b functional event emitter / pubsub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-14T08:58:20Z",
+            "owner": "developit",
+            "repo": "mitt",
+            "stars": 11900
+          }
+        }
+      ],
+      "title": "Framework"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Partytown is a lazy-loaded 6kb library to help relocate resource intensive scripts into a web worker, and off of the main thread. Its goal is to help speed up sites by dedicating the main thread to your code, and offloading third-party scripts to a web worker.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T09:34:42Z",
+            "owner": "QwikDev",
+            "repo": "partytown",
+            "stars": 13754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Miniflare is a simulator for developing and testing Cloudflare Workers.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-03-13T11:28:31Z",
+            "owner": "cloudflare",
+            "repo": "miniflare",
+            "stars": 3923
+          }
+        }
+      ],
+      "title": "Web Workers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Windi CSS: Next generation utility-first CSS framework. If you are already familiar with Tailwind CSS, think about Windi CSS as an on-demanded alternative to Tailwind, which provides faster load times, fully compatible with Tailwind v2.0 and with a bunch of additional cool features.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-21T23:11:31Z",
+            "owner": "windicss",
+            "repo": "windicss",
+            "stars": 6509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSSFX: Beautifully simple click-to-copy CSS effects",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2021-08-15T20:26:20Z",
+            "owner": "jolaleye",
+            "repo": "cssfx",
+            "stars": 6122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sanitize.css is a CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. It is developed alongside normalize.css, which means every normalization is included, and every normalization and opinion are clearly marked and documented.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-03-26T11:31:36Z",
+            "owner": "csstools",
+            "repo": "sanitize.css",
+            "stars": 5298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💗❤️clay.css",
+          "description": "Micro CSS util class for applying inflated fluffy 3D claymorphism styles to elements. Fully customizable and extensible with CSS variables. SASS mixin is also included for even more styling options.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2022-11-23T10:42:50Z",
+            "owner": "codeAdrian",
+            "repo": "clay.css",
+            "stars": 573
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "tailwindcss: Rapidly build modern websites without ever leaving your HTML. A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "daisyui",
+              "description": "Tailwind CSS Components: Adds component classes like btn, card and more to Tailwind CSS",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T13:48:08Z",
+                "owner": "saadeghi",
+                "repo": "daisyui",
+                "stars": 42054
+              }
+            }
+          ]
+        }
+      ],
+      "title": "CSS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "neumorphism.io",
+          "description": "CSS code generator for a new popular design trend called Neumorphism/Soft UI. I hope this will help designers and developers experiment with it and possibly adapt it. Built with React.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-24T13:01:11Z",
+            "owner": "adamgiebl",
+            "repo": "neumorphism",
+            "stars": 6136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ui-neumorphism",
+          "description": "📕 React component library designed on the \"new skeuomorphism\" or \"neumorphism\" UI/UX trend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-17T11:23:34Z",
+            "owner": "AKAspanion",
+            "repo": "ui-neumorphism",
+            "stars": 653
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tailwindcss-neumorphism",
+          "description": "Generate soft UI CSS code using tailwindcss",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-13T20:55:19Z",
+            "owner": "sambeevors",
+            "repo": "tailwindcss-neumorphism",
+            "stars": 160
+          }
+        }
+      ],
+      "title": "Neumorphism"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vueuse",
+          "description": "Collection of essential Vue Composition Utilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:31:30Z",
+            "owner": "vueuse",
+            "repo": "vueuse",
+            "stars": 22323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pico.js & lploc.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-08-25T22:05:20Z",
+            "owner": "nenadmarkus",
+            "repo": "picojs",
+            "stars": 6294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "radash",
+          "description": "unctional utility library - modern, simple, typed, powerful",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-18T04:22:29Z",
+            "owner": "sodiray",
+            "repo": "radash",
+            "stars": 4838
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "createjs: A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EaselJS: The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-01-24T17:25:05Z",
+                "owner": "CreateJS",
+                "repo": "EaselJS",
+                "stars": 8162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SoundJS: A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneGap, and a Flash fallback.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2021-03-27T15:13:45Z",
+                "owner": "CreateJS",
+                "repo": "SoundJS",
+                "stars": 4580
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TweenJS: A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-12-18T07:44:25Z",
+                "owner": "CreateJS",
+                "repo": "TweenJS",
+                "stars": 3547
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PreloadJS: PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-07-24T16:54:01Z",
+                "owner": "CreateJS",
+                "repo": "PreloadJS",
+                "stars": 2870
+              }
+            }
+          ]
+        }
+      ],
+      "title": "JavaScript"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cube.js: Cube.js is an open-source analytical API platform. It is primarily used to build internal business intelligence tools or add customer-facing analytics to existing applications.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T02:40:34Z",
+            "owner": "cube-js",
+            "repo": "cube",
+            "stars": 20609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neuro.js is machine learning framework for building AI assistants and chat-bots.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-05-21T15:39:12Z",
+            "owner": "intelligo-mn",
+            "repo": "neuro",
+            "stars": 203
+          }
+        }
+      ],
+      "title": "Machine Learning & AI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "👍mermaid",
+          "description": "Mermaid lets you create diagrams and visualizations using text and code. It is a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:22:10Z",
+            "owner": "mermaid-js",
+            "repo": "mermaid",
+            "stars": 89718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "echarts - An easy of adding intuitive, interactive, and highly customizable charts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T09:07:09Z",
+            "owner": "apache",
+            "repo": "echarts",
+            "stars": 67059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "😋 rough: Create graphics with a hand-drawn, sketchy, appearance",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-07-28T21:12:58Z",
+            "owner": "rough-stuff",
+            "repo": "rough",
+            "stars": 21126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mapbox-gl-js: Mapbox GL JS is a JavaScript library for interactive, customizable vector maps on the web. It takes map styles that conform to the Mapbox Style Specification, applies them to vector tiles that conform to the Mapbox Vector Tile Specification, and renders them using WebGL.Mapbox GL JS is part of the cross-platform Mapbox GL ecosystem, which also includes compatible native SDKs for applications on Android, iOS, macOS, Qt, and React Native. Mapbox provides building blocks to add location features like maps, search, and navigation into any experience you create. To get started with GL JS or any of our other building blocks, sign up for a Mapbox account.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:28:42Z",
+            "owner": "mapbox",
+            "repo": "mapbox-gl-js",
+            "stars": 12373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flowchartjs: Draws simple SVG flow chart diagrams from textual representation of the diagram",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-15T10:51:12Z",
+            "owner": "adrai",
+            "repo": "flowchart.js",
+            "stars": 8697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "textures.js: Textures.js is a JavaScript library for creating SVG patterns. Made on top of d3.js, it is designed for data visualization.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-01T20:03:38Z",
+            "owner": "riccardoscalco",
+            "repo": "textures",
+            "stars": 6090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "revogrid: Powerful data grid component built with StencilJS. Support Millions of cells and thousands columns easy and efficiently for fast data rendering. Easy to use.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T15:55:36Z",
+            "owner": "revolist",
+            "repo": "revogrid",
+            "stars": 3434
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "D3.js - A JavaScript library for manipulating documents based on data using HTML, SVG and CSS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "d3-flame-graph: A D3.js plugin that produces flame graphs from hierarchical data.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-04T03:27:10Z",
+                "owner": "spiermar",
+                "repo": "d3-flame-graph",
+                "stars": 978
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Chart & Data Visualization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "File"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jQuery File Upload Plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PHP",
+            "last_commit": "2026-04-08T09:52:14Z",
+            "owner": "blueimp",
+            "repo": "jQuery-File-Upload",
+            "stars": 30726
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-dropzone",
+          "description": "Simple React hook to create a HTML5-compliant drag'n'drop zone for files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T12:20:53Z",
+            "owner": "react-dropzone",
+            "repo": "react-dropzone",
+            "stars": 11014
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Uploader - 一个以 HTML5 为主 FLASH 为辅, 各种老旧浏览器兼容性好(IE6+ Andorid 4+ IOS 6+)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-01-27T12:18:56Z",
+            "owner": "fex-team",
+            "repo": "webuploader",
+            "stars": 7639
+          }
+        }
+      ],
+      "title": "Upload"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "👍👍 nprogress - For slim progress bars like on YouTube, Medium",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-06-04T00:38:39Z",
+            "owner": "rstacruz",
+            "repo": "nprogress",
+            "stars": 26385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpinKit: A collection of loading indicators animated with CSS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2020-08-01T09:04:59Z",
+            "owner": "tobiasahlin",
+            "repo": "SpinKit",
+            "stars": 19336
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Single Element CSS Spinners - Each spinner consists of a single with a class of and content text of \"Loading...\". The text is for screen readers and can be used as a fallback state for older browsers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-02-21T15:13:22Z",
+            "owner": "lukehaas",
+            "repo": "css-loaders",
+            "stars": 7056
+          }
+        }
+      ],
+      "title": "Loader"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "featcher - a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-11T02:18:59Z",
+            "owner": "feathericons",
+            "repo": "feather",
+            "stars": 25975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Titanic - A collection of animated icons + javascript library.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-30T09:26:13Z",
+            "owner": "icons8",
+            "repo": "titanic",
+            "stars": 2431
+          }
+        }
+      ],
+      "title": "Icon"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sonner",
+          "description": "is an opinionated toast component for React..",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T11:13:03Z",
+            "owner": "emilkowalski",
+            "repo": "sonner",
+            "stars": 12833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "toastr - A Javascript library fo non-blocking notifications",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-27T15:44:28Z",
+            "owner": "CodeSeven",
+            "repo": "toastr",
+            "stars": 12105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Angular Toastr",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-10T18:30:16Z",
+            "owner": "Foxandxss",
+            "repo": "angular-toastr",
+            "stars": 1276
+          }
+        }
+      ],
+      "title": "Notification"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "animate.css - A cross-browser library of CSS animations. As easy to use as an easy thing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-07-29T19:34:21Z",
+            "owner": "animate-css",
+            "repo": "animate.css",
+            "stars": 82743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💗 💗 anime.js - JavaScript Animation Engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T16:40:09Z",
+            "owner": "juliangarnier",
+            "repo": "anime",
+            "stars": 72110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "❗️ lottie for web: Render After Effects animations natively on Web, Android and iOS, and React Native",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-01T09:01:31Z",
+            "owner": "airbnb",
+            "repo": "lottie-web",
+            "stars": 32045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hover.css - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2023-10-28T16:07:33Z",
+            "owner": "IanLunn",
+            "repo": "Hover",
+            "stars": 29397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React-Motion: A spring that solves your animation problems.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-05T12:11:49Z",
+            "owner": "chenglou",
+            "repo": "react-motion",
+            "stars": 21913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theatre",
+          "description": "heatre.js is an animation library for high-fidelity motion graphics. It is designed to help you express detailed animation, enabling you to create intricate movement, and convey nuance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-14T13:20:18Z",
+            "owner": "theatre-js",
+            "repo": "theatre",
+            "stars": 12597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "countUp.js: Animates a numerical value by counting to it",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-02T13:12:43Z",
+            "owner": "inorganik",
+            "repo": "countUp.js",
+            "stars": 8157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dynamics.js: Dynamics.js is a JavaScript library to create physics-based animations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2019-02-26T06:19:21Z",
+            "owner": "michaelvillar",
+            "repo": "dynamics.js",
+            "stars": 7546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odometer - a Javascript and CSS library for smoothly transitioning numbers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "CSS",
+            "last_commit": "2018-06-30T03:01:51Z",
+            "owner": "HubSpot",
+            "repo": "odometer",
+            "stars": 7296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "css-loaders - A collection of loading spinners animated with CSS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-02-21T15:13:22Z",
+            "owner": "lukehaas",
+            "repo": "css-loaders",
+            "stars": 7056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "elevator.js: Finally, a \"back to top\" button that behaves like a real elevator, by adding elevator music to quietly soothe the awkwardness that can ensue when being smoothly scrolled to the top of the screen.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-06-26T15:20:00Z",
+            "owner": "tholman",
+            "repo": "elevator.js",
+            "stars": 6640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpriteJS is a cross-platform lightweight 2D render object model. Draw graphics on a canvas through simple object-oriented dom-like API. Vue & React/Preact supported.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-09T14:25:58Z",
+            "owner": "spritejs",
+            "repo": "spritejs",
+            "stars": 5390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":thumbsup:snabbt.js - Fast animations with Javascript and CSS transforms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-10T21:22:34Z",
+            "owner": "daniel-lundin",
+            "repo": "snabbt.js",
+            "stars": 5169
+          }
+        }
+      ],
+      "title": "Animations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PhotoSwipe - JavaScript image gallery for mobile and desktop",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-04T07:31:46Z",
+            "owner": "dimsemenov",
+            "repo": "PhotoSwipe",
+            "stars": 25240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mo · js is a javascript motion graphics library that is a fast, retina ready, modular and open source. In comparison to other libraries, it have a different syntax and code animation structure approach. The declarative API provides you a complete control over the animation, making it customizable with ease. The library provides built-in components to start animating from scratch like html, shape, swirl, burst and stagger, but also bring you tools to help craft your animation in a most natural way. Using mojs on your site will enhance the user experience, enrich your content visually and create delightful animations precisely.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2026-07-30T16:54:33Z",
+            "owner": "mojs",
+            "repo": "mojs",
+            "stars": 18752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "watermarkjs: Watermarking for the browser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-09-29T07:51:08Z",
+            "owner": "brianium",
+            "repo": "watermarkjs",
+            "stars": 1733
+          }
+        }
+      ],
+      "title": "Images"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "plaiceholder",
+          "description": "\"Plaiceholder\" is a collection of Node.js helpers for creating low quality image placeholders, with several approaches to choose from: 1. CSS (recommended); 2. SVG; 3. Base64; 4. Blurehash; 5. Blurehash to CSS(Experimental 🧪)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-05-24T17:31:36Z",
+            "owner": "joe-bell",
+            "repo": "plaiceholder",
+            "stars": 2318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webp2jpg-online: Online image format converter, jpeg, jpg, PNG, Gif, webp, svg, ICO, bmp files into Jpeg, PNG, webp, ICO, gif files. The conversion can be done locally without uploading the file Online picture format converter, can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files into jpeg, png, webp, ico, gif files. No need to upload files, conversion can be done locally",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-21T10:48:25Z",
+            "owner": "renzhezhilu",
+            "repo": "webp2jpg-online",
+            "stars": 2023
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jquery_lazyload: Vanilla JavaScript plugin for lazyloading images",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-05T01:36:15Z",
+            "owner": "tuupola",
+            "repo": "lazyload",
+            "stars": 8713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "verlok/lazyload: LazyLoad is a fast, lightweight and flexible script that speeds up your web application by loading images as they enter the viewport. It's written in plain \"vanilla\" JavaScript, uses IntersectionObserver, and supports responsive images. It's also SEO-friendly and it has some other notable features.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-22T20:24:15Z",
+            "owner": "verlok",
+            "repo": "vanilla-lazyload",
+            "stars": 7855
+          }
+        }
+      ],
+      "title": "Lazyload"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LXGW WenKai / 霞鹜文楷",
+          "description": "An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-30T16:12:17Z",
+            "owner": "lxgw",
+            "repo": "LxgwWenKai",
+            "stars": 25478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "free-font",
+          "description": "汉字字体制作是一个庞大的工程，不同于西文字库，汉字常用字库表就有 6763 个汉字，GBK标准中共有20902 个汉字，而新出版的 GB_18064，共有六万多个字符。而且汉字的字形相对较为复杂，一套中文字体的完成需要耗费大量专业人士的精力和时间，我们倡导大家使用正版字体，为中文字体的制作创造一个良性的环境。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-27T15:36:34Z",
+            "owner": "wordshub",
+            "repo": "free-font",
+            "stars": 6413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "俐方體11號／Cubic 11",
+          "description": "俐方體11號是基於 M⁺ gothic 12r 衍生的開源繁體中文點陣字型，可用於像素風格的遊戲以及美術當中。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-27T13:21:07Z",
+            "owner": "ACh-K",
+            "repo": "Cubic-11",
+            "stars": 1707
+          }
+        }
+      ],
+      "title": "Font"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Semantic-UI - A UI component framework based around useful principles from natural language.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-27T21:01:48Z",
+            "owner": "Semantic-Org",
+            "repo": "Semantic-UI",
+            "stars": 51026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Primer CSS - Primer is the CSS toolkit that powers GitHub's front-end design. It's purposefully limited to common components to provide our developers with the most flexibility, and to keep GitHub uniquely GitHubby. It's built with SCSS and available via NPM, so it's easy to include all or part of it within your own project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-11T16:01:42Z",
+            "owner": "primer",
+            "repo": "css",
+            "stars": 13000
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Bootstrap - May be the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gentelella - An awesome !! Free Bootstrap 3 Admin Template",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-08-07T11:43:10Z",
+                "owner": "ColorlibHQ",
+                "repo": "gentelella",
+                "stars": 21470
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Flat-UI - Based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2025-07-08T20:18:07Z",
+                "owner": "designmodo",
+                "repo": "Flat-UI",
+                "stars": 15237
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Material Design",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "material-ui - React Components that Implement Google's Material Design",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-12T15:30:27Z",
+                "owner": "mui",
+                "repo": "material-ui",
+                "stars": 98754
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "material-design-lite - Material Design Components in HTML/CSS/JS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "HTML",
+                "last_commit": "2026-05-03T01:41:50Z",
+                "owner": "google",
+                "repo": "material-design-lite",
+                "stars": 32189
+              }
+            }
+          ]
+        }
+      ],
+      "title": "UI Kits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "element-plus: Vue 3.0 Composition API; Written in TypeScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:49:26Z",
+            "owner": "element-plus",
+            "repo": "element-plus",
+            "stars": 27674
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vux: Mobile UI Components based on Vue & WeUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-17T23:32:23Z",
+            "owner": "airyland",
+            "repo": "vux",
+            "stars": 17464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mint-ui: Mobile UI elements for Vue.js by Eleme",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-02-28T17:06:11Z",
+            "owner": "ElemeFE",
+            "repo": "mint-ui",
+            "stars": 16439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "buefy: Lightweight UI components for Vue.js based on Bulma",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-11T21:50:40Z",
+            "owner": "buefy",
+            "repo": "buefy",
+            "stars": 9522
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NutUI 2(JingDong): A light mobile Toolkit based on Vue",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-04-02T05:55:12Z",
+            "owner": "jd-opensource",
+            "repo": "nutui",
+            "stars": 6507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vuesax: New Framework Components for Vue.js 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-08-03T22:51:51Z",
+            "owner": "lusaxweb",
+            "repo": "vuesax",
+            "stars": 5587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AT-UI: A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-01-12T09:50:00Z",
+            "owner": "AT-UI",
+            "repo": "at-ui",
+            "stars": 2318
+          }
+        }
+      ],
+      "title": "Vue"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "chakra-ui",
+          "description": "Chakra UI provides a set of accessible, reusable, and composable React components that make it super easy to create websites and apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:54:40Z",
+            "owner": "chakra-ui",
+            "repo": "chakra-ui",
+            "stars": 40573
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "office-ui-fabric-react: React components for building experiences for Office and Office 365.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:10:38Z",
+            "owner": "microsoft",
+            "repo": "fluentui",
+            "stars": 20208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evergreen: Evergreen React UI Framework by Segment",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-25T23:25:22Z",
+            "owner": "segmentio",
+            "repo": "evergreen",
+            "stars": 12426
+          }
+        }
+      ],
+      "title": "React"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wxapp-market: 小程序营销组件 大转盘 刮刮乐 老虎机 水果机 九宫格翻纸牌 摇一摇 手势解锁",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-25T07:29:20Z",
+            "owner": "o2team",
+            "repo": "wxapp-market",
+            "stars": 2650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MinUI: MinUI 是基于微信小程序自定义组件特性开发而成的一套简洁、易用、高效的组件库，适用场景广，覆盖小程序原生框架，各种小程序组件主流框架等，并且提供了专门的命令行工具",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "WeChat"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "popper.js - A kickass library to manage your poppers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T10:46:11Z",
+            "owner": "floating-ui",
+            "repo": "floating-ui",
+            "stars": 32698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webui-popover - A lightWeight popover plugin with jquery, enchance the popover plugin of bootstrap with some awesome new features. It works well with bootstrap, but bootstrap is not necessary!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-07-08T09:03:51Z",
+            "owner": "sandywalker",
+            "repo": "webui-popover",
+            "stars": 884
+          }
+        }
+      ],
+      "title": "Popper"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "✨🌟 react-beautiful-dnd: Beautiful and accessible drag and drop for lists with React",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-08-18T04:35:31Z",
+            "owner": "atlassian",
+            "repo": "react-beautiful-dnd",
+            "stars": 33952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Knockout and any CSS library, e.g. Bootstrap.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-24T22:02:22Z",
+            "owner": "SortableJS",
+            "repo": "Sortable",
+            "stars": 31167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dragula - Browser support includes every sane browser and IE7+. Framework support includes vanilla JavaScript, Angular, and React",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-07T11:46:14Z",
+            "owner": "bevacqua",
+            "repo": "dragula",
+            "stars": 22141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue.Draggable: Vue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-04T07:33:56Z",
+            "owner": "SortableJS",
+            "repo": "Vue.Draggable",
+            "stars": 20592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VvvebJs: Drag and drop website builder javascript library. http://www.vvveb.com/vvvebjs/editor.html",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-01T16:47:27Z",
+            "owner": "givanz",
+            "repo": "VvvebJs",
+            "stars": 8587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swapy",
+          "description": "A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-19T12:36:20Z",
+            "owner": "TahaSh",
+            "repo": "swapy",
+            "stars": 8509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-draggable-plus",
+          "description": "Drag and drop sorting module, support Vue>=v3 or Vue>=2.7",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-03-13T01:42:04Z",
+            "owner": "Alfred-Skyblue",
+            "repo": "vue-draggable-plus",
+            "stars": 4012
+          }
+        }
+      ],
+      "title": "Drag and Drop"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "👍✨🌟💗Microsoft/monaco-editor: A browser based code editor which powers VS Code",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T18:21:44Z",
+            "owner": "microsoft",
+            "repo": "monaco-editor",
+            "stars": 46544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeMirror",
+          "description": "CodeMirror is a versatile text editor implemented in JavaScript for the browser. It is specialized for editing code, and comes with over 100 language modes and various addons that implement more advanced editing functionality. Every language comes with fully-featured code and syntax highlighting to help with reading and editing complex code. (语雀早期方案)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-04-16T15:39:18Z",
+            "owner": "codemirror",
+            "repo": "codemirror5",
+            "stars": 27238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ace - A standalone code editor written in JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T13:53:26Z",
+            "owner": "ajaxorg",
+            "repo": "ace",
+            "stars": 27143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinymce: The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:39:08Z",
+            "owner": "tinymce",
+            "repo": "tinymce",
+            "stars": 16274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrismJS",
+          "description": "Prism is a lightweight, robust, and elegant syntax highlighting library. It's a spin-off project from Dabblet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-29T15:55:31Z",
+            "owner": "PrismJS",
+            "repo": "prism",
+            "stars": 13036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rete.js: JavaScript(TypeScript) framework for visual programming. Rete is a modular framework for visual programming. Rete allows you to create node-based editor directly in the browser. You can define nodes and workers that allow users to create instructions for processing data in your editor without a single line of code.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T04:24:16Z",
+            "owner": "retejs",
+            "repo": "rete",
+            "stars": 12134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pell - pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-12T17:09:57Z",
+            "owner": "jaredreich",
+            "repo": "pell",
+            "stars": 12049
+          }
+        }
+      ],
+      "title": "Editor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "✨✨✨✨✨❤️ stackedit: In-browser Markdown editor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-04T16:12:06Z",
+            "owner": "benweet",
+            "repo": "stackedit",
+            "stars": 23056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "💗 markdown-it",
+          "description": "Markdown parser done right. Fast and easy to extend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:31:06Z",
+            "owner": "markdown-it",
+            "repo": "markdown-it",
+            "stars": 21804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vditor: Vditor 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript、Vue、React、Angular，提供桌面版。",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T08:54:07Z",
+            "owner": "Vanessa219",
+            "repo": "vditor",
+            "stars": 11226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimpleMDE - Markdown Editor",
+          "description": "A drop-in JavaScript textarea replacement for writing beautiful and understandable Markdown. The WYSIWYG-esque editor allows users who may be less experienced with Markdown to use familiar toolbar buttons and shortcuts. In addition, the syntax is rendered while editing to clearly show the expected result. Headings are larger, emphasized words are italicized, links are underlined, etc. SimpleMDE is one of the first editors to feature both built-in autosaving and spell checking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-11T05:28:19Z",
+            "owner": "sparksuite",
+            "repo": "simplemde-markdown-editor",
+            "stars": 10144
+          }
+        }
+      ],
+      "title": "Markdown"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Highlight.js - Highlight.js is a syntax highlighter written in JavaScript. It works in the browser as well as on the server. It works with pretty much any markup, doesn’t depend on any framework and has automatic language detection.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T21:56:24Z",
+            "owner": "highlightjs",
+            "repo": "highlight.js",
+            "stars": 24981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HR.js - Tiny JavaScript plugin for highlighting and replacing text in the DOM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-27T19:45:55Z",
+            "owner": "mburakerman",
+            "repo": "hrjs",
+            "stars": 441
+          }
+        }
+      ],
+      "title": "Highlight"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CesiumJS is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T23:05:37Z",
+            "owner": "CesiumGS",
+            "repo": "cesium",
+            "stars": 15558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whs.js: Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-01T10:46:13Z",
+            "owner": "WhitestormJS",
+            "repo": "whs.js",
+            "stars": 6348
+          }
+        }
+      ],
+      "title": "3D"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "👍👍 ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. It was designed to be robust and flexible, but hopefully you’ll be surprised below at how easy it is to pick up.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-05T17:55:48Z",
+            "owner": "jlmakes",
+            "repo": "scrollreveal",
+            "stars": 22473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iScrolljs - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2018-12-13T19:06:24Z",
+            "owner": "cubiq",
+            "repo": "iscroll",
+            "stars": 12807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rellax: Lightweight, vanilla javascript parallax library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-08-24T00:53:35Z",
+            "owner": "dixonandmoe",
+            "repo": "rellax",
+            "stars": 7136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parallax.js: Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-05-11T11:39:51Z",
+            "owner": "pixelcog",
+            "repo": "parallax.js",
+            "stars": 3535
+          }
+        }
+      ],
+      "title": "Scroll & Parallax"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-color",
+          "description": "1. 13 Different Pickers - Sketch, Photoshop, Chrome and many more; 2.Make Your Own - Use the building block components to make your own",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-12T23:19:54Z",
+            "owner": "casesandberg",
+            "repo": "react-color",
+            "stars": 12320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinyColor",
+          "description": "TinyColor is a small, fast library for color manipulation and conversion in JavaScript. It allows many forms of input, while providing color conversions and other color utility functions. It has no dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-26T15:48:44Z",
+            "owner": "bgrins",
+            "repo": "TinyColor",
+            "stars": 5247
+          }
+        }
+      ],
+      "title": "Color"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "qrcodejs - just for making QRCode and no other depedencies. It supports Cross-browser with HTML5 Canvas and table tag in DOM",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-01T10:44:40Z",
+            "owner": "davidshimjs",
+            "repo": "qrcodejs",
+            "stars": 14301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qrious - Pure JavaScript library for QR code generation using canvas",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-18T16:43:55Z",
+            "owner": "airmrcr",
+            "repo": "qrious",
+            "stars": 1617
+          }
+        }
+      ],
+      "title": "QRCode"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "中文文案排版指北",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-07T13:22:24Z",
+            "owner": "sparanoid",
+            "repo": "chinese-copywriting-guidelines",
+            "stars": 15624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "typo.css - 一致化浏览器排版效果，构建最适合中文阅读的网页排版，包括桌面和移动平台",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-06-25T15:36:13Z",
+            "owner": "sofish",
+            "repo": "typo.css",
+            "stars": 4543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yue.css - A typography stylesheet for readable content",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-07-21T07:48:28Z",
+            "owner": "typlog",
+            "repo": "yue.css",
+            "stars": 492
+          }
+        }
+      ],
+      "title": "Typography Stylesheet"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "html5shiv - This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-07T13:46:38Z",
+            "owner": "aFarkas",
+            "repo": "html5shiv",
+            "stars": 9846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "es6 promise - A polyfill for ES6-style Promises",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-14T21:47:12Z",
+            "owner": "stefanpenner",
+            "repo": "es6-promise",
+            "stars": 7256
+          }
+        }
+      ],
+      "title": "Compatibility"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":+1:json-server Mock Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-23T19:40:00Z",
+            "owner": "typicode",
+            "repo": "json-server",
+            "stars": 75698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nodemon - Monitor for any changes in your node.js application and automatically restart the server - perfect for development",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T16:53:59Z",
+            "owner": "remy",
+            "repo": "nodemon",
+            "stars": 26683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wmr",
+          "description": "The tiny all-in-one development tool for modern web apps, in a single 2mb file with no dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-19T07:13:38Z",
+            "owner": "preactjs",
+            "repo": "wmr",
+            "stars": 4921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sizzy - A tool for developing responsive websites crazy-fast",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "signoz",
+          "description": "SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:13:55Z",
+            "owner": "SigNoz",
+            "repo": "signoz",
+            "stars": 31830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openreplay - Session replay for developers",
+          "description": "The most advanced open-source session replay to build delightful web apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T12:29:11Z",
+            "owner": "openreplay",
+            "repo": "openreplay",
+            "stars": 12491
+          }
+        }
+      ],
+      "title": "Monitor"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "facebook/docusaurus",
+          "description": "Docusaurus is a project for building, deploying, and maintaining open source project websites easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T21:10:56Z",
+            "owner": "facebook",
+            "repo": "docusaurus",
+            "stars": 65905
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "documentation.js The documentation system for modern JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-15T18:50:26Z",
+            "owner": "documentationjs",
+            "repo": "documentation",
+            "stars": 5800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docute: Effortless documentation, done right.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-09-25T09:19:06Z",
+            "owner": "egoist",
+            "repo": "docute",
+            "stars": 3812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESDoc - Good Documentation for JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-14T11:10:32Z",
+            "owner": "esdoc",
+            "repo": "esdoc",
+            "stars": 2731
+          }
+        }
+      ],
+      "title": "Docs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tabler Icons: A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a 2px stroke.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T22:53:46Z",
+            "owner": "tabler",
+            "repo": "tabler-icons",
+            "stars": 21356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IconPark:IconPark gives access to more than 2000 high-quality icons, and introduces an interface for customizing your icons. Instead of using various SVG source files to achieve different themes, We implement a technology transforming attributes of a single SVG source file into multiple themes. Besides, we provide cross-platform components, including react-icons, vue-icons and svg-icons. So whether you are a designer or a developer, you can use them in your designs or your projects for free.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-02-24T07:46:02Z",
+            "owner": "bytedance",
+            "repo": "IconPark",
+            "stars": 9065
+          }
+        }
+      ],
+      "title": "Icons"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lerna: A tool for managing JavaScript projects with multiple packages.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T23:13:32Z",
+            "owner": "lerna",
+            "repo": "lerna",
+            "stars": 36054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pnpm: Fast, disk space efficient package manager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:26:08Z",
+            "owner": "pnpm",
+            "repo": "pnpm",
+            "stars": 36045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple-git-hooks",
+          "description": "A tool that lets you easily manage git hooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T06:30:10Z",
+            "owner": "toplenboren",
+            "repo": "simple-git-hooks",
+            "stars": 1674
+          }
+        }
+      ],
+      "title": "Project Manage"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mock - A simulation data generator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-15T01:53:57Z",
+            "owner": "nuysoft",
+            "repo": "Mock",
+            "stars": 19597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "faker.js: generate massive amounts of fake data in the browser and node.js",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Mock"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "k6",
+          "description": "A modern load testing tool for developers and testers in the DevOps era. k6is a modern load testing tool, building on our years of experience in the load and performance testing industry. It provides a clean, approachable scripting API, local and cloud execution, and flexible configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T15:12:53Z",
+            "owner": "grafana",
+            "repo": "k6",
+            "stars": 31248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ava - 🚀 Futuristic JavaScript test runner: Even though JavaScript is single-threaded, IO in Node.js can happen in parallel due to its async nature. AVA takes advantage of this and runs your tests concurrently, which is especially beneficial for IO heavy tests. In addition, test files are run in parallel as separate processes, giving you even better performance and an isolated environment for each test file. from Mocha to AVA in Pageres brought the test time down from 31 to 11 seconds. Having tests run concurrently forces you to write atomic tests, meaning tests don't depend on global state or the state of other tests, which is a great thing!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-17T10:19:10Z",
+            "owner": "avajs",
+            "repo": "ava",
+            "stars": 20834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gremlins.js",
+          "description": "A monkey testing library written in JavaScript, for Node.js and the browser. Use it to check the robustness of web applications by unleashing a horde of undisciplined gremlins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-06T22:42:44Z",
+            "owner": "marmelab",
+            "repo": "gremlins.js",
+            "stars": 9090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cucumber.js(BBD): Cucumber is a tool for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:20:23Z",
+            "owner": "cucumber",
+            "repo": "cucumber-js",
+            "stars": 5382
+          }
+        }
+      ],
+      "title": "Test"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "axios - Promise based HTTP client for the browser and node.js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T16:27:49Z",
+            "owner": "axios",
+            "repo": "axios",
+            "stars": 109230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reqwest: All over again. Includes support for xmlHttpRequest, JSONP, CORS, and CommonJS Promises A. It is also isomorphic allowing you to require('reqwest') in Node.js through the peer dependency xhr2, albeit the original intent of this library is for the browser. For a more thorough solution for Node.js, see mikeal/request.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-10-03T11:58:08Z",
+            "owner": "ded",
+            "repo": "reqwest",
+            "stars": 2924
+          }
+        }
+      ],
+      "title": "HTTP Client/Request"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Prettier is an opinionated code formatter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T00:38:38Z",
+            "owner": "prettier",
+            "repo": "prettier",
+            "stars": 52195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "esbuild: An extremely fast JavaScript bundle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-09T17:20:12Z",
+            "owner": "evanw",
+            "repo": "esbuild",
+            "stars": 40018
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swc",
+          "description": "is a super-fast typescript / javascript compiler written in rust. It's a library for rust and javascript at the same time. If you are using swc from rust, see rustdoc and for most users, your entrypoint for using library will be parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T15:07:26Z",
+            "owner": "swc-project",
+            "repo": "swc",
+            "stars": 34180
+          }
+        }
+      ],
+      "title": "Compile & Pack"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "webpack-bundle-analyzer: Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T16:23:05Z",
+            "owner": "webpack",
+            "repo": "webpack-bundle-analyzer",
+            "stars": 12662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Happypack: Happiness in the form of faster webpack build times.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2020-09-04T00:55:20Z",
+            "owner": "amireh",
+            "repo": "happypack",
+            "stars": 4238
+          }
+        }
+      ],
+      "title": "Webpack"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gatsby: Blazing fast modern site generator for React Go beyond static sites: build blogs, e-commerce sites, full-blown apps, and more with Gatsby.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T05:12:32Z",
+            "owner": "gatsbyjs",
+            "repo": "gatsby",
+            "stars": 55941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-static: A progressive static site generator for React.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-31T19:59:37Z",
+            "owner": "react-static",
+            "repo": "react-static",
+            "stars": 10346
+          }
+        }
+      ],
+      "title": "Static Sites"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ffmpeg.wasm",
+          "description": "is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-01T08:35:30Z",
+            "owner": "ffmpegwasm",
+            "repo": "ffmpeg.wasm",
+            "stars": 17717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RecordRTC",
+          "description": "WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-13T00:39:07Z",
+            "owner": "muaz-khan",
+            "repo": "RecordRTC",
+            "stars": 6913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSMpeg – MPEG1 Video & MP2 Audio Decoder in JavaScript",
+          "description": "JSMpeg is a Video Player written in JavaScript. It consists of an MPEG-TS demuxer, MPEG1 video & MP2 audio decoders, WebGL & Canvas2D renderers and WebAudio sound output. JSMpeg can load static videos via Ajax and allows low latency streaming (~50ms) via WebSockets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-20T10:28:16Z",
+            "owner": "phoboslab",
+            "repo": "jsmpeg",
+            "stars": 6498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoundManager2:A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-22T03:54:07Z",
+            "owner": "scottschiller",
+            "repo": "SoundManager2",
+            "stars": 5081
+          }
+        }
+      ],
+      "title": "Audio & Video"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "video.js - An HTML5 & Flash video player",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T10:03:33Z",
+            "owner": "videojs",
+            "repo": "video.js",
+            "stars": 39848
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-04T03:04:09Z",
+            "owner": "DIYgod",
+            "repo": "DPlayer",
+            "stars": 16474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xgplayer",
+          "description": "is a web video and audio player library, designed with separate, detachable UI components. Since everything is componentized. the UI layer is very flexable. xgplayer is bold in its functionality: it gets rid of video loading, buffering, and format support for video dependence. For mp4 that does not support streaming, you can use staged loading. This means load control, seamless switching without artifacts, and video bandwidth savings. It also integrates on-demand and live support for FLV, HLS, and dash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T07:35:41Z",
+            "owner": "bytedance",
+            "repo": "xgplayer",
+            "stars": 9275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APlayer - A beautiful html5 music player",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-23T16:58:13Z",
+            "owner": "DIYgod",
+            "repo": "APlayer",
+            "stars": 7702
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Broadway - A JavaScript H.264 decoder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-01-22T15:40:35Z",
+            "owner": "mbebenita",
+            "repo": "Broadway",
+            "stars": 2817
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jwplayer - May be the world's most popular embeddable media player",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-11-11T13:50:25Z",
+            "owner": "jwplayer",
+            "repo": "jwplayer",
+            "stars": 2569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flowplayer - The HTML5 video player for the web",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2021-09-30T13:27:34Z",
+            "owner": "flowplayer",
+            "repo": "flowplayer",
+            "stars": 1915
+          }
+        }
+      ],
+      "title": "Video Player"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "localForage",
+          "description": "localForage is a fast and simple storage library for JavaScript. localForage improves the offline experience of your web app by using asynchronous storage (IndexedDB or WebSQL) with a simple, localStorage-like API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-30T20:27:14Z",
+            "owner": "localForage",
+            "repo": "localForage",
+            "stars": 25798
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "👍👍👍 Store.js: Cross-browser storage for all use cases, used across the web.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-16T21:28:56Z",
+            "owner": "marcuswestin",
+            "repo": "store.js",
+            "stars": 13984
+          }
+        }
+      ],
+      "title": "Store"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AR.js: Efficient Augmented Reality for the Web - 60fps on mobile!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-12-07T23:32:13Z",
+            "owner": "jeromeetienne",
+            "repo": "AR.js",
+            "stars": 15796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MindAR",
+          "description": "For location-based AR and marker-based AR, checkout AR.js https://github.com/AR-js-org/AR.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-11T13:03:11Z",
+            "owner": "hiukim",
+            "repo": "mind-ar-js",
+            "stars": 2707
+          }
+        }
+      ],
+      "title": "AR & VR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "emscripten: Emscripten compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T23:31:04Z",
+            "owner": "emscripten-core",
+            "repo": "emscripten",
+            "stars": 27568
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wasmer: Wasmer enables super lightweight containers based on WebAssembly that can run anywhere: from Desktop to the Cloud and IoT devices, and also embedded in any programming language.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T13:39:04Z",
+            "owner": "wasmerio",
+            "repo": "wasmer",
+            "stars": 20951
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WasmEdge",
+          "description": "WasmEdge (previously known as SSVM) is a lightweight, high-performance, and extensible WebAssembly runtime for ❗️cloud native, edge, and decentralized applications❗️. It is the fastest Wasm VM today. WasmEdge is an official sandbox project hosted by the CNCF. Its use cases include serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T23:02:00Z",
+            "owner": "WasmEdge",
+            "repo": "WasmEdge",
+            "stars": 10771
+          }
+        }
+      ],
+      "title": "WebAssembly"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "grapesjs",
+          "description": "is a free and open source Web Builder Framework which helps building HTML templates, faster and easily, to be delivered in sites, newsletters or mobile apps. Mainly, GrapesJS was designed to be used inside a CMS to speed up the creation of dynamic templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T13:16:44Z",
+            "owner": "GrapesJS",
+            "repo": "grapesjs",
+            "stars": 26121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "luban-h5",
+          "description": "Mobile Page Builder&Generator with Drag&Drop",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-03T13:43:20Z",
+            "owner": "ly525",
+            "repo": "luban-h5",
+            "stars": 6240
+          }
+        }
+      ],
+      "title": "No/Low Code"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Node"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pkg",
+          "description": "This command line interface enables you to package your Node.js project into an executable that can be run even on devices without Node.js installed.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-01-03T01:38:16Z",
+            "owner": "vercel",
+            "repo": "pkg",
+            "stars": 24361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ncc",
+          "description": "Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T03:20:10Z",
+            "owner": "vercel",
+            "repo": "ncc",
+            "stars": 9832
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cfonts",
+          "description": "This is a silly little command line tool for sexy fonts in the console. Give your cli some love",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T00:15:14Z",
+            "owner": "dominikwilkowski",
+            "repo": "cfonts",
+            "stars": 1882
+          }
+        }
+      ],
+      "title": "CLI"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AFFiNE",
+          "description": "The Next-Gen Knowledge Base to Replace Notion & Miro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:05:23Z",
+            "owner": "toeverything",
+            "repo": "AFFiNE",
+            "stars": 71497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MarkText - Next generation markdown editor",
+          "description": "A simple and elegant open-source markdown editor that focused on speed and usability. Available for Linux, macOS and Windows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-27T03:16:54Z",
+            "owner": "marktext",
+            "repo": "marktext",
+            "stars": 59992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twenty",
+          "description": "The #1 Open-Source CRM. We’ve spent thousands of hours grappling with traditional CRMs like Pipedrive and Salesforce to align them with our business needs, only to end up frustrated — customizations are complex and the closed ecosystems of these platforms can feel restrictive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:26:34Z",
+            "owner": "twentyhq",
+            "repo": "twenty",
+            "stars": 54838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tldraw: a tiny little drawing app",
+          "description": "Try it 👉 online",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:06:42Z",
+            "owner": "tldraw",
+            "repo": "tldraw",
+            "stars": 49753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slidev",
+          "description": "Presentation slides for developers 🧑‍💻👩‍💻👨‍💻",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T04:51:57Z",
+            "owner": "slidevjs",
+            "repo": "slidev",
+            "stars": 48063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonvisio.com",
+          "description": "JSON Visio is a tool that generates graph diagrams from JSON objects. These diagrams are much easier to navigate than the textual format and to make it even more convenient, the tool also allows you to search the nodes. Additionally, the generated diagrams can also be downloaded or clipboard as image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-15T16:37:02Z",
+            "owner": "AykutSarac",
+            "repo": "jsoncrack.com",
+            "stars": 44287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lepton is a lean code snippet manager powered by GitHub Gist.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T20:06:02Z",
+            "owner": "hackjutsu",
+            "repo": "Lepton",
+            "stars": 10338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fakeflix",
+          "description": "a Netflix Clone built with React, Redux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-16T01:34:40Z",
+            "owner": "Th3Wall",
+            "repo": "Fakeflix",
+            "stars": 4945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "lotion - An open-source Notion UI built with Vue 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-06-11T05:37:29Z",
+            "owner": "Dashibase",
+            "repo": "lotion",
+            "stars": 2911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "microsoft/Clarity",
+          "description": "is an open-source behavioral analytics library written in typescript, with two key goals: privacy & performance. It helps you understand how users view and use your website across all modern devices and browsers. Understanding how users navigate, interact and browse your website can provide new insights about your users. Empathizing with your users and seeing where features fail or succeed can help improve your product, grow revenue and improve user retention.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T21:41:04Z",
+            "owner": "microsoft",
+            "repo": "clarity",
+            "stars": 2712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chalk.ist",
+          "description": "Create beautiful images of your source code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-01-07T17:18:35Z",
+            "owner": "Idered",
+            "repo": "chalk.ist",
+            "stars": 1834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "wappalyzer - Wappalyzer identifies technologies on websites, such as CMS, web frameworks, ecommerce platforms, JavaScript libraries, analytics tools and more.",
+          "children": []
+        }
+      ],
+      "title": "Open Source Apps"
+    },
+    {
+      "description": "Your contributions and suggestions are heartily welcome.\nThanks to all the people who already contributed!",
+      "items": [],
+      "title": "Contribution"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:36:16.493Z",
+    "original_repository": "nepaul/awesome-web-development",
+    "original_repository_sha": "257c6cb6b30a98b11646835b570238e09a3f32ba",
+    "enhanced_repository": "enhansome/enhansome-web-development",
+    "enhanced_repository_description": null,
+    "title": "Awesome Web Development with stars"
+  }
+}
