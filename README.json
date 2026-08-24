@@ -15,7 +15,7 @@
             "last_commit": "2024-12-09T07:59:04Z",
             "owner": "elsewhencode",
             "repo": "project-guidelines",
-            "stars": 29450
+            "stars": 29451
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-07-26T02:51:35Z",
             "owner": "mdo",
             "repo": "code-guide",
-            "stars": 8462
+            "stars": 8463
           }
         }
       ],
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-21T14:35:38Z",
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 365250
+            "stars": 365300
           }
         },
         {
@@ -73,6 +73,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "OWASP Cheat Sheet Series",
+              "description": "the official repository for the Open Web Application Security Project® (OWASP) Cheat Sheet Series project. The project focuses on providing good security practices for builders in order to secure their applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162723104,
+                "language": "Python",
+                "last_commit": "2026-08-24T07:52:49Z",
+                "owner": "OWASP",
+                "repo": "CheatSheetSeries",
+                "stars": 32966
+              }
+            }
+          ],
+          "description": "In order to read the cheat sheets and reference them, use the project official website. The project details can be viewed on the OWASP main website without the cheat sheets.",
+          "node_type": "group",
+          "title": "Web Security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "What the f*ck JavaScript? A list of funny and tricky JavaScript examples. JavaScript is a great language. It has a simple syntax, large ecosystem and, what is most important, a great community. At the same time, we all know that JavaScript is quite a funny language with tricky parts. Some of them can quickly turn our everyday job into hell, and some of them can make us laugh out loud.",
               "description": null,
               "children": [],
@@ -83,7 +105,7 @@
                 "last_commit": "2026-07-03T09:48:44Z",
                 "owner": "denysdovhan",
                 "repo": "wtfjs",
-                "stars": 37677
+                "stars": 37678
               }
             },
             {
@@ -126,10 +148,10 @@
                 "archived": false,
                 "id": 304344049,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T18:02:17Z",
+                "last_commit": "2026-08-24T09:59:00Z",
                 "owner": "sveltejs",
                 "repo": "kit",
-                "stars": 20758
+                "stars": 20760
               }
             }
           ],
@@ -137,10 +159,10 @@
             "archived": false,
             "id": 74293321,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T21:34:02Z",
+            "last_commit": "2026-08-24T14:25:45Z",
             "owner": "sveltejs",
             "repo": "svelte",
-            "stars": 87979
+            "stars": 87982
           }
         },
         {
@@ -188,7 +210,7 @@
             "archived": false,
             "id": 398349583,
             "language": "TypeScript",
-            "last_commit": "2026-08-03T09:34:42Z",
+            "last_commit": "2026-08-24T14:18:59Z",
             "owner": "QwikDev",
             "repo": "partytown",
             "stars": 13760
@@ -229,7 +251,7 @@
                 "last_commit": "2024-06-21T23:11:31Z",
                 "owner": "windicss",
                 "repo": "windicss",
-                "stars": 6509
+                "stars": 6508
               }
             },
             {
@@ -259,7 +281,7 @@
                 "last_commit": "2026-03-26T11:31:36Z",
                 "owner": "csstools",
                 "repo": "sanitize.css",
-                "stars": 5300
+                "stars": 5301
               }
             },
             {
@@ -291,10 +313,10 @@
                     "archived": false,
                     "id": 316836816,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-23T16:30:20Z",
+                    "last_commit": "2026-08-24T06:25:46Z",
                     "owner": "saadeghi",
                     "repo": "daisyui",
-                    "stars": 42175
+                    "stars": 42183
                   }
                 }
               ]
@@ -313,7 +335,7 @@
                     "last_commit": "2025-10-24T13:01:11Z",
                     "owner": "adamgiebl",
                     "repo": "neumorphism",
-                    "stars": 6139
+                    "stars": 6138
                   }
                 },
                 {
@@ -344,6 +366,21 @@
                     "owner": "sambeevors",
                     "repo": "tailwindcss-neumorphism",
                     "stars": 160
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "emotion - The Next Generation of CSS-in-JS",
+                  "description": "Emotion is a performant and flexible CSS-in-JS library. Building on many other CSS-in-JS libraries, it allows you to style apps quickly with string or object styles. It has predictable composition to avoid specificity issues with CSS. With source maps and labels, Emotion has a great developer experience and great performance with heavy caching in production.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 92570536,
+                    "language": "JavaScript",
+                    "last_commit": "2026-05-06T07:42:22Z",
+                    "owner": "emotion-js",
+                    "repo": "emotion",
+                    "stars": 18016
                   }
                 }
               ],
@@ -490,10 +527,10 @@
             "archived": false,
             "id": 149026292,
             "language": "Rust",
-            "last_commit": "2026-08-23T22:08:26Z",
+            "last_commit": "2026-08-24T14:25:18Z",
             "owner": "cube-js",
             "repo": "cube",
-            "stars": 20676
+            "stars": 20686
           }
         },
         {
@@ -526,10 +563,10 @@
             "archived": false,
             "id": 26066727,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T14:16:08Z",
+            "last_commit": "2026-08-24T14:18:11Z",
             "owner": "mermaid-js",
             "repo": "mermaid",
-            "stars": 89908
+            "stars": 89918
           }
         },
         {
@@ -544,7 +581,7 @@
             "last_commit": "2026-08-04T09:07:09Z",
             "owner": "apache",
             "repo": "echarts",
-            "stars": 67129
+            "stars": 67137
           }
         },
         {
@@ -559,7 +596,7 @@
             "last_commit": "2024-07-28T21:12:58Z",
             "owner": "rough-stuff",
             "repo": "rough",
-            "stars": 21136
+            "stars": 21139
           }
         },
         {
@@ -571,7 +608,7 @@
             "archived": false,
             "id": 8629417,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T14:56:41Z",
+            "last_commit": "2026-08-24T12:05:53Z",
             "owner": "mapbox",
             "repo": "mapbox-gl-js",
             "stars": 12388
@@ -616,7 +653,7 @@
             "archived": false,
             "id": 261298767,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:56:44Z",
+            "last_commit": "2026-08-24T14:28:40Z",
             "owner": "revolist",
             "repo": "revogrid",
             "stars": 3437
@@ -701,6 +738,28 @@
           "description": null,
           "node_type": "group",
           "title": "Upload"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "👍👍 FileSaver.js: An HTML5 saveAs() FileSaver implementation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2051226,
+                "language": "JavaScript",
+                "last_commit": "2023-03-01T13:55:08Z",
+                "owner": "eligrey",
+                "repo": "FileSaver.js",
+                "stars": 21990
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Save"
         }
       ],
       "title": "File"
@@ -720,7 +779,7 @@
             "last_commit": "2022-06-04T00:38:39Z",
             "owner": "rstacruz",
             "repo": "nprogress",
-            "stars": 26380
+            "stars": 26381
           }
         },
         {
@@ -771,7 +830,7 @@
             "last_commit": "2025-03-11T02:18:59Z",
             "owner": "feathericons",
             "repo": "feather",
-            "stars": 25980
+            "stars": 25979
           }
         },
         {
@@ -807,7 +866,7 @@
             "last_commit": "2026-08-10T11:13:03Z",
             "owner": "emilkowalski",
             "repo": "sonner",
-            "stars": 12889
+            "stars": 12891
           }
         },
         {
@@ -848,6 +907,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "sweetalert - A beautiful replacement for JavaScript's \"alert\"",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24635156,
+            "language": "TypeScript",
+            "last_commit": "2023-04-15T22:54:03Z",
+            "owner": "t4t5",
+            "repo": "sweetalert",
+            "stars": 22261
+          }
+        }
+      ],
+      "title": "Alert"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "satellizer - A token-based AngularJS Authentication",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21486287,
+            "language": "TypeScript",
+            "last_commit": "2023-12-17T15:43:16Z",
+            "owner": "sahat",
+            "repo": "satellizer",
+            "stars": 7791
+          }
+        }
+      ],
+      "title": "Authentication"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "animate.css - A cross-browser library of CSS animations. As easy to use as an easy thing",
           "description": null,
           "children": [],
@@ -858,7 +959,7 @@
             "last_commit": "2024-07-29T19:34:21Z",
             "owner": "animate-css",
             "repo": "animate.css",
-            "stars": 82742
+            "stars": 82746
           }
         },
         {
@@ -873,7 +974,7 @@
             "last_commit": "2026-08-21T21:29:50Z",
             "owner": "juliangarnier",
             "repo": "anime",
-            "stars": 72357
+            "stars": 72378
           }
         },
         {
@@ -888,7 +989,7 @@
             "last_commit": "2025-09-01T09:01:31Z",
             "owner": "airbnb",
             "repo": "lottie-web",
-            "stars": 32057
+            "stars": 32060
           }
         },
         {
@@ -903,7 +1004,7 @@
             "last_commit": "2023-10-28T16:07:33Z",
             "owner": "IanLunn",
             "repo": "Hover",
-            "stars": 29398
+            "stars": 29397
           }
         },
         {
@@ -918,7 +1019,7 @@
             "last_commit": "2024-01-05T12:11:49Z",
             "owner": "chenglou",
             "repo": "react-motion",
-            "stars": 21914
+            "stars": 21913
           }
         },
         {
@@ -933,7 +1034,7 @@
             "last_commit": "2024-08-14T13:20:18Z",
             "owner": "theatre-js",
             "repo": "theatre",
-            "stars": 12630
+            "stars": 12629
           }
         },
         {
@@ -1008,7 +1109,7 @@
             "last_commit": "2020-06-26T15:20:00Z",
             "owner": "tholman",
             "repo": "elevator.js",
-            "stars": 6639
+            "stars": 6638
           }
         },
         {
@@ -1133,6 +1234,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "sprintf-js is a complete open source JavaScript sprintf implementation for the browser and Node.js.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9175790,
+                "language": "JavaScript",
+                "last_commit": "2024-04-05T01:22:42Z",
+                "owner": "alexei",
+                "repo": "sprintf.js",
+                "stars": 2139
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sprite"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "google-guetzli: Guetzli is a JPEG encoder that aims for excellent compression density at high visual quality. Guetzli-generated images are typically 20-30% smaller than images of equivalent quality generated by libjpeg. Guetzli generates only sequential (nonprogressive) JPEGs due to faster decompression speeds they offer.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 71576450,
+                "language": "C++",
+                "last_commit": "2023-04-22T19:41:10Z",
+                "owner": "google",
+                "repo": "guetzli",
+                "stars": 12914
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Compression"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "jquery_lazyload: Vanilla JavaScript plugin for lazyloading images",
               "description": null,
               "children": [],
@@ -1165,6 +1310,72 @@
           "description": null,
           "node_type": "group",
           "title": "Lazyload"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "👍👍 Instagram.css - Pure CSS Instagram filters. You can add all these Instagram-like filters to your photos with using CSS only. Thanks to the CSSgram for inspiration.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111373781,
+                "language": "CSS",
+                "last_commit": "2023-01-15T20:28:15Z",
+                "owner": "picturepan2",
+                "repo": "instagram.css",
+                "stars": 4011
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Filters"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "spotlight: Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191187480,
+                "language": "JavaScript",
+                "last_commit": "2023-09-18T14:10:36Z",
+                "owner": "nextapps-de",
+                "repo": "spotlight",
+                "stars": 1706
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lightbox gallery"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "commitlint",
+              "description": "Lint commit messages:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51575745,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T08:00:52Z",
+                "owner": "conventional-changelog",
+                "repo": "commitlint",
+                "stars": 18698
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Static Code Checking(Lint)"
         }
       ],
       "title": "Images"
@@ -1184,7 +1395,7 @@
             "last_commit": "2026-08-13T07:42:01Z",
             "owner": "lxgw",
             "repo": "LxgwWenKai",
-            "stars": 25652
+            "stars": 25659
           }
         },
         {
@@ -1199,7 +1410,7 @@
             "last_commit": "2025-02-27T15:36:34Z",
             "owner": "wordshub",
             "repo": "free-font",
-            "stars": 6426
+            "stars": 6427
           }
         },
         {
@@ -1235,7 +1446,7 @@
             "last_commit": "2024-11-27T21:01:48Z",
             "owner": "Semantic-Org",
             "repo": "Semantic-UI",
-            "stars": 51027
+            "stars": 51026
           }
         },
         {
@@ -1247,7 +1458,7 @@
             "archived": false,
             "id": 32551735,
             "language": "SCSS",
-            "last_commit": "2026-08-19T21:39:44Z",
+            "last_commit": "2026-08-24T05:33:39Z",
             "owner": "primer",
             "repo": "css",
             "stars": 13009
@@ -1270,7 +1481,7 @@
                 "last_commit": "2026-08-21T13:25:00Z",
                 "owner": "ColorlibHQ",
                 "repo": "gentelella",
-                "stars": 21486
+                "stars": 21488
               }
             },
             {
@@ -1304,10 +1515,10 @@
                 "archived": false,
                 "id": 23083156,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T00:31:46Z",
+                "last_commit": "2026-08-24T12:56:04Z",
                 "owner": "mui",
                 "repo": "material-ui",
-                "stars": 98904
+                "stars": 98914
               }
             },
             {
@@ -1338,10 +1549,10 @@
                 "archived": false,
                 "id": 281319253,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T06:45:22Z",
+                "last_commit": "2026-08-24T13:05:20Z",
                 "owner": "element-plus",
                 "repo": "element-plus",
-                "stars": 27687
+                "stars": 27691
               }
             },
             {
@@ -1453,7 +1664,7 @@
                 "last_commit": "2026-08-22T16:15:30Z",
                 "owner": "chakra-ui",
                 "repo": "chakra-ui",
-                "stars": 40586
+                "stars": 40590
               }
             },
             {
@@ -1465,10 +1676,10 @@
                 "archived": false,
                 "id": 60537144,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T19:22:54Z",
+                "last_commit": "2026-08-24T09:17:54Z",
                 "owner": "microsoft",
                 "repo": "fluentui",
-                "stars": 20224
+                "stars": 20227
               }
             },
             {
@@ -1512,9 +1723,73 @@
           "description": null,
           "node_type": "group",
           "title": "WeChat"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SUI Mobile 是阿里巴巴国际 UED 前端团队出品的移动端 UI 库",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36487753,
+                "language": "JavaScript",
+                "last_commit": "2026-03-04T14:31:02Z",
+                "owner": "sdc-alibaba",
+                "repo": "SUI-Mobile",
+                "stars": 6052
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
         }
       ],
       "title": "UI Kits"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cleave.js has a simple purpose: to help you format input text content automatically.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59114705,
+            "language": "JavaScript",
+            "last_commit": "2023-11-25T10:40:46Z",
+            "owner": "nosir",
+            "repo": "cleave.js",
+            "stars": 17860
+          }
+        }
+      ],
+      "title": "Input"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "vex - A modern dialog library which is highly configurable and easy to style",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12631084,
+            "language": "CSS",
+            "last_commit": "2023-02-26T00:28:34Z",
+            "owner": "HubSpot",
+            "repo": "vex",
+            "stars": 6872
+          }
+        }
+      ],
+      "title": "Modal"
     },
     {
       "description": null,
@@ -1531,7 +1806,7 @@
             "last_commit": "2026-08-09T10:46:11Z",
             "owner": "floating-ui",
             "repo": "floating-ui",
-            "stars": 32704
+            "stars": 32705
           }
         },
         {
@@ -1582,7 +1857,7 @@
             "last_commit": "2026-03-24T22:02:22Z",
             "owner": "SortableJS",
             "repo": "Sortable",
-            "stars": 31169
+            "stars": 31170
           }
         },
         {
@@ -1612,7 +1887,7 @@
             "last_commit": "2024-03-04T07:33:56Z",
             "owner": "SortableJS",
             "repo": "Vue.Draggable",
-            "stars": 20588
+            "stars": 20586
           }
         },
         {
@@ -1627,7 +1902,7 @@
             "last_commit": "2026-07-01T16:47:27Z",
             "owner": "givanz",
             "repo": "VvvebJs",
-            "stars": 8651
+            "stars": 8652
           }
         },
         {
@@ -1657,8 +1932,30 @@
             "last_commit": "2026-03-13T01:42:04Z",
             "owner": "Alfred-Skyblue",
             "repo": "vue-draggable-plus",
-            "stars": 4012
+            "stars": 4011
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "react-flip-move: Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50727625,
+                "language": "JavaScript",
+                "last_commit": "2022-12-06T19:59:41Z",
+                "owner": "joshwcomeau",
+                "repo": "react-flip-move",
+                "stars": 4135
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Flip"
         }
       ],
       "title": "Drag and Drop"
@@ -1678,7 +1975,7 @@
             "last_commit": "2026-08-18T18:33:20Z",
             "owner": "microsoft",
             "repo": "monaco-editor",
-            "stars": 46577
+            "stars": 46582
           }
         },
         {
@@ -1693,7 +1990,7 @@
             "last_commit": "2026-04-16T15:39:18Z",
             "owner": "codemirror",
             "repo": "codemirror5",
-            "stars": 27234
+            "stars": 27235
           }
         },
         {
@@ -1768,8 +2065,52 @@
             "last_commit": "2024-05-12T17:09:57Z",
             "owner": "jaredreich",
             "repo": "pell",
-            "stars": 12047
+            "stars": 12046
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Yoopta-Editor",
+              "description": "Open-source rich-text editor that's truly rich. Install and use it in your project. Easy to to use and fully customizable. Just relax, we're here to solve all your challenges with rich-text editors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452058305,
+                "language": "TypeScript",
+                "last_commit": "2026-05-11T14:37:43Z",
+                "owner": "yoopta-editor",
+                "repo": "Yoopta-Editor",
+                "stars": 3082
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Notion-Like Editor"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "shiki",
+              "description": "a beautiful Syntax Highlighter. Demo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155288604,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T04:54:31Z",
+                "owner": "shikijs",
+                "repo": "shiki",
+                "stars": 13738
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code Highlight"
         },
         {
           "children": [
@@ -1800,7 +2141,7 @@
                 "last_commit": "2026-08-13T00:31:06Z",
                 "owner": "markdown-it",
                 "repo": "markdown-it",
-                "stars": 21836
+                "stars": 21838
               }
             },
             {
@@ -1815,7 +2156,7 @@
                 "last_commit": "2026-08-19T04:56:37Z",
                 "owner": "Vanessa219",
                 "repo": "vditor",
-                "stars": 11257
+                "stars": 11259
               }
             },
             {
@@ -1856,7 +2197,7 @@
             "last_commit": "2026-08-23T19:59:14Z",
             "owner": "highlightjs",
             "repo": "highlight.js",
-            "stars": 24982
+            "stars": 24984
           }
         },
         {
@@ -1876,6 +2217,69 @@
         }
       ],
       "title": "Highlight"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "clipboard.js - A modern approach to copy text to clipboard. No Flash. No frameworks. Just 3kb gzipped",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42751014,
+            "language": "JavaScript",
+            "last_commit": "2026-02-12T18:51:57Z",
+            "owner": "zenorocha",
+            "repo": "clipboard.js",
+            "stars": 34121
+          }
+        }
+      ],
+      "title": "Clipboard"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Respond.js - A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 1337658,
+            "language": "JavaScript",
+            "last_commit": "2018-03-16T09:38:34Z",
+            "owner": "scottjehl",
+            "repo": "Respond",
+            "stars": 11207
+          }
+        }
+      ],
+      "title": "Respond page"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AlloyFinger - super tiny size multi-touch gestures library for the web",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59704101,
+            "language": "JavaScript",
+            "last_commit": "2019-01-03T07:05:23Z",
+            "owner": "AlloyTeam",
+            "repo": "AlloyFinger",
+            "stars": 3439
+          }
+        }
+      ],
+      "title": "Touch"
     },
     {
       "description": null,
@@ -1928,7 +2332,7 @@
             "last_commit": "2024-04-05T17:55:48Z",
             "owner": "jlmakes",
             "repo": "scrollreveal",
-            "stars": 22471
+            "stars": 22470
           }
         },
         {
@@ -1943,7 +2347,7 @@
             "last_commit": "2018-12-13T19:06:24Z",
             "owner": "cubiq",
             "repo": "iscroll",
-            "stars": 12805
+            "stars": 12803
           }
         },
         {
@@ -2020,6 +2424,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "ChatUI: The UI design language and React library for Conversational UI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 284864176,
+            "language": "TypeScript",
+            "last_commit": "2026-03-30T02:23:03Z",
+            "owner": "alibaba",
+            "repo": "ChatUI",
+            "stars": 4442
+          }
+        }
+      ],
+      "title": "Conversational"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tween.js - JavaScript tweening engine for easy animations, incorporating optimised Robert Penner's equations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 691146,
+            "language": "TypeScript",
+            "last_commit": "2025-01-11T02:00:20Z",
+            "owner": "tweenjs",
+            "repo": "tween.js",
+            "stars": 10136
+          }
+        }
+      ],
+      "title": "Tweening Engine"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "qrcodejs - just for making QRCode and no other depedencies. It supports Cross-browser with HTML5 Canvas and table tag in DOM",
           "description": null,
           "children": [],
@@ -2056,6 +2502,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "twemoji - Twitter Emoji for Everyone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26291683,
+            "language": "HTML",
+            "last_commit": "2026-07-07T21:41:18Z",
+            "owner": "twitter",
+            "repo": "twemoji",
+            "stars": 17758
+          }
+        }
+      ],
+      "title": "Emoji"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "intro.js - A better way for new feature introduction and step-by-step users guide for your website and project",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8686855,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T09:25:25Z",
+            "owner": "usablica",
+            "repo": "intro.js",
+            "stars": 23455
+          }
+        }
+      ],
+      "title": "New Feature Introduction"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "中文文案排版指北",
           "description": null,
           "children": [],
@@ -2066,7 +2554,7 @@
             "last_commit": "2026-07-07T13:22:24Z",
             "owner": "sparanoid",
             "repo": "chinese-copywriting-guidelines",
-            "stars": 15643
+            "stars": 15644
           }
         },
         {
@@ -2143,6 +2631,111 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Gutenber - Modern framework to print correctly",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44615084,
+            "language": "SCSS",
+            "last_commit": "2024-02-03T04:40:43Z",
+            "owner": "BafS",
+            "repo": "Gutenberg",
+            "stars": 4920
+          }
+        }
+      ],
+      "title": "Print"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "React-PDF: Create PDF files using React",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71293321,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T02:40:44Z",
+            "owner": "diegomura",
+            "repo": "react-pdf",
+            "stars": 16756
+          }
+        }
+      ],
+      "title": "PDF"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LuckySheet: 🚀Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 264125852,
+            "language": "JavaScript",
+            "last_commit": "2025-08-19T12:36:59Z",
+            "owner": "dream-num",
+            "repo": "Luckysheet",
+            "stars": 16646
+          }
+        }
+      ],
+      "title": "Sheet"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "supercookie",
+          "description": "Supercookie uses favicons to assign a unique identifier to website visitors. Unlike traditional tracking methods, this ID can be stored almost persistently and cannot be easily cleared by the user.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 332757634,
+            "language": "HTML",
+            "last_commit": "2025-11-18T09:17:49Z",
+            "owner": "jonasstrehle",
+            "repo": "supercookie",
+            "stars": 7383
+          }
+        }
+      ],
+      "title": "Fingerprinting"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KaTeX",
+          "description": "KaTeX is a fast, easy-to-use JavaScript library for TeX math rendering on the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11195700,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T22:42:33Z",
+            "owner": "KaTeX",
+            "repo": "KaTeX",
+            "stars": 20337
+          }
+        }
+      ],
+      "title": "Math"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": ":+1:json-server Mock Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
           "description": null,
           "children": [],
@@ -2168,7 +2761,7 @@
             "last_commit": "2026-08-19T19:50:21Z",
             "owner": "remy",
             "repo": "nodemon",
-            "stars": 26678
+            "stars": 26677
           }
         },
         {
@@ -2190,6 +2783,94 @@
           "children": [
             {
               "node_type": "item",
+              "title": "quicktype",
+              "description": "generates strongly-typed models and serializers from JSON, JSON Schema, TypeScript, and GraphQL queries, making it a breeze to work with JSON type-safely in many programming languages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97062850,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T18:26:08Z",
+                "owner": "glideapps",
+                "repo": "quicktype",
+                "stars": 13843
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Models & serializers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ts-migrate is a tool for helping migrate code to TypeScript. It takes a JavaScript, or a partial TypeScript, project in and gives a compiling TypeScript project out.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226207937,
+                "language": "TypeScript",
+                "last_commit": "2026-01-22T00:09:47Z",
+                "owner": "airbnb",
+                "repo": "ts-migrate",
+                "stars": 5617
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TypeScript"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vConsole: A lightweight, extendable front-end developer tool for mobile web page.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57180853,
+                "language": "TypeScript",
+                "last_commit": "2026-03-27T04:53:58Z",
+                "owner": "Tencent",
+                "repo": "vConsole",
+                "stars": 17515
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Debug"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SLATE: Slate helps you create beautiful, intelligent, responsive API documentation.(语雀 部分功能基于此开发)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 12820537,
+                "language": null,
+                "last_commit": "2026-02-01T05:54:12Z",
+                "owner": "slatedocs",
+                "repo": "slate",
+                "stars": 36036
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "APIs & Mock"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "signoz",
               "description": "SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool.",
               "children": [],
@@ -2197,10 +2878,10 @@
                 "archived": false,
                 "id": 326404870,
                 "language": "TypeScript",
-                "last_commit": "2026-08-23T19:42:53Z",
+                "last_commit": "2026-08-24T14:05:46Z",
                 "owner": "SigNoz",
                 "repo": "signoz",
-                "stars": 31922
+                "stars": 31929
               }
             },
             {
@@ -2212,10 +2893,10 @@
                 "archived": false,
                 "id": 362806180,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:40:59Z",
+                "last_commit": "2026-08-24T12:41:35Z",
                 "owner": "openreplay",
                 "repo": "openreplay",
-                "stars": 12558
+                "stars": 12560
               }
             }
           ],
@@ -2237,7 +2918,7 @@
                 "last_commit": "2026-08-23T20:09:53Z",
                 "owner": "facebook",
                 "repo": "docusaurus",
-                "stars": 66054
+                "stars": 66068
               }
             },
             {
@@ -2252,7 +2933,7 @@
                 "last_commit": "2025-04-15T18:50:26Z",
                 "owner": "documentationjs",
                 "repo": "documentation",
-                "stars": 5800
+                "stars": 5799
               }
             },
             {
@@ -2267,7 +2948,7 @@
                 "last_commit": "2023-09-25T09:19:06Z",
                 "owner": "egoist",
                 "repo": "docute",
-                "stars": 3811
+                "stars": 3810
               }
             },
             {
@@ -2294,6 +2975,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "TinyPNG client for Mac",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62392794,
+                "language": "Swift",
+                "last_commit": "2026-04-13T16:51:04Z",
+                "owner": "kyleduo",
+                "repo": "TinyPNG4Mac",
+                "stars": 4001
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Images"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Tabler Icons: A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a 2px stroke.",
               "description": null,
               "children": [],
@@ -2304,7 +3007,7 @@
                 "last_commit": "2026-08-19T21:56:33Z",
                 "owner": "tabler",
                 "repo": "tabler-icons",
-                "stars": 21481
+                "stars": 21490
               }
             },
             {
@@ -2338,10 +3041,10 @@
                 "archived": false,
                 "id": 50565430,
                 "language": "Rust",
-                "last_commit": "2026-08-23T22:46:54Z",
+                "last_commit": "2026-08-24T14:29:44Z",
                 "owner": "pnpm",
                 "repo": "pnpm",
-                "stars": 36188
+                "stars": 36195
               }
             },
             {
@@ -2378,6 +3081,28 @@
           "description": null,
           "node_type": "group",
           "title": "Project Manage"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CodeTour 🗺️",
+              "description": "CodeTour is a Visual Studio Code extension, which allows you to record and play back guided walkthroughs of your codebases. It's like a table of contents, that can make it easier to onboard (or re-board!) to a new project/feature area, visualize bug reports, or understand the context of a code review/PR change. A \"code tour\" is simply a series of interactive steps, each of which are associated with a specific directory, or file/line, and include a description of the respective code. This allows developers to clone a repo, and then immediately start learning it, without needing to refer to a CONTRIBUTING.md file and/or rely on help from others. Tours can either be checked into a repo, to enable sharing with other contributors, or exported to a \"tour file\", which allows anyone to replay the same tour, without having to clone any code to do it!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245685361,
+                "language": "TypeScript",
+                "last_commit": "2026-05-05T00:33:49Z",
+                "owner": "microsoft",
+                "repo": "codetour",
+                "stars": 4568
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "IDE"
         }
       ],
       "title": "Tools"
@@ -2415,10 +3140,10 @@
             "archived": false,
             "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-23T12:00:30Z",
+            "last_commit": "2026-08-24T00:04:32Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31301
+            "stars": 31303
           }
         },
         {
@@ -2481,10 +3206,10 @@
             "archived": false,
             "id": 23088740,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T17:29:35Z",
+            "last_commit": "2026-08-24T13:40:39Z",
             "owner": "axios",
             "repo": "axios",
-            "stars": 109200
+            "stars": 109202
           }
         },
         {
@@ -2517,10 +3242,10 @@
             "archived": false,
             "id": 75104123,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T17:04:31Z",
+            "last_commit": "2026-08-24T13:46:55Z",
             "owner": "prettier",
             "repo": "prettier",
-            "stars": 52211
+            "stars": 52213
           }
         },
         {
@@ -2535,7 +3260,7 @@
             "last_commit": "2026-08-09T17:20:12Z",
             "owner": "evanw",
             "repo": "esbuild",
-            "stars": 40014
+            "stars": 40016
           }
         },
         {
@@ -2547,7 +3272,7 @@
             "archived": false,
             "id": 115110181,
             "language": "Rust",
-            "last_commit": "2026-08-23T15:26:44Z",
+            "last_commit": "2026-08-24T11:50:59Z",
             "owner": "swc-project",
             "repo": "swc",
             "stars": 34184
@@ -2567,7 +3292,7 @@
                 "last_commit": "2026-08-23T14:53:53Z",
                 "owner": "webpack",
                 "repo": "webpack-bundle-analyzer",
-                "stars": 12660
+                "stars": 12661
               }
             },
             {
@@ -2589,6 +3314,28 @@
           "description": null,
           "node_type": "group",
           "title": "Webpack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tauri",
+              "description": "Tauri is a framework for building tiny, blazing fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196701619,
+                "language": "Rust",
+                "last_commit": "2026-08-21T21:34:35Z",
+                "owner": "tauri-apps",
+                "repo": "tauri",
+                "stars": 110521
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Desktop Apps"
         }
       ],
       "title": "Compile & Pack"
@@ -2608,7 +3355,7 @@
             "last_commit": "2026-08-21T19:12:38Z",
             "owner": "gatsbyjs",
             "repo": "gatsby",
-            "stars": 55940
+            "stars": 55941
           }
         },
         {
@@ -2644,7 +3391,7 @@
             "last_commit": "2026-02-01T08:35:30Z",
             "owner": "ffmpegwasm",
             "repo": "ffmpeg.wasm",
-            "stars": 17748
+            "stars": 17750
           }
         },
         {
@@ -2659,7 +3406,7 @@
             "last_commit": "2024-05-13T00:39:07Z",
             "owner": "muaz-khan",
             "repo": "RecordRTC",
-            "stars": 6915
+            "stars": 6916
           }
         },
         {
@@ -2689,7 +3436,7 @@
             "last_commit": "2021-03-22T03:54:07Z",
             "owner": "scottschiller",
             "repo": "SoundManager2",
-            "stars": 5081
+            "stars": 5080
           }
         },
         {
@@ -2706,7 +3453,7 @@
                 "last_commit": "2026-08-03T10:03:33Z",
                 "owner": "videojs",
                 "repo": "video.js",
-                "stars": 39860
+                "stars": 39864
               }
             },
             {
@@ -2721,7 +3468,7 @@
                 "last_commit": "2026-03-04T03:04:09Z",
                 "owner": "DIYgod",
                 "repo": "DPlayer",
-                "stars": 16480
+                "stars": 16481
               }
             },
             {
@@ -2736,7 +3483,7 @@
                 "last_commit": "2026-08-20T03:49:29Z",
                 "owner": "bytedance",
                 "repo": "xgplayer",
-                "stars": 9280
+                "stars": 9282
               }
             },
             {
@@ -2839,9 +3586,94 @@
             "repo": "store.js",
             "stars": 13984
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "👍👍 rxdb: A realtime Database for the Web",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75425073,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T02:00:32Z",
+                "owner": "pubkey",
+                "repo": "rxdb",
+                "stars": 23363
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web DB"
         }
       ],
       "title": "Store"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FastClick is a simple, easy-to-use library for eliminating the 300ms delay between a physical tap and the firing of a click event on mobile browsers. The aim is to make your application feel less laggy and more responsive while avoiding any interference with your current logic.(Note: As of late 2015 most mobile browsers - notably Chrome and Safari - no longer have a 300ms touch delay, so fastclick offers no benefit on newer browsers, and risks introducing bugs into your application. Consider carefully whether you really need to use it.)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 3428345,
+            "language": "HTML",
+            "last_commit": "2021-08-13T16:01:47Z",
+            "owner": "ftlabs",
+            "repo": "fastclick",
+            "stars": 18518
+          }
+        }
+      ],
+      "title": "Polyfill"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hammer.js: A javascript library for multi-touch gestures",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3602123,
+            "language": "JavaScript",
+            "last_commit": "2026-01-04T10:52:57Z",
+            "owner": "hammerjs",
+            "repo": "hammer.js",
+            "stars": 24344
+          }
+        }
+      ],
+      "title": "Gestures"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "👍✨💗 html2canvas: Screenshots with JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2056312,
+            "language": "TypeScript",
+            "last_commit": "2024-07-18T07:26:56Z",
+            "owner": "niklasvh",
+            "repo": "html2canvas",
+            "stars": 31920
+          }
+        }
+      ],
+      "title": "Screenshots"
     },
     {
       "description": "MindAR is a lightweight library for web augmented reality. Highlighted features include: ⭐ Support Image tracking and Face tracking\n⭐ Written in pure javascript, end-to-end from the underlying computer vision engine to frontend\n⭐ Utilize gpu (through webgl) and web worker for performance\n⭐ Developer friendly. Easy to setup. With AFRAME extension, you can get your app starts with only 10 lines of codes",
@@ -2873,11 +3705,137 @@
             "last_commit": "2024-06-11T13:03:11Z",
             "owner": "hiukim",
             "repo": "mind-ar-js",
-            "stars": 2715
+            "stars": 2716
           }
         }
       ],
       "title": "AR & VR"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "XRegExp provides augmented (and extensible) JavaScript regular expressions. You get modern syntax and flags beyond what browsers support natively. XRegExp is also a regex utility belt with tools to make your grepping and parsing easier, while freeing you from regex cross-browser inconsistencies and other annoyances.XRegExp supports all native ES6 regular expression syntax. It supports ES5+ browsers, and you can use it with Node.js or as a RequireJS module.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3537312,
+            "language": "JavaScript",
+            "last_commit": "2026-03-10T17:15:25Z",
+            "owner": "slevithan",
+            "repo": "xregexp",
+            "stars": 3325
+          }
+        }
+      ],
+      "title": "Regex"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "v8n: JavaScript fluent validation library",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138644245,
+            "language": "JavaScript",
+            "last_commit": "2025-01-01T14:55:40Z",
+            "owner": "imbrn",
+            "repo": "v8n",
+            "stars": 4143
+          }
+        }
+      ],
+      "title": "Validation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-firebase-starter: Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37616442,
+            "language": "JavaScript",
+            "last_commit": "2024-01-04T13:51:54Z",
+            "owner": "kriasoft",
+            "repo": "react-firebase-starter",
+            "stars": 4513
+          }
+        }
+      ],
+      "title": "Boilerplate"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ximan/dropload: a javascript implementation of pull to refresh and up to loadmore",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25637001,
+            "language": null,
+            "last_commit": "2018-09-29T06:30:32Z",
+            "owner": "ximan",
+            "repo": "dropload",
+            "stars": 2686
+          }
+        }
+      ],
+      "title": "Dropload"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ramda: Practical functional Javascript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10851820,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T15:18:52Z",
+            "owner": "ramda",
+            "repo": "ramda",
+            "stars": 24056
+          }
+        }
+      ],
+      "title": "Functional"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "director: a tiny and isomorphic URL router for JavaScript",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 626219,
+            "language": "JavaScript",
+            "last_commit": "2020-12-26T19:39:17Z",
+            "owner": "flatiron",
+            "repo": "director",
+            "stars": 5575
+          }
+        }
+      ],
+      "title": "Router"
     },
     {
       "description": null,
@@ -2891,10 +3849,10 @@
             "archived": false,
             "id": 1357796,
             "language": "C++",
-            "last_commit": "2026-08-23T16:42:21Z",
+            "last_commit": "2026-08-24T10:51:47Z",
             "owner": "emscripten-core",
             "repo": "emscripten",
-            "stars": 27576
+            "stars": 27575
           }
         },
         {
@@ -2906,10 +3864,10 @@
             "archived": false,
             "id": 152572186,
             "language": "Rust",
-            "last_commit": "2026-08-21T13:45:57Z",
+            "last_commit": "2026-08-24T14:02:22Z",
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20966
+            "stars": 20968
           }
         },
         {
@@ -2921,7 +3879,7 @@
             "archived": false,
             "id": 224908244,
             "language": "C++",
-            "last_commit": "2026-08-23T18:19:56Z",
+            "last_commit": "2026-08-24T13:22:51Z",
             "owner": "WasmEdge",
             "repo": "WasmEdge",
             "stars": 10780
@@ -2945,7 +3903,7 @@
             "last_commit": "2026-08-11T13:16:44Z",
             "owner": "GrapesJS",
             "repo": "grapesjs",
-            "stars": 26159
+            "stars": 26161
           }
         },
         {
@@ -2962,6 +3920,28 @@
             "repo": "luban-h5",
             "stars": 6240
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "strapi",
+              "description": "Strapi is a free and open-source headless CMS. It’s 100% JavaScript, fully customizable, and developer-first.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43441403,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:47:15Z",
+                "owner": "strapi",
+                "repo": "strapi",
+                "stars": 73010
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CMS"
         }
       ],
       "title": "No/Low Code"
@@ -2969,6 +3949,50 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nest: A progressive Node.js framework for building efficient and scalable server-side applications.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80945428,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:52:44Z",
+                "owner": "nestjs",
+                "repo": "nest",
+                "stars": 76447
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Framework"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "http-proxy-middleware: Node.js proxying made simple. Configure proxy middleware with ease for connect, express, browser-sync and many more.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32219142,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:33:09Z",
+                "owner": "chimurai",
+                "repo": "http-proxy-middleware",
+                "stars": 11133
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Midddleware"
+        },
         {
           "children": [
             {
@@ -3010,7 +4034,7 @@
                 "archived": false,
                 "id": 29108449,
                 "language": "Rust",
-                "last_commit": "2026-08-23T19:51:30Z",
+                "last_commit": "2026-08-23T23:23:16Z",
                 "owner": "dominikwilkowski",
                 "repo": "cfonts",
                 "stars": 1887
@@ -3036,10 +4060,10 @@
             "archived": false,
             "id": 519859998,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T09:54:53Z",
+            "last_commit": "2026-08-24T09:51:53Z",
             "owner": "toeverything",
             "repo": "AFFiNE",
-            "stars": 71814
+            "stars": 71843
           }
         },
         {
@@ -3054,7 +4078,7 @@
             "last_commit": "2026-07-27T03:16:54Z",
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 60470
+            "stars": 60513
           }
         },
         {
@@ -3066,10 +4090,10 @@
             "archived": false,
             "id": 572984571,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T21:50:57Z",
+            "last_commit": "2026-08-24T14:31:07Z",
             "owner": "twentyhq",
             "repo": "twenty",
-            "stars": 55404
+            "stars": 55450
           }
         },
         {
@@ -3081,10 +4105,10 @@
             "archived": false,
             "id": 365739812,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T18:06:09Z",
+            "last_commit": "2026-08-24T14:33:06Z",
             "owner": "tldraw",
             "repo": "tldraw",
-            "stars": 49923
+            "stars": 49937
           }
         },
         {
@@ -3096,10 +4120,10 @@
             "archived": false,
             "id": 361044034,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:22:42Z",
+            "last_commit": "2026-08-24T04:52:54Z",
             "owner": "slidevjs",
             "repo": "slidev",
-            "stars": 48185
+            "stars": 48194
           }
         },
         {
@@ -3114,7 +4138,7 @@
             "last_commit": "2026-08-18T17:35:36Z",
             "owner": "AykutSarac",
             "repo": "jsoncrack.com",
-            "stars": 44326
+            "stars": 44331
           }
         },
         {
@@ -3149,7 +4173,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "lotion",
           "description": "lotion - An open-source Notion UI built with Vue 3.",
           "children": [],
           "repo_info": {
@@ -3194,10 +4218,52 @@
         }
       ],
       "title": "Open Source Apps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pagen AI Landing Page Template",
+          "description": "It is built with Next.js and Shadcn UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 856103938,
+            "language": "TypeScript",
+            "last_commit": "2024-09-12T02:35:40Z",
+            "owner": "all-in-aigc",
+            "repo": "pagen-ai-landing-page-template",
+            "stars": 372
+          }
+        }
+      ],
+      "title": "Landing page templates"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yournextstore",
+          "description": "Modern Commerce with Next.js and Stripe as the backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 838508060,
+            "language": "MDX",
+            "last_commit": "2026-08-21T16:08:50Z",
+            "owner": "yournextstore",
+            "repo": "yournextstore",
+            "stars": 5482
+          }
+        }
+      ],
+      "title": "Commerce Apps"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:07:38.928Z",
+    "last_updated": "2026-08-24T14:33:12.145Z",
     "original_repository": "nepaul/awesome-web-development",
     "original_repository_id": 74724080,
     "original_repository_sha": "257c6cb6b30a98b11646835b570238e09a3f32ba",
