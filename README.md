@@ -1,6 +1,6 @@
 # Awesome Web Development with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,885 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,893 | 🐛 105 | 📅 2026-08-21
 ![](https://img.shields.io/badge/dependencies-zero-green)
 [![Last Commits](https://img.shields.io/github/last-commit/nepaul/awesome-web-components?logo=git\&logoColor=white)](https://github.com/nepaul/awesome-web-components/commits/master) ⭐ 201 | 🐛 9 | 📅 2025-03-22
 [![Pull Requests](https://img.shields.io/github/issues-pr/nepaul/awesome-web-components?logo=github\&logoColor=white)](https://github.com/nepaul/awesome-web-components/pulls) ⭐ 201 | 🐛 9 | 📅 2025-03-22
@@ -151,7 +151,7 @@ A collection of **awesome** web development resources.
 
 ## Some Reading List
 
-* ![](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=social) [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 365,793 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-21
+* ![](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=social) [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) ⭐ 365,796 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-21
 * ![](https://img.shields.io/github/stars/luruke/browser-2020?style=social) [browser-2020](https://github.com/luruke/browser-2020) ⭐ 7,975 | 🐛 11 | 📅 2021-10-28 - This repo contains a non-exhaustive list of less-known features implemented in browsers today.
 
   This list isn't intended for a technical audience; instead it wants to be a "I didn't know we could do that in a browser!" list.
@@ -175,7 +175,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Framework
 
-* ![](https://img.shields.io/github/stars/sveltejs/svelte?style=social) [sveltejs: a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.](https://github.com/sveltejs/svelte) ⭐ 88,013 | 🐛 1,054 | 🌐 JavaScript | 📅 2026-08-29
+* ![](https://img.shields.io/github/stars/sveltejs/svelte?style=social) [sveltejs: a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.](https://github.com/sveltejs/svelte) ⭐ 88,012 | 🐛 1,054 | 🌐 JavaScript | 📅 2026-08-29
   * ![](https://img.shields.io/github/stars/sveltejs/kit?style=social)[sveltejs/kit](https://github.com/sveltejs/kit) ⭐ 20,766 | 🐛 822 | 🌐 JavaScript | 📅 2026-08-28 - The Fastest Way to Build Svelte Apps
   * 💨 Blazing-Fast Production Sites
   * 🛠️ SSR, SPA, SSG, and In-Between
@@ -235,7 +235,7 @@ In order to read the cheat sheets and reference them, use the project official w
 * ![](https://img.shields.io/github/stars/codeAdrian/clay.css?style=social) 💗❤️[clay.css](https://github.com/codeAdrian/clay.css) ⭐ 574 | 🐛 2 | 🌐 SCSS | 📅 2022-11-23 - Micro CSS util class for applying inflated fluffy 3D claymorphism styles to elements. Fully customizable and extensible with CSS variables. SASS mixin is also included for even more styling options.
 
 * ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social) [tailwindcss: Rapidly build modern websites without ever leaving your HTML. A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.](https://tailwindcss.com/)
-  * ![](https://img.shields.io/github/stars/saadeghi/daisyui?style=social) [daisyui](https://github.com/saadeghi/daisyui) ⭐ 42,230 | 🐛 34 | 🌐 JavaScript | 📅 2026-08-24 - Tailwind CSS Components: Adds component classes like btn, card and more to Tailwind CSS
+  * ![](https://img.shields.io/github/stars/saadeghi/daisyui?style=social) [daisyui](https://github.com/saadeghi/daisyui) ⭐ 42,232 | 🐛 34 | 🌐 JavaScript | 📅 2026-08-24 - Tailwind CSS Components: Adds component classes like btn, card and more to Tailwind CSS
 
 * ![](https://img.shields.io/github/stars/necolas/normalize.css?style=social) [Normalize.css - A modern, HTML5-ready alternative to CSS resets. Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.](http://necolas.github.io/normalize.css/)
 
@@ -279,7 +279,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Chart & Data Visualization
 
-* 👍[mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,974 | 🐛 1,751 | 🌐 TypeScript | 📅 2026-08-28 - Mermaid lets you create diagrams and visualizations using text and code.
+* 👍[mermaid](https://github.com/mermaid-js/mermaid) ⭐ 89,974 | 🐛 1,752 | 🌐 TypeScript | 📅 2026-08-28 - Mermaid lets you create diagrams and visualizations using text and code.
   It is a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
   ![](https://mermaid-js.github.io/mermaid/img/header.png)
 * <img src="https://img.shields.io/github/stars/ecomfe/echarts?style=social" height="16">[**echarts** - An easy of adding intuitive, interactive, and highly customizable charts](https://github.com/ecomfe/echarts) ⭐ 67,174 | 🐛 1,525 | 🌐 TypeScript | 📅 2026-08-04
@@ -497,7 +497,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ### React
 
-* ![](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social) [chakra-ui](https://github.com/chakra-ui/chakra-ui) ⭐ 40,600 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-28: Chakra UI provides a set of accessible, reusable, and composable React components that make it super easy to create websites and apps.
+* ![](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social) [chakra-ui](https://github.com/chakra-ui/chakra-ui) ⭐ 40,602 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-28: Chakra UI provides a set of accessible, reusable, and composable React components that make it super easy to create websites and apps.
 * ![](https://img.shields.io/github/stars/OfficeDev/office-ui-fabric-react?style=social) [office-ui-fabric-react: React components for building experiences for Office and Office 365.](https://github.com/OfficeDev/office-ui-fabric-react) ⭐ 20,232 | 🐛 770 | 🌐 TypeScript | 📅 2026-08-28
 * ![](https://img.shields.io/github/stars/segmentio/evergreen?style=social) [evergreen: Evergreen React UI Framework by Segment](https://github.com/segmentio/evergreen) ⭐ 12,424 | 🐛 81 | 🌐 JavaScript | 📅 2026-06-25
 
@@ -560,7 +560,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 * [**Ace** - A standalone code editor written in JavaScript](https://github.com/ajaxorg/ace) ⭐ 27,145 | 🐛 140 | 🌐 JavaScript | 📅 2026-08-13
 
-* [tinymce: The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular](https://github.com/tinymce/tinymce) ⭐ 16,283 | 🐛 414 | 🌐 TypeScript | 📅 2026-08-17
+* [tinymce: The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular](https://github.com/tinymce/tinymce) ⭐ 16,283 | 🐛 415 | 🌐 TypeScript | 📅 2026-08-17
 
 * ![](https://img.shields.io/github/stars/PrismJS/prism?style=social) [PrismJS](https://github.com/PrismJS/prism/) ⭐ 13,039 | 🐛 485 | 🌐 JavaScript | 📅 2026-06-29 - Prism is a lightweight, robust, and elegant syntax highlighting library. It's a spin-off project from Dabblet.
 
@@ -587,13 +587,13 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ### Code Highlight
 
-* ![](https://img.shields.io/github/stars/shikijs/shiki?style=social)[shiki](https://github.com/shikijs/shiki) ⭐ 13,757 | 🐛 114 | 🌐 TypeScript | 📅 2026-08-10: a beautiful Syntax Highlighter. [Demo](https://shiki.matsu.io/).
+* ![](https://img.shields.io/github/stars/shikijs/shiki?style=social)[shiki](https://github.com/shikijs/shiki) ⭐ 13,758 | 🐛 114 | 🌐 TypeScript | 📅 2026-08-10: a beautiful Syntax Highlighter. [Demo](https://shiki.matsu.io/).
 
 ### Markdown
 
 * ![](https://img.shields.io/github/stars/benweet/stackedit?style=social) ✨✨✨✨✨❤️ [stackedit: In-browser **Markdown** editor](https://github.com/benweet/stackedit) ⭐ 23,072 | 🐛 732 | 🌐 JavaScript | 📅 2023-07-04
 * 💗 ![](https://img.shields.io/github/stars/markdown-it/markdown-it?style=social) [markdown-it](https://github.com/markdown-it/markdown-it) ⭐ 21,857 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-27 - Markdown parser done right. Fast and easy to extend.
-* ![](https://img.shields.io/github/stars/Vanessa219/vditor?style=social) [Vditor: Vditor 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript、Vue、React、Angular，提供桌面版。](https://github.com/Vanessa219/vditor) ⭐ 11,270 | 🐛 97 | 🌐 TypeScript | 📅 2026-08-29
+* ![](https://img.shields.io/github/stars/Vanessa219/vditor?style=social) [Vditor: Vditor 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript、Vue、React、Angular，提供桌面版。](https://github.com/Vanessa219/vditor) ⭐ 11,271 | 🐛 97 | 🌐 TypeScript | 📅 2026-08-29
 * ![](https://img.shields.io/github/stars/sparksuite/simplemde-markdown-editor?style=social) [SimpleMDE - Markdown Editor](https://github.com/sparksuite/simplemde-markdown-editor) ⭐ 10,144 | 🐛 291 | 🌐 JavaScript | 📅 2024-06-11: A drop-in JavaScript textarea replacement for writing beautiful and understandable Markdown. The WYSIWYG-esque editor allows users who may be less experienced with Markdown to use familiar toolbar buttons and shortcuts. In addition, the syntax is rendered while editing to clearly show the expected result. Headings are larger, emphasized words are italicized, links are underlined, etc. SimpleMDE is one of the first editors to feature both built-in autosaving and spell checking.
 
 ## Highlight
@@ -758,7 +758,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ### Models & serializers
 
-* ![](https://img.shields.io/github/stars/quicktype/quicktype?style=social) [quicktype](https://github.com/quicktype/quicktype) ⭐ 13,845 | 🐛 223 | 🌐 TypeScript | 📅 2026-08-29: generates strongly-typed models and serializers from JSON, JSON Schema, TypeScript, and GraphQL queries, making it a breeze to work with JSON type-safely in many programming languages.
+* ![](https://img.shields.io/github/stars/quicktype/quicktype?style=social) [quicktype](https://github.com/quicktype/quicktype) ⭐ 13,845 | 🐛 222 | 🌐 TypeScript | 📅 2026-08-29: generates strongly-typed models and serializers from JSON, JSON Schema, TypeScript, and GraphQL queries, making it a breeze to work with JSON type-safely in many programming languages.
 
 ### TypeScript
 
@@ -909,11 +909,11 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ### Video Player
 
-* ![](https://img.shields.io/github/stars/videojs/video.js?style=social) [**video.js** - An HTML5 & Flash video player](https://github.com/videojs/video.js) ⭐ 39,868 | 🐛 670 | 🌐 JavaScript | 📅 2026-08-03
+* ![](https://img.shields.io/github/stars/videojs/video.js?style=social) [**video.js** - An HTML5 & Flash video player](https://github.com/videojs/video.js) ⭐ 39,869 | 🐛 670 | 🌐 JavaScript | 📅 2026-08-03
 
 * ![](https://img.shields.io/github/stars/DIYgod/DPlayer?style=social) [DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily.](https://github.com/DIYgod/DPlayer) ⭐ 16,487 | 🐛 268 | 🌐 JavaScript | 📅 2026-03-04
 
-* ![](https://img.shields.io/github/stars/bytedance/xgplayer?style=social) [xgplayer](https://github.com/bytedance/xgplayer) ⭐ 9,285 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-28  is a web video and audio player library, designed with separate, detachable UI components. Since everything is componentized. the UI layer is very flexable.
+* ![](https://img.shields.io/github/stars/bytedance/xgplayer?style=social) [xgplayer](https://github.com/bytedance/xgplayer) ⭐ 9,286 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-28  is a web video and audio player library, designed with separate, detachable UI components. Since everything is componentized. the UI layer is very flexable.
   xgplayer is bold in its functionality: it gets rid of video loading, buffering, and format support for video dependence. For mp4 that does not support streaming, you can use staged loading. This means load control, seamless switching without artifacts, and video bandwidth savings. It also integrates on-demand and live support for FLV, HLS, and dash.
 
 * ![](https://img.shields.io/github/stars/DIYgod/APlayer?style=social) [**APlayer** - A beautiful html5 music player](https://github.com/DIYgod/APlayer) ⭐ 7,706 | 🐛 206 | 🌐 JavaScript | 📅 2024-02-23
@@ -1018,7 +1018,7 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
   Emscripten provides Web support for popular portable APIs such as OpenGL and SDL2, allowing complex graphical native applications to be ported, such as the Unity game engine and Google Earth. It can probably port your codebase, too!
 
   While Emscripten mostly focuses on compiling C and C++ using Clang, it can be integrated with other LLVM-using compilers (for example, Rust has Emscripten integration, with the wasm32-unknown-emscripten and asmjs-unknown-emscripten targets).
-* ![](https://img.shields.io/github/stars/wasmerio/wasmer?style=social) [Wasmer: Wasmer enables super lightweight containers based on WebAssembly that can run anywhere: from Desktop to the Cloud and IoT devices, and also embedded in any programming language.](https://github.com/wasmerio/wasmer) ⭐ 20,984 | 🐛 251 | 🌐 Rust | 📅 2026-08-29
+* ![](https://img.shields.io/github/stars/wasmerio/wasmer?style=social) [Wasmer: Wasmer enables super lightweight containers based on WebAssembly that can run anywhere: from Desktop to the Cloud and IoT devices, and also embedded in any programming language.](https://github.com/wasmerio/wasmer) ⭐ 20,985 | 🐛 251 | 🌐 Rust | 📅 2026-08-29
 * ![](https://img.shields.io/github/stars/WasmEdge/WasmEdge?style=social) [WasmEdge](https://github.com/WasmEdge/WasmEdge) ⭐ 10,793 | 🐛 168 | 🌐 C++ | 📅 2026-08-28 - WasmEdge (previously known as SSVM) is a lightweight, high-performance, and extensible WebAssembly runtime for ❗️**cloud native, edge, and decentralized applications**❗️. It is the fastest Wasm VM today. WasmEdge is an official sandbox project hosted by the CNCF. Its use cases include serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 
 ## Admin
@@ -1027,7 +1027,7 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 ## No/Low Code
 
-* ![](https://img.shields.io/github/stars/artf/grapesjs?style=social) [grapesjs](https://github.com/artf/grapesjs) ⭐ 26,173 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-26: is a free and open source Web Builder Framework which helps building HTML templates, faster and easily, to be delivered in sites, newsletters or mobile apps. Mainly, GrapesJS was designed to be used inside a CMS to speed up the creation of dynamic templates.
+* ![](https://img.shields.io/github/stars/artf/grapesjs?style=social) [grapesjs](https://github.com/artf/grapesjs) ⭐ 26,172 | 🐛 37 | 🌐 TypeScript | 📅 2026-08-26: is a free and open source Web Builder Framework which helps building HTML templates, faster and easily, to be delivered in sites, newsletters or mobile apps. Mainly, GrapesJS was designed to be used inside a CMS to speed up the creation of dynamic templates.
 * ![](https://img.shields.io/github/stars/ly525/luban-h5?style=social) [luban-h5](https://github.com/ly525/luban-h5) ⭐ 6,235 | 🐛 109 | 🌐 JavaScript | 📅 2026-01-03: Mobile Page Builder\&Generator with Drag\&Drop
 
 ### CMS
@@ -1038,7 +1038,7 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 ### Framework
 
-* ![](https://img.shields.io/github/stars/nestjs/nest?style=social) [nest: A progressive Node.js framework for building efficient and scalable server-side applications.](https://github.com/nestjs/nest) ⭐ 76,484 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-28
+* ![](https://img.shields.io/github/stars/nestjs/nest?style=social) [nest: A progressive Node.js framework for building efficient and scalable server-side applications.](https://github.com/nestjs/nest) ⭐ 76,485 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-29
 
 ### Midddleware
 
@@ -1072,11 +1072,11 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 ## Open Source Apps
 
-* ![](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social) [AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 71,985 | 🐛 714 | 🌐 TypeScript | 📅 2026-08-28 - The Next-Gen Knowledge Base to Replace Notion & Miro.
+* ![](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social) [AFFiNE](https://github.com/toeverything/AFFiNE) ⭐ 71,987 | 🐛 714 | 🌐 TypeScript | 📅 2026-08-28 - The Next-Gen Knowledge Base to Replace Notion & Miro.
 
-* ![](https://img.shields.io/github/stars/marktext/marktext?style=social)  [MarkText - Next generation markdown editor](https://github.com/marktext/marktext) ⭐ 60,714 | 🐛 727 | 🌐 TypeScript | 📅 2026-07-27: A simple and elegant open-source markdown editor that focused on speed and usability. Available for Linux, macOS and Windows.
+* ![](https://img.shields.io/github/stars/marktext/marktext?style=social)  [MarkText - Next generation markdown editor](https://github.com/marktext/marktext) ⭐ 60,715 | 🐛 727 | 🌐 TypeScript | 📅 2026-07-27: A simple and elegant open-source markdown editor that focused on speed and usability. Available for Linux, macOS and Windows.
 
-* ![](https://img.shields.io/github/stars/twentyhq/twenty?style=social) [twenty](https://github.com/twentyhq/twenty) ⭐ 55,808 | 🐛 178 | 🌐 TypeScript | 📅 2026-08-29 - The #1 Open-Source CRM.
+* ![](https://img.shields.io/github/stars/twentyhq/twenty?style=social) [twenty](https://github.com/twentyhq/twenty) ⭐ 55,810 | 🐛 178 | 🌐 TypeScript | 📅 2026-08-29 - The #1 Open-Source CRM.
   ![](https://raw.githubusercontent.com/twentyhq/twenty/main/packages/twenty-docs/static/img/preview-light.png)
   We’ve spent thousands of hours grappling with traditional CRMs like Pipedrive and Salesforce to align them with our business needs, only to end up frustrated — customizations are complex and the closed ecosystems of these platforms can feel restrictive.
 
@@ -1084,9 +1084,9 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 * ![](https://img.shields.io/github/stars/tldraw/tldraw?style=social) [tldraw: a tiny little drawing app](https://github.com/tldraw/tldraw) ⭐ 50,016 | 🐛 725 | 🌐 TypeScript | 📅 2026-08-28: Try it 👉 [online](https://www.tldraw.com/)
 
-* ![](https://img.shields.io/github/stars/slidevjs/slidev?style=social)  [Slidev](https://github.com/slidevjs/slidev) ⭐ 48,320 | 🐛 223 | 🌐 TypeScript | 📅 2026-08-25: Presentation slides for developers 🧑‍💻👩‍💻👨‍💻
+* ![](https://img.shields.io/github/stars/slidevjs/slidev?style=social)  [Slidev](https://github.com/slidevjs/slidev) ⭐ 48,321 | 🐛 223 | 🌐 TypeScript | 📅 2026-08-25: Presentation slides for developers 🧑‍💻👩‍💻👨‍💻
 
-* ![](https://img.shields.io/github/stars/AykutSarac/jsonvisio.com?style=social) [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) ⭐ 44,344 | 🐛 39 | 🌐 TypeScript | 📅 2026-08-18 - JSON Visio is a tool that generates graph diagrams from JSON objects. These diagrams are much easier to navigate than the textual format and to make it even more convenient, the tool also allows you to search the nodes. Additionally, the generated diagrams can also be downloaded or clipboard as image.
+* ![](https://img.shields.io/github/stars/AykutSarac/jsonvisio.com?style=social) [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) ⭐ 44,345 | 🐛 39 | 🌐 TypeScript | 📅 2026-08-18 - JSON Visio is a tool that generates graph diagrams from JSON objects. These diagrams are much easier to navigate than the textual format and to make it even more convenient, the tool also allows you to search the nodes. Additionally, the generated diagrams can also be downloaded or clipboard as image.
 
   You can use the web version at jsonvisio.com or also run it locally as Docker container.
 
@@ -1103,7 +1103,7 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
   We encourage the community to join us in building the best behavioral analytics library, that puts privacy first and prioritizes performance.
 
-* ![](https://img.shields.io/github/stars/Idered/chalk.ist?style=social)  [chalk.ist](https://github.com/Idered/chalk.ist) ⭐ 1,843 | 🐛 22 | 🌐 Vue | 📅 2026-01-07 - Create beautiful images of your source code
+* ![](https://img.shields.io/github/stars/Idered/chalk.ist?style=social)  [chalk.ist](https://github.com/Idered/chalk.ist) ⭐ 1,844 | 🐛 22 | 🌐 Vue | 📅 2026-01-07 - Create beautiful images of your source code
 
 * [](https://img.shields.io/github/stars/wappalyzer/wappalyzer?style=social)  [wappalyzer](https://github.com/wappalyzer/wappalyzer) - Wappalyzer identifies technologies on websites, such as CMS, web frameworks, ecommerce platforms, JavaScript libraries, analytics tools and [more](https://www.wappalyzer.com/technologies).
 
