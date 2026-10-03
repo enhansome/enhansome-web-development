@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "👍 A set of best practices for JavaScript projects",
-          "description": null,
+          "description": "elsewhencode/project-guidelines",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -34,7 +34,7 @@
         {
           "node_type": "item",
           "title": "mdo code guide Standards for developing flexible, durable, and sustainable HTML and CSS.",
-          "description": null,
+          "description": "mdo/code-guide",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -61,7 +61,7 @@
         {
           "node_type": "item",
           "title": "developer-roadmap",
-          "description": null,
+          "description": "nilbuild/developer-roadmap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -74,7 +74,7 @@
             "open_issues": 0,
             "owner": "nilbuild",
             "repo": "developer-roadmap",
-            "stars": 368734,
+            "stars": 368749,
             "topics": [
               "angular-roadmap",
               "backend-roadmap",
@@ -133,11 +133,11 @@
                 "id": 162723104,
                 "language": "JavaScript",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-03T00:36:34Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-03T04:54:09Z",
+                "open_issues": 2,
                 "owner": "OWASP",
                 "repo": "CheatSheetSeries",
-                "stars": 33391,
+                "stars": 33392,
                 "topics": [
                   "application-security",
                   "appsec",
@@ -160,7 +160,7 @@
             {
               "node_type": "item",
               "title": "What the f*ck JavaScript? A list of funny and tricky JavaScript examples. JavaScript is a great language. It has a simple syntax, large ecosystem and, what is most important, a great community. At the same time, we all know that JavaScript is quite a funny language with tricky parts. Some of them can quickly turn our everyday job into hell, and some of them can make us laugh out loud.",
-              "description": null,
+              "description": "denysdovhan/wtfjs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -190,7 +190,7 @@
             {
               "node_type": "item",
               "title": "The JavaScript Way: A modern introduction to an essential language.",
-              "description": null,
+              "description": "thejsway/thejsway",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -229,7 +229,7 @@
         {
           "node_type": "item",
           "title": "sveltejs: a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.",
-          "description": null,
+          "description": "sveltejs/svelte",
           "children": [
             {
               "node_type": "item",
@@ -266,7 +266,7 @@
             "open_issues": 1113,
             "owner": "sveltejs",
             "repo": "svelte",
-            "stars": 88229,
+            "stars": 88230,
             "topics": [
               "compiler",
               "template",
@@ -347,7 +347,7 @@
         {
           "node_type": "item",
           "title": "Partytown is a lazy-loaded 6kb library to help relocate resource intensive scripts into a web worker, and off of the main thread. Its goal is to help speed up sites by dedicating the main thread to your code, and offloading third-party scripts to a web worker.",
-          "description": null,
+          "description": "QwikDev/partytown",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -380,7 +380,7 @@
         {
           "node_type": "item",
           "title": "Miniflare is a simulator for developing and testing Cloudflare Workers.",
-          "description": null,
+          "description": "cloudflare/miniflare",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -412,7 +412,7 @@
             {
               "node_type": "item",
               "title": "Windi CSS: Next generation utility-first CSS framework. If you are already familiar with Tailwind CSS, think about Windi CSS as an on-demanded alternative to Tailwind, which provides faster load times, fully compatible with Tailwind v2.0 and with a bunch of additional cool features.",
-              "description": null,
+              "description": "windicss/windicss",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -442,7 +442,7 @@
             {
               "node_type": "item",
               "title": "CSSFX: Beautifully simple click-to-copy CSS effects",
-              "description": null,
+              "description": "jolaleye/cssfx",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -469,7 +469,7 @@
             {
               "node_type": "item",
               "title": "sanitize.css is a CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. It is developed alongside normalize.css, which means every normalization is included, and every normalization and opinion are clearly marked and documented.",
-              "description": null,
+              "description": "csstools/sanitize.css",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -539,7 +539,7 @@
                     "open_issues": 46,
                     "owner": "saadeghi",
                     "repo": "daisyui",
-                    "stars": 42526,
+                    "stars": 42527,
                     "topics": [
                       "component",
                       "component-library",
@@ -720,7 +720,7 @@
             {
               "node_type": "item",
               "title": "pico.js & lploc.js",
-              "description": null,
+              "description": "nenadmarkus/picojs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -773,7 +773,7 @@
                 {
                   "node_type": "item",
                   "title": "EaselJS: The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.",
-                  "description": null,
+                  "description": "CreateJS/EaselJS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -794,7 +794,7 @@
                 {
                   "node_type": "item",
                   "title": "SoundJS: A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneGap, and a Flash fallback.",
-                  "description": null,
+                  "description": "CreateJS/SoundJS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -815,7 +815,7 @@
                 {
                   "node_type": "item",
                   "title": "TweenJS: A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.",
-                  "description": null,
+                  "description": "CreateJS/TweenJS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -836,7 +836,7 @@
                 {
                   "node_type": "item",
                   "title": "PreloadJS: PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.",
-                  "description": null,
+                  "description": "CreateJS/PreloadJS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -870,7 +870,7 @@
         {
           "node_type": "item",
           "title": "cube.js: Cube.js is an open-source analytical API platform. It is primarily used to build internal business intelligence tools or add customer-facing analytics to existing applications.",
-          "description": null,
+          "description": "cube-js/cube",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -879,11 +879,11 @@
             "id": 149026292,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T00:07:47Z",
+            "last_commit": "2026-10-03T03:19:35Z",
             "open_issues": 1199,
             "owner": "cube-js",
             "repo": "cube",
-            "stars": 20947,
+            "stars": 20949,
             "topics": [
               "agentic-analytics",
               "agents",
@@ -911,7 +911,7 @@
         {
           "node_type": "item",
           "title": "Neuro.js is machine learning framework for building AI assistants and chat-bots.",
-          "description": null,
+          "description": "tortuvshin/neuro",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -959,7 +959,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T12:51:28Z",
-            "open_issues": 1834,
+            "open_issues": 1835,
             "owner": "mermaid-js",
             "repo": "mermaid",
             "stars": 90515,
@@ -979,7 +979,7 @@
         {
           "node_type": "item",
           "title": "echarts - An easy of adding intuitive, interactive, and highly customizable charts",
-          "description": null,
+          "description": "apache/echarts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1010,7 +1010,7 @@
         {
           "node_type": "item",
           "title": "😋 rough: Create graphics with a hand-drawn, sketchy, appearance",
-          "description": null,
+          "description": "rough-stuff/rough",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1038,7 +1038,7 @@
         {
           "node_type": "item",
           "title": "mapbox-gl-js: Mapbox GL JS is a JavaScript library for interactive, customizable vector maps on the web. It takes map styles that conform to the Mapbox Style Specification, applies them to vector tiles that conform to the Mapbox Vector Tile Specification, and renders them using WebGL.Mapbox GL JS is part of the cross-platform Mapbox GL ecosystem, which also includes compatible native SDKs for applications on Android, iOS, macOS, Qt, and React Native. Mapbox provides building blocks to add location features like maps, search, and navigation into any experience you create. To get started with GL JS or any of our other building blocks, sign up for a Mapbox account.",
-          "description": null,
+          "description": "mapbox/mapbox-gl-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1065,7 +1065,7 @@
         {
           "node_type": "item",
           "title": "flowchartjs: Draws simple SVG flow chart diagrams from textual representation of the diagram",
-          "description": null,
+          "description": "adrai/flowchart.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1091,7 +1091,7 @@
         {
           "node_type": "item",
           "title": "textures.js: Textures.js is a JavaScript library for creating SVG patterns. Made on top of d3.js, it is designed for data visualization.",
-          "description": null,
+          "description": "riccardoscalco/textures",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1117,7 +1117,7 @@
         {
           "node_type": "item",
           "title": "revogrid: Powerful data grid component built with StencilJS. Support Millions of cells and thousands columns easy and efficiently for fast data rendering. Easy to use.",
-          "description": null,
+          "description": "revolist/revogrid",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1126,8 +1126,8 @@
             "id": 261298767,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T11:46:27Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-03T02:10:17Z",
+            "open_issues": 55,
             "owner": "revolist",
             "repo": "revogrid",
             "stars": 3447,
@@ -1164,7 +1164,7 @@
             {
               "node_type": "item",
               "title": "d3-flame-graph: A D3.js plugin that produces flame graphs from hierarchical data.",
-              "description": null,
+              "description": "spiermar/d3-flame-graph",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1195,7 +1195,7 @@
             {
               "node_type": "item",
               "title": "jQuery File Upload Plugin",
-              "description": null,
+              "description": "blueimp/jQuery-File-Upload",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1242,7 +1242,7 @@
             {
               "node_type": "item",
               "title": "Web Uploader - 一个以 HTML5 为主 FLASH 为辅, 各种老旧浏览器兼容性好(IE6+ Andorid 4+ IOS 6+)",
-              "description": null,
+              "description": "fex-team/webuploader",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1270,7 +1270,7 @@
             {
               "node_type": "item",
               "title": "👍👍 FileSaver.js: An HTML5 saveAs() FileSaver implementation",
-              "description": null,
+              "description": "eligrey/FileSaver.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1302,7 +1302,7 @@
         {
           "node_type": "item",
           "title": "👍👍 nprogress - For slim progress bars like on YouTube, Medium",
-          "description": null,
+          "description": "rstacruz/nprogress",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1323,7 +1323,7 @@
         {
           "node_type": "item",
           "title": "SpinKit: A collection of loading indicators animated with CSS",
-          "description": null,
+          "description": "tobiasahlin/SpinKit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1344,7 +1344,7 @@
         {
           "node_type": "item",
           "title": "Single Element CSS Spinners - Each spinner consists of a single with a class of and content text of \"Loading...\". The text is for screen readers and can be used as a fallback state for older browsers",
-          "description": null,
+          "description": "lukehaas/css-loaders",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1371,7 +1371,7 @@
         {
           "node_type": "item",
           "title": "featcher - a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability",
-          "description": null,
+          "description": "feathericons/feather",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1396,7 +1396,7 @@
         {
           "node_type": "item",
           "title": "Titanic - A collection of animated icons + javascript library.",
-          "description": null,
+          "description": "icons8/titanic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1436,7 +1436,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-10T11:13:03Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "emilkowalski",
             "repo": "sonner",
             "stars": 13024,
@@ -1451,7 +1451,7 @@
         {
           "node_type": "item",
           "title": "toastr - A Javascript library fo non-blocking notifications",
-          "description": null,
+          "description": "CodeSeven/toastr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1472,7 +1472,7 @@
         {
           "node_type": "item",
           "title": "Angular Toastr",
-          "description": null,
+          "description": "Foxandxss/angular-toastr",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1499,7 +1499,7 @@
         {
           "node_type": "item",
           "title": "sweetalert - A beautiful replacement for JavaScript's \"alert\"",
-          "description": null,
+          "description": "t4t5/sweetalert",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1534,7 +1534,7 @@
         {
           "node_type": "item",
           "title": "satellizer - A token-based AngularJS Authentication",
-          "description": null,
+          "description": "sahat/satellizer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1561,7 +1561,7 @@
         {
           "node_type": "item",
           "title": "animate.css - A cross-browser library of CSS animations. As easy to use as an easy thing",
-          "description": null,
+          "description": "animate-css/animate.css",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1574,7 +1574,7 @@
             "open_issues": 80,
             "owner": "animate-css",
             "repo": "animate.css",
-            "stars": 82844,
+            "stars": 82845,
             "topics": [
               "animation",
               "css",
@@ -1587,7 +1587,7 @@
         {
           "node_type": "item",
           "title": "💗 💗 anime.js - JavaScript Animation Engine",
-          "description": null,
+          "description": "juliangarnier/anime",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1600,7 +1600,7 @@
             "open_issues": 120,
             "owner": "juliangarnier",
             "repo": "anime",
-            "stars": 73274,
+            "stars": 73278,
             "topics": [
               "animation",
               "anime",
@@ -1616,7 +1616,7 @@
         {
           "node_type": "item",
           "title": "❗️ lottie for web: Render After Effects animations natively on Web, Android and iOS, and React Native",
-          "description": null,
+          "description": "airbnb/lottie-web",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1637,7 +1637,7 @@
         {
           "node_type": "item",
           "title": "Hover.css - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.",
-          "description": null,
+          "description": "IanLunn/Hover",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1662,7 +1662,7 @@
         {
           "node_type": "item",
           "title": "React-Motion: A spring that solves your animation problems.",
-          "description": null,
+          "description": "chenglou/react-motion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1711,7 +1711,7 @@
         {
           "node_type": "item",
           "title": "countUp.js: Animates a numerical value by counting to it",
-          "description": null,
+          "description": "inorganik/countUp.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1732,7 +1732,7 @@
         {
           "node_type": "item",
           "title": "dynamics.js: Dynamics.js is a JavaScript library to create physics-based animations",
-          "description": null,
+          "description": "michaelvillar/dynamics.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1753,7 +1753,7 @@
         {
           "node_type": "item",
           "title": "Odometer - a Javascript and CSS library for smoothly transitioning numbers",
-          "description": null,
+          "description": "HubSpot/odometer",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1774,7 +1774,7 @@
         {
           "node_type": "item",
           "title": "css-loaders - A collection of loading spinners animated with CSS",
-          "description": null,
+          "description": "lukehaas/css-loaders",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1795,7 +1795,7 @@
         {
           "node_type": "item",
           "title": "elevator.js: Finally, a \"back to top\" button that behaves like a real elevator, by adding elevator music to quietly soothe the awkwardness that can ensue when being smoothly scrolled to the top of the screen.",
-          "description": null,
+          "description": "tholman/elevator.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1816,7 +1816,7 @@
         {
           "node_type": "item",
           "title": "SpriteJS is a cross-platform lightweight 2D render object model. Draw graphics on a canvas through simple object-oriented dom-like API. Vue & React/Preact supported.",
-          "description": null,
+          "description": "spritejs/spritejs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1844,7 +1844,7 @@
         {
           "node_type": "item",
           "title": ":thumbsup:snabbt.js - Fast animations with Javascript and CSS transforms",
-          "description": null,
+          "description": "daniel-lundin/snabbt.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1871,7 +1871,7 @@
         {
           "node_type": "item",
           "title": "PhotoSwipe - JavaScript image gallery for mobile and desktop",
-          "description": null,
+          "description": "dimsemenov/PhotoSwipe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1897,7 +1897,7 @@
         {
           "node_type": "item",
           "title": "mo · js is a javascript motion graphics library that is a fast, retina ready, modular and open source. In comparison to other libraries, it have a different syntax and code animation structure approach. The declarative API provides you a complete control over the animation, making it customizable with ease. The library provides built-in components to start animating from scratch like html, shape, swirl, burst and stagger, but also bring you tools to help craft your animation in a most natural way. Using mojs on your site will enhance the user experience, enrich your content visually and create delightful animations precisely.",
-          "description": null,
+          "description": "mojs/mojs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1938,7 +1938,7 @@
         {
           "node_type": "item",
           "title": "watermarkjs: Watermarking for the browser",
-          "description": null,
+          "description": "brianium/watermarkjs",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1994,7 +1994,7 @@
             {
               "node_type": "item",
               "title": "webp2jpg-online: Online image format converter, jpeg, jpg, PNG, Gif, webp, svg, ICO, bmp files into Jpeg, PNG, webp, ICO, gif files. The conversion can be done locally without uploading the file Online picture format converter, can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files into jpeg, png, webp, ico, gif files. No need to upload files, conversion can be done locally",
-              "description": null,
+              "description": "renzhezhilu/webp2jpg-online",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2007,7 +2007,7 @@
                 "open_issues": 11,
                 "owner": "renzhezhilu",
                 "repo": "webp2jpg-online",
-                "stars": 2030,
+                "stars": 2031,
                 "topics": [
                   "browser-picture-converter",
                   "conversionem-image",
@@ -2035,7 +2035,7 @@
             {
               "node_type": "item",
               "title": "sprintf-js is a complete open source JavaScript sprintf implementation for the browser and Node.js.",
-              "description": null,
+              "description": "alexei/sprintf.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2066,7 +2066,7 @@
             {
               "node_type": "item",
               "title": "google-guetzli: Guetzli is a JPEG encoder that aims for excellent compression density at high visual quality. Guetzli-generated images are typically 20-30% smaller than images of equivalent quality generated by libjpeg. Guetzli generates only sequential (nonprogressive) JPEGs due to faster decompression speeds they offer.",
-              "description": null,
+              "description": "google/guetzli",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2096,7 +2096,7 @@
             {
               "node_type": "item",
               "title": "jquery_lazyload: Vanilla JavaScript plugin for lazyloading images",
-              "description": null,
+              "description": "tuupola/lazyload",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2117,7 +2117,7 @@
             {
               "node_type": "item",
               "title": "verlok/lazyload: LazyLoad is a fast, lightweight and flexible script that speeds up your web application by loading images as they enter the viewport. It's written in plain \"vanilla\" JavaScript, uses IntersectionObserver, and supports responsive images. It's also SEO-friendly and it has some other notable features.",
-              "description": null,
+              "description": "verlok/vanilla-lazyload",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2166,7 +2166,7 @@
             {
               "node_type": "item",
               "title": "👍👍 Instagram.css - Pure CSS Instagram filters. You can add all these Instagram-like filters to your photos with using CSS only. Thanks to the CSSgram for inspiration.",
-              "description": null,
+              "description": "picturepan2/instagram.css",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2194,7 +2194,7 @@
             {
               "node_type": "item",
               "title": "spotlight: Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.",
-              "description": null,
+              "description": "nextapps-de/spotlight",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2247,7 +2247,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-02T08:28:54Z",
-                "open_issues": 81,
+                "open_issues": 82,
                 "owner": "conventional-changelog",
                 "repo": "commitlint",
                 "stars": 18761,
@@ -2287,7 +2287,7 @@
             "open_issues": 4,
             "owner": "lxgw",
             "repo": "LxgwWenKai",
-            "stars": 26141,
+            "stars": 26144,
             "topics": [
               "cjk",
               "font",
@@ -2312,7 +2312,7 @@
             "open_issues": 18,
             "owner": "wordshub",
             "repo": "free-font",
-            "stars": 6478,
+            "stars": 6479,
             "topics": [
               "cjk",
               "font",
@@ -2357,7 +2357,7 @@
         {
           "node_type": "item",
           "title": "Semantic-UI - A UI component framework based around useful principles from natural language.",
-          "description": null,
+          "description": "Semantic-Org/Semantic-UI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2389,7 +2389,7 @@
         {
           "node_type": "item",
           "title": "Primer CSS - Primer is the CSS toolkit that powers GitHub's front-end design. It's purposefully limited to common components to provide our developers with the most flexibility, and to keep GitHub uniquely GitHubby. It's built with SCSS and available via NPM, so it's easy to include all or part of it within your own project",
-          "description": null,
+          "description": "primer/css",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2426,7 +2426,7 @@
             {
               "node_type": "item",
               "title": "gentelella - An awesome !! Free Bootstrap 3 Admin Template",
-              "description": null,
+              "description": "ColorlibHQ/gentelella",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2468,7 +2468,7 @@
             {
               "node_type": "item",
               "title": "Flat-UI - Based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites",
-              "description": null,
+              "description": "designmodo/Flat-UI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2496,7 +2496,7 @@
             {
               "node_type": "item",
               "title": "material-ui - React Components that Implement Google's Material Design",
-              "description": null,
+              "description": "mui/material-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2523,7 +2523,7 @@
             {
               "node_type": "item",
               "title": "material-design-lite - Material Design Components in HTML/CSS/JS",
-              "description": null,
+              "description": "google/material-design-lite",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2554,7 +2554,7 @@
             {
               "node_type": "item",
               "title": "element-plus: Vue 3.0 Composition API; Written in TypeScript",
-              "description": null,
+              "description": "element-plus/element-plus",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2582,7 +2582,7 @@
             {
               "node_type": "item",
               "title": "vux: Mobile UI Components based on Vue & WeUI",
-              "description": null,
+              "description": "airyland/vux",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2615,7 +2615,7 @@
             {
               "node_type": "item",
               "title": "mint-ui: Mobile UI elements for Vue.js by Eleme",
-              "description": null,
+              "description": "ElemeFE/mint-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2642,7 +2642,7 @@
             {
               "node_type": "item",
               "title": "buefy: Lightweight UI components for Vue.js based on Bulma",
-              "description": null,
+              "description": "buefy/buefy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2670,7 +2670,7 @@
             {
               "node_type": "item",
               "title": "NutUI 2(JingDong): A light mobile Toolkit based on Vue",
-              "description": null,
+              "description": "jd-opensource/nutui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2700,7 +2700,7 @@
             {
               "node_type": "item",
               "title": "vuesax: New Framework Components for Vue.js 2",
-              "description": null,
+              "description": "lusaxweb/vuesax",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2734,7 +2734,7 @@
             {
               "node_type": "item",
               "title": "AT-UI: A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0",
-              "description": null,
+              "description": "AT-UI/at-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2806,7 +2806,7 @@
             {
               "node_type": "item",
               "title": "office-ui-fabric-react: React components for building experiences for Office and Office 365.",
-              "description": null,
+              "description": "microsoft/fluentui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2834,7 +2834,7 @@
             {
               "node_type": "item",
               "title": "evergreen: Evergreen React UI Framework by Segment",
-              "description": null,
+              "description": "segmentio/evergreen",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2870,7 +2870,7 @@
             {
               "node_type": "item",
               "title": "wxapp-market: 小程序营销组件 大转盘 刮刮乐 老虎机 水果机 九宫格翻纸牌 摇一摇 手势解锁",
-              "description": null,
+              "description": "o2team/wxapp-market",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2900,7 +2900,7 @@
             {
               "node_type": "item",
               "title": "SUI Mobile 是阿里巴巴国际 UED 前端团队出品的移动端 UI 库",
-              "description": null,
+              "description": "sdc-alibaba/SUI-Mobile",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2932,7 +2932,7 @@
         {
           "node_type": "item",
           "title": "Cleave.js has a simple purpose: to help you format input text content automatically.",
-          "description": null,
+          "description": "nosir/cleave.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2965,7 +2965,7 @@
         {
           "node_type": "item",
           "title": "vex - A modern dialog library which is highly configurable and easy to style",
-          "description": null,
+          "description": "HubSpot/vex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2992,7 +2992,7 @@
         {
           "node_type": "item",
           "title": "popper.js - A kickass library to manage your poppers",
-          "description": null,
+          "description": "floating-ui/floating-ui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3023,7 +3023,7 @@
         {
           "node_type": "item",
           "title": "webui-popover - A lightWeight popover plugin with jquery, enchance the popover plugin of bootstrap with some awesome new features. It works well with bootstrap, but bootstrap is not necessary!",
-          "description": null,
+          "description": "sandywalker/webui-popover",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3050,7 +3050,7 @@
         {
           "node_type": "item",
           "title": "✨🌟 react-beautiful-dnd: Beautiful and accessible drag and drop for lists with React",
-          "description": null,
+          "description": "atlassian/react-beautiful-dnd",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3078,7 +3078,7 @@
         {
           "node_type": "item",
           "title": "Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Knockout and any CSS library, e.g. Bootstrap.",
-          "description": null,
+          "description": "SortableJS/Sortable",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3110,7 +3110,7 @@
         {
           "node_type": "item",
           "title": "Dragula - Browser support includes every sane browser and IE7+. Framework support includes vanilla JavaScript, Angular, and React",
-          "description": null,
+          "description": "bevacqua/dragula",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3139,7 +3139,7 @@
         {
           "node_type": "item",
           "title": "Vue.Draggable: Vue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js",
-          "description": null,
+          "description": "SortableJS/Vue.Draggable",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3164,7 +3164,7 @@
         {
           "node_type": "item",
           "title": "VvvebJs: Drag and drop website builder javascript library. http://www.vvveb.com/vvvebjs/editor.html",
-          "description": null,
+          "description": "givanz/VvvebJs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3260,7 +3260,7 @@
             {
               "node_type": "item",
               "title": "react-flip-move: Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.",
-              "description": null,
+              "description": "joshwcomeau/react-flip-move",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3300,7 +3300,7 @@
         {
           "node_type": "item",
           "title": "👍✨🌟💗Microsoft/monaco-editor: A browser based code editor which powers VS Code",
-          "description": null,
+          "description": "microsoft/monaco-editor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3309,8 +3309,8 @@
             "id": 60630844,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T21:29:54Z",
-            "open_issues": 863,
+            "last_commit": "2026-10-03T03:19:02Z",
+            "open_issues": 862,
             "owner": "microsoft",
             "repo": "monaco-editor",
             "stars": 46828,
@@ -3348,7 +3348,7 @@
         {
           "node_type": "item",
           "title": "Ace - A standalone code editor written in JavaScript",
-          "description": null,
+          "description": "ajaxorg/ace",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3369,7 +3369,7 @@
         {
           "node_type": "item",
           "title": "tinymce: The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular",
-          "description": null,
+          "description": "tinymce/tinymce",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3420,7 +3420,7 @@
         {
           "node_type": "item",
           "title": "Rete.js: JavaScript(TypeScript) framework for visual programming. Rete is a modular framework for visual programming. Rete allows you to create node-based editor directly in the browser. You can define nodes and workers that allow users to create instructions for processing data in your editor without a single line of code.",
-          "description": null,
+          "description": "retejs/rete",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3448,7 +3448,7 @@
         {
           "node_type": "item",
           "title": "pell - pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies",
-          "description": null,
+          "description": "jaredreich/pell",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3555,7 +3555,7 @@
             {
               "node_type": "item",
               "title": "✨✨✨✨✨❤️ stackedit: In-browser Markdown editor",
-              "description": null,
+              "description": "benweet/stackedit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3616,7 +3616,7 @@
             {
               "node_type": "item",
               "title": "Vditor: Vditor 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript、Vue、React、Angular，提供桌面版。",
-              "description": null,
+              "description": "Vanessa219/vditor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3682,7 +3682,7 @@
         {
           "node_type": "item",
           "title": "Highlight.js - Highlight.js is a syntax highlighter written in JavaScript. It works in the browser as well as on the server. It works with pretty much any markup, doesn’t depend on any framework and has automatic language detection.",
-          "description": null,
+          "description": "highlightjs/highlight.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3709,7 +3709,7 @@
         {
           "node_type": "item",
           "title": "HR.js - Tiny JavaScript plugin for highlighting and replacing text in the DOM",
-          "description": null,
+          "description": "mburakerman/hrjs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3742,7 +3742,7 @@
         {
           "node_type": "item",
           "title": "clipboard.js - A modern approach to copy text to clipboard. No Flash. No frameworks. Just 3kb gzipped",
-          "description": null,
+          "description": "zenorocha/clipboard.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3772,7 +3772,7 @@
         {
           "node_type": "item",
           "title": "Respond.js - A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)",
-          "description": null,
+          "description": "scottjehl/Respond",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3799,7 +3799,7 @@
         {
           "node_type": "item",
           "title": "AlloyFinger - super tiny size multi-touch gestures library for the web",
-          "description": null,
+          "description": "AlloyTeam/AlloyFinger",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3831,7 +3831,7 @@
         {
           "node_type": "item",
           "title": "CesiumJS is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.",
-          "description": null,
+          "description": "CesiumGS/cesium",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3862,7 +3862,7 @@
         {
           "node_type": "item",
           "title": "whs.js: Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js",
-          "description": null,
+          "description": "WhitestormJS/whs.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3899,7 +3899,7 @@
         {
           "node_type": "item",
           "title": "👍👍 ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. It was designed to be robust and flexible, but hopefully you’ll be surprised below at how easy it is to pick up.",
-          "description": null,
+          "description": "jlmakes/scrollreveal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3929,7 +3929,7 @@
         {
           "node_type": "item",
           "title": "iScrolljs - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller",
-          "description": null,
+          "description": "cubiq/iscroll",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3950,7 +3950,7 @@
         {
           "node_type": "item",
           "title": "rellax: Lightweight, vanilla javascript parallax library",
-          "description": null,
+          "description": "dixonandmoe/rellax",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3971,7 +3971,7 @@
         {
           "node_type": "item",
           "title": "Parallax.js: Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin",
-          "description": null,
+          "description": "pixelcog/parallax.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4057,7 +4057,7 @@
         {
           "node_type": "item",
           "title": "ChatUI: The UI design language and React library for Conversational UI",
-          "description": null,
+          "description": "alibaba/ChatUI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4089,7 +4089,7 @@
         {
           "node_type": "item",
           "title": "tween.js - JavaScript tweening engine for easy animations, incorporating optimised Robert Penner's equations",
-          "description": null,
+          "description": "tweenjs/tween.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4128,7 +4128,7 @@
         {
           "node_type": "item",
           "title": "qrcodejs - just for making QRCode and no other depedencies. It supports Cross-browser with HTML5 Canvas and table tag in DOM",
-          "description": null,
+          "description": "davidshimjs/qrcodejs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4149,7 +4149,7 @@
         {
           "node_type": "item",
           "title": "qrious - Pure JavaScript library for QR code generation using canvas",
-          "description": null,
+          "description": "airmrcr/qrious",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4182,7 +4182,7 @@
         {
           "node_type": "item",
           "title": "twemoji - Twitter Emoji for Everyone",
-          "description": null,
+          "description": "twitter/twemoji",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4212,7 +4212,7 @@
         {
           "node_type": "item",
           "title": "intro.js - A better way for new feature introduction and step-by-step users guide for your website and project",
-          "description": null,
+          "description": "usablica/intro.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4248,7 +4248,7 @@
         {
           "node_type": "item",
           "title": "中文文案排版指北",
-          "description": null,
+          "description": "sparanoid/chinese-copywriting-guidelines",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4279,7 +4279,7 @@
         {
           "node_type": "item",
           "title": "typo.css - 一致化浏览器排版效果，构建最适合中文阅读的网页排版，包括桌面和移动平台",
-          "description": null,
+          "description": "sofish/typo.css",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4300,7 +4300,7 @@
         {
           "node_type": "item",
           "title": "yue.css - A typography stylesheet for readable content",
-          "description": null,
+          "description": "typlog/yue.css",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4327,7 +4327,7 @@
         {
           "node_type": "item",
           "title": "html5shiv - This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer",
-          "description": null,
+          "description": "aFarkas/html5shiv",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4348,7 +4348,7 @@
         {
           "node_type": "item",
           "title": "es6 promise - A polyfill for ES6-style Promises",
-          "description": null,
+          "description": "stefanpenner/es6-promise",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4375,7 +4375,7 @@
         {
           "node_type": "item",
           "title": "Gutenber - Modern framework to print correctly",
-          "description": null,
+          "description": "BafS/Gutenberg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4412,7 +4412,7 @@
         {
           "node_type": "item",
           "title": "React-PDF: Create PDF files using React",
-          "description": null,
+          "description": "diegomura/react-pdf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4444,7 +4444,7 @@
         {
           "node_type": "item",
           "title": "LuckySheet: 🚀Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
-          "description": null,
+          "description": "dream-num/Luckysheet",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -4548,7 +4548,7 @@
             "open_issues": 391,
             "owner": "KaTeX",
             "repo": "KaTeX",
-            "stars": 20421,
+            "stars": 20422,
             "topics": [
               "javascript",
               "katex",
@@ -4568,7 +4568,7 @@
         {
           "node_type": "item",
           "title": ":+1:json-server Mock Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
-          "description": null,
+          "description": "typicode/json-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4597,7 +4597,7 @@
         {
           "node_type": "item",
           "title": "nodemon - Monitor for any changes in your node.js application and automatically restart the server - perfect for development",
-          "description": null,
+          "description": "remy/nodemon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4692,7 +4692,7 @@
             {
               "node_type": "item",
               "title": "ts-migrate is a tool for helping migrate code to TypeScript. It takes a JavaScript, or a partial TypeScript, project in and gives a compiling TypeScript project out.",
-              "description": null,
+              "description": "airbnb/ts-migrate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4725,7 +4725,7 @@
             {
               "node_type": "item",
               "title": "vConsole: A lightweight, extendable front-end developer tool for mobile web page.",
-              "description": null,
+              "description": "Tencent/vConsole",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4757,7 +4757,7 @@
             {
               "node_type": "item",
               "title": "SLATE: Slate helps you create beautiful, intelligent, responsive API documentation.(语雀 部分功能基于此开发)",
-              "description": null,
+              "description": "slatedocs/slate",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4803,7 +4803,7 @@
                 "open_issues": 1542,
                 "owner": "SigNoz",
                 "repo": "signoz",
-                "stars": 32266,
+                "stars": 32267,
                 "topics": [
                   "apm",
                   "application-monitoring",
@@ -4905,7 +4905,7 @@
             {
               "node_type": "item",
               "title": "documentation.js The documentation system for modern JavaScript",
-              "description": null,
+              "description": "documentationjs/documentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4932,7 +4932,7 @@
             {
               "node_type": "item",
               "title": "Docute: Effortless documentation, done right.",
-              "description": null,
+              "description": "egoist/docute",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4960,7 +4960,7 @@
             {
               "node_type": "item",
               "title": "ESDoc - Good Documentation for JavaScript",
-              "description": null,
+              "description": "esdoc/esdoc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4994,7 +4994,7 @@
             {
               "node_type": "item",
               "title": "TinyPNG client for Mac",
-              "description": null,
+              "description": "kyleduo/TinyPNG4Mac",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5027,7 +5027,7 @@
             {
               "node_type": "item",
               "title": "Tabler Icons: A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a 2px stroke.",
-              "description": null,
+              "description": "tabler/tabler-icons",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5040,7 +5040,7 @@
                 "open_issues": 88,
                 "owner": "tabler",
                 "repo": "tabler-icons",
-                "stars": 21877,
+                "stars": 21882,
                 "topics": [
                   "bootstrap-icons",
                   "components",
@@ -5063,7 +5063,7 @@
             {
               "node_type": "item",
               "title": "IconPark:IconPark gives access to more than 2000 high-quality icons, and introduces an interface for customizing your icons. Instead of using various SVG source files to achieve different themes, We implement a technology transforming attributes of a single SVG source file into multiple themes. Besides, we provide cross-platform components, including react-icons, vue-icons and svg-icons. So whether you are a designer or a developer, you can use them in your designs or your projects for free.",
-              "description": null,
+              "description": "bytedance/IconPark",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5076,7 +5076,7 @@
                 "open_issues": 799,
                 "owner": "bytedance",
                 "repo": "IconPark",
-                "stars": 9043,
+                "stars": 9044,
                 "topics": [
                   "fill",
                   "icon",
@@ -5103,7 +5103,7 @@
             {
               "node_type": "item",
               "title": "pnpm: Fast, disk space efficient package manager",
-              "description": null,
+              "description": "pnpm/pnpm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5112,11 +5112,11 @@
                 "id": 50565430,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-02T23:08:07Z",
-                "open_issues": 235,
+                "last_commit": "2026-10-03T05:13:08Z",
+                "open_issues": 236,
                 "owner": "pnpm",
                 "repo": "pnpm",
-                "stars": 36731,
+                "stars": 36733,
                 "topics": [
                   "dependency-manager",
                   "install",
@@ -5133,7 +5133,7 @@
             {
               "node_type": "item",
               "title": "Lerna: A tool for managing JavaScript projects with multiple packages.",
-              "description": null,
+              "description": "lerna/lerna",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5233,7 +5233,7 @@
         {
           "node_type": "item",
           "title": "Mock - A simulation data generator",
-          "description": null,
+          "description": "nuysoft/Mock",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5273,7 +5273,7 @@
             "open_issues": 780,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31761,
+            "stars": 31763,
             "topics": [
               "es6",
               "go",
@@ -5291,7 +5291,7 @@
         {
           "node_type": "item",
           "title": "ava - 🚀 Futuristic JavaScript test runner: Even though JavaScript is single-threaded, IO in Node.js can happen in parallel due to its async nature. AVA takes advantage of this and runs your tests concurrently, which is especially beneficial for IO heavy tests. In addition, test files are run in parallel as separate processes, giving you even better performance and an isolated environment for each test file. from Mocha to AVA in Pageres brought the test time down from 31 to 11 seconds. Having tests run concurrently forces you to write atomic tests, meaning tests don't depend on global state or the state of other tests, which is a great thing!",
-          "description": null,
+          "description": "avajs/ava",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5356,7 +5356,7 @@
         {
           "node_type": "item",
           "title": "Cucumber.js(BBD): Cucumber is a tool for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.",
-          "description": null,
+          "description": "cucumber/cucumber-js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5387,7 +5387,7 @@
         {
           "node_type": "item",
           "title": "axios - Promise based HTTP client for the browser and node.js",
-          "description": null,
+          "description": "axios/axios",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5414,7 +5414,7 @@
         {
           "node_type": "item",
           "title": "reqwest: All over again. Includes support for xmlHttpRequest, JSONP, CORS, and CommonJS Promises A. It is also isomorphic allowing you to require('reqwest') in Node.js through the peer dependency xhr2, albeit the original intent of this library is for the browser. For a more thorough solution for Node.js, see mikeal/request.",
-          "description": null,
+          "description": "ded/reqwest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5447,7 +5447,7 @@
         {
           "node_type": "item",
           "title": "Prettier is an opinionated code formatter",
-          "description": null,
+          "description": "prettier/prettier",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5456,11 +5456,11 @@
             "id": 75104123,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T19:19:15Z",
+            "last_commit": "2026-10-03T02:26:54Z",
             "open_issues": 1464,
             "owner": "prettier",
             "repo": "prettier",
-            "stars": 52315,
+            "stars": 52316,
             "topics": [
               "angular",
               "ast",
@@ -5487,7 +5487,7 @@
         {
           "node_type": "item",
           "title": "esbuild: An extremely fast JavaScript bundle",
-          "description": null,
+          "description": "evanw/esbuild",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5529,11 +5529,11 @@
             "id": 115110181,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T19:49:59Z",
-            "open_issues": 399,
+            "last_commit": "2026-10-03T02:54:10Z",
+            "open_issues": 393,
             "owner": "swc-project",
             "repo": "swc",
-            "stars": 34210,
+            "stars": 34211,
             "topics": [
               "babel",
               "compiler",
@@ -5555,7 +5555,7 @@
             {
               "node_type": "item",
               "title": "webpack-bundle-analyzer: Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap",
-              "description": null,
+              "description": "webpack/webpack-bundle-analyzer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5585,7 +5585,7 @@
             {
               "node_type": "item",
               "title": "Happypack: Happiness in the form of faster webpack build times.",
-              "description": null,
+              "description": "amireh/happypack",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5630,7 +5630,7 @@
                 "open_issues": 1476,
                 "owner": "tauri-apps",
                 "repo": "tauri",
-                "stars": 111557,
+                "stars": 111560,
                 "topics": [
                   "desktop-app",
                   "high-performance",
@@ -5657,7 +5657,7 @@
         {
           "node_type": "item",
           "title": "Gatsby: Blazing fast modern site generator for React Go beyond static sites: build blogs, e-commerce sites, full-blown apps, and more with Gatsby.",
-          "description": null,
+          "description": "gatsbyjs/gatsby",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5686,7 +5686,7 @@
         {
           "node_type": "item",
           "title": "react-static: A progressive static site generator for React.",
-          "description": null,
+          "description": "react-static/react-static",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5733,7 +5733,7 @@
             "open_issues": 460,
             "owner": "ffmpegwasm",
             "repo": "ffmpeg.wasm",
-            "stars": 17823,
+            "stars": 17824,
             "topics": [
               "audio",
               "experimental-features",
@@ -5800,7 +5800,7 @@
         {
           "node_type": "item",
           "title": "SoundManager2:A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.",
-          "description": null,
+          "description": "scottschiller/SoundManager2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5823,7 +5823,7 @@
             {
               "node_type": "item",
               "title": "video.js - An HTML5 & Flash video player",
-              "description": null,
+              "description": "videojs/video.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5856,7 +5856,7 @@
             {
               "node_type": "item",
               "title": "DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily.",
-              "description": null,
+              "description": "DIYgod/DPlayer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5869,7 +5869,7 @@
                 "open_issues": 268,
                 "owner": "DIYgod",
                 "repo": "DPlayer",
-                "stars": 16513,
+                "stars": 16514,
                 "topics": [
                   "danmaku",
                   "dash",
@@ -5922,7 +5922,7 @@
             {
               "node_type": "item",
               "title": "APlayer - A beautiful html5 music player",
-              "description": null,
+              "description": "DIYgod/APlayer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5949,7 +5949,7 @@
             {
               "node_type": "item",
               "title": "Broadway - A JavaScript H.264 decoder",
-              "description": null,
+              "description": "mbebenita/Broadway",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5970,7 +5970,7 @@
             {
               "node_type": "item",
               "title": "jwplayer - May be the world's most popular embeddable media player",
-              "description": null,
+              "description": "jwplayer/jwplayer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5991,7 +5991,7 @@
             {
               "node_type": "item",
               "title": "flowplayer - The HTML5 video player for the web",
-              "description": null,
+              "description": "flowplayer/flowplayer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -6052,7 +6052,7 @@
         {
           "node_type": "item",
           "title": "👍👍👍 Store.js: Cross-browser storage for all use cases, used across the web.",
-          "description": null,
+          "description": "marcuswestin/store.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6083,7 +6083,7 @@
             {
               "node_type": "item",
               "title": "👍👍 rxdb: A realtime Database for the Web",
-              "description": null,
+              "description": "pubkey/rxdb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6092,7 +6092,7 @@
                 "id": 75425073,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:35:09Z",
+                "last_commit": "2026-10-03T04:30:14Z",
                 "open_issues": 16,
                 "owner": "pubkey",
                 "repo": "rxdb",
@@ -6136,7 +6136,7 @@
         {
           "node_type": "item",
           "title": "FastClick is a simple, easy-to-use library for eliminating the 300ms delay between a physical tap and the firing of a click event on mobile browsers. The aim is to make your application feel less laggy and more responsive while avoiding any interference with your current logic.(Note: As of late 2015 most mobile browsers - notably Chrome and Safari - no longer have a 300ms touch delay, so fastclick offers no benefit on newer browsers, and risks introducing bugs into your application. Consider carefully whether you really need to use it.)",
-          "description": null,
+          "description": "ftlabs/fastclick",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -6163,7 +6163,7 @@
         {
           "node_type": "item",
           "title": "hammer.js: A javascript library for multi-touch gestures",
-          "description": null,
+          "description": "hammerjs/hammer.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6190,7 +6190,7 @@
         {
           "node_type": "item",
           "title": "👍✨💗 html2canvas: Screenshots with JavaScript",
-          "description": null,
+          "description": "niklasvh/html2canvas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6221,7 +6221,7 @@
         {
           "node_type": "item",
           "title": "AR.js: Efficient Augmented Reality for the Web - 60fps on mobile!",
-          "description": null,
+          "description": "jeromeetienne/AR.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6280,7 +6280,7 @@
         {
           "node_type": "item",
           "title": "XRegExp provides augmented (and extensible) JavaScript regular expressions. You get modern syntax and flags beyond what browsers support natively. XRegExp is also a regex utility belt with tools to make your grepping and parsing easier, while freeing you from regex cross-browser inconsistencies and other annoyances.XRegExp supports all native ES6 regular expression syntax. It supports ES5+ browsers, and you can use it with Node.js or as a RequireJS module.",
-          "description": null,
+          "description": "slevithan/xregexp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6311,7 +6311,7 @@
         {
           "node_type": "item",
           "title": "v8n: JavaScript fluent validation library",
-          "description": null,
+          "description": "imbrn/v8n",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6342,7 +6342,7 @@
         {
           "node_type": "item",
           "title": "react-firebase-starter: Boilerplate (seed) project for creating web apps with React.js, GraphQL.js and Relay",
-          "description": null,
+          "description": "kriasoft/react-firebase-starter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6390,7 +6390,7 @@
         {
           "node_type": "item",
           "title": "ximan/dropload: a javascript implementation of pull to refresh and up to loadmore",
-          "description": null,
+          "description": "ximan/dropload",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6417,7 +6417,7 @@
         {
           "node_type": "item",
           "title": "ramda: Practical functional Javascript",
-          "description": null,
+          "description": "ramda/ramda",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6447,7 +6447,7 @@
         {
           "node_type": "item",
           "title": "director: a tiny and isomorphic URL router for JavaScript",
-          "description": null,
+          "description": "flatiron/director",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6474,7 +6474,7 @@
         {
           "node_type": "item",
           "title": "emscripten: Emscripten compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.",
-          "description": null,
+          "description": "emscripten-core/emscripten",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6500,7 +6500,7 @@
         {
           "node_type": "item",
           "title": "Wasmer: Wasmer enables super lightweight containers based on WebAssembly that can run anywhere: from Desktop to the Cloud and IoT devices, and also embedded in any programming language.",
-          "description": null,
+          "description": "wasmerio/wasmer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6510,7 +6510,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-03T00:02:51Z",
-            "open_issues": 283,
+            "open_issues": 282,
             "owner": "wasmerio",
             "repo": "wasmer",
             "stars": 21118,
@@ -6541,8 +6541,8 @@
             "id": 224908244,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T11:31:38Z",
-            "open_issues": 146,
+            "last_commit": "2026-10-03T04:02:03Z",
+            "open_issues": 147,
             "owner": "WasmEdge",
             "repo": "WasmEdge",
             "stars": 10811,
@@ -6703,7 +6703,7 @@
             {
               "node_type": "item",
               "title": "nest: A progressive Node.js framework for building efficient and scalable server-side applications.",
-              "description": null,
+              "description": "nestjs/nest",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6712,8 +6712,8 @@
                 "id": 80945428,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T16:25:41Z",
-                "open_issues": 36,
+                "last_commit": "2026-10-03T04:23:37Z",
+                "open_issues": 37,
                 "owner": "nestjs",
                 "repo": "nest",
                 "stars": 76783,
@@ -6745,7 +6745,7 @@
             {
               "node_type": "item",
               "title": "http-proxy-middleware: Node.js proxying made simple. Configure proxy middleware with ease for connect, express, browser-sync and many more.",
-              "description": null,
+              "description": "chimurai/http-proxy-middleware",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6894,7 +6894,7 @@
             "open_issues": 764,
             "owner": "toeverything",
             "repo": "AFFiNE",
-            "stars": 73191,
+            "stars": 73193,
             "topics": [
               "app",
               "crdt",
@@ -6931,10 +6931,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T13:01:02Z",
-            "open_issues": 349,
+            "open_issues": 350,
             "owner": "marktext",
             "repo": "marktext",
-            "stars": 62056,
+            "stars": 62058,
             "topics": [
               "dark-mode",
               "editor",
@@ -6966,11 +6966,11 @@
             "id": 572984571,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T23:10:05Z",
+            "last_commit": "2026-10-03T04:54:24Z",
             "open_issues": 169,
             "owner": "twentyhq",
             "repo": "twenty",
-            "stars": 57834,
+            "stars": 57833,
             "topics": [
               "crm",
               "crm-system",
@@ -7009,7 +7009,7 @@
             "open_issues": 619,
             "owner": "tldraw",
             "repo": "tldraw",
-            "stars": 50716,
+            "stars": 50718,
             "topics": [
               "canvas",
               "collaboration",
@@ -7043,7 +7043,7 @@
             "open_issues": 217,
             "owner": "slidevjs",
             "repo": "slidev",
-            "stars": 48910,
+            "stars": 48911,
             "topics": [
               "markdown",
               "presentation",
@@ -7071,7 +7071,7 @@
             "open_issues": 46,
             "owner": "AykutSarac",
             "repo": "jsoncrack.com",
-            "stars": 44468,
+            "stars": 44469,
             "topics": [
               "csv",
               "diagrams",
@@ -7089,7 +7089,7 @@
         {
           "node_type": "item",
           "title": "Lepton is a lean code snippet manager powered by GitHub Gist.",
-          "description": null,
+          "description": "hackjutsu/Lepton",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7297,7 +7297,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:29:31.954Z",
+    "last_updated": "2026-10-03T05:14:29.127Z",
     "original_repository_info": {
       "archived": false,
       "description": "🧡 A curated list of awesome web development resources.",
